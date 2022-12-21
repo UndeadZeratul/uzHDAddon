@@ -10,3 +10,4 @@ Credits:
 - HexaDoken, for the Boss Variants' ironsight & HUD sprites
 - Icarus, for modified versions of Sonik.O/Railgunner Original Six12 sprites
 - Swampyrad, for the Obrozz HUD sprites
+- ChopBlock223, for the 10mm Pistol HUD Sprites based off of FreeDoom's Pistol Sprites
