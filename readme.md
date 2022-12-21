@@ -8,6 +8,10 @@ Default Hideous Destructor Front & Back Ironsights
 
 ## Recolored Weapons:
 
+### Revolver
+
+![revolver](./screenshots/revolver.png)
+
 ### Brontornis
 
 ![brontornis](./screenshots/brontornis.png)
@@ -63,3 +67,4 @@ _Requires PD42_
 - Swampyrad, for the Obrozz HUD sprites
 - ChopBlock223, for the 10mm Pistol HUD Sprites based off of FreeDoom's Pistol Sprites
 - Ultra64, for the Vera ironsight & HUD sprites
+- Scuba Steve for the original Revolver sprites
