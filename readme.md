@@ -9,3 +9,4 @@ Credits:
 - AdianoTMO69, for the Shortened version of PrettyFist's Greely HUD sprites
 - HexaDoken, for the Boss Variants' ironsight & HUD sprites
 - Icarus, for modified versions of Sonik.O/Railgunner Original Six12 sprites
+- Swampyrad, for the Obrozz HUD sprites
