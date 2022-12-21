@@ -9,8 +9,9 @@ Default Hideous Destructor Front & Back Ironsights
 ## Recolored Weapons:
 
 ### Revolver
+_Scoped Revolver requires Peppergrinder_
 
-![revolver](./screenshots/revolver.png)
+![revolver](./screenshots/revolver.png) ![scoped-revolver](./screenshots/scoped-revolver.png)
 
 ### Brontornis
 
