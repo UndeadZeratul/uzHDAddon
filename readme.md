@@ -7,3 +7,4 @@ Credits:
 - Matt, for creating Hideous Destructor itself, including the Brontornis HUD Sprites as well as the default ironsight sprites
 - PrettyFist, for the Greely pickup & HUD sprites
 - AdianoTMO69, for the Shortened version of PrettyFist's Greely HUD sprites
+- HexaDoken, for the Boss Variants' ironsight & HUD sprites
