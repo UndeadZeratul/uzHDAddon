@@ -11,3 +11,4 @@ Credits:
 - Icarus, for modified versions of Sonik.O/Railgunner Original Six12 sprites, as well as the PD-42's HUD sprites & Pickup sprites modified from various pickup sprites from Railgunner
 - Swampyrad, for the Obrozz HUD sprites
 - ChopBlock223, for the 10mm Pistol HUD Sprites based off of FreeDoom's Pistol Sprites
+- Ultra64, for the Vera ironsight & HUD sprites
