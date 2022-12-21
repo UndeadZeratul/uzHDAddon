@@ -5,6 +5,7 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 Credits:
 
 - Matt, for creating Hideous Destructor itself, including the Brontornis HUD Sprites as well as the default ironsight sprites
+- Dizzy, for giving me the inspiration to make my own HDest Addon
 - PrettyFist, for the Greely pickup & HUD sprites, as well as the P90 HUD & ironsight sprites
 - AdianoTMO69, for the Shortened version of PrettyFist's Greely HUD sprites
 - HexaDoken, for the Boss Variants' ironsight & HUD sprites
