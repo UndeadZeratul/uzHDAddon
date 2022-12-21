@@ -68,3 +68,4 @@ _Requires PD42_
 - ChopBlock223, for the 10mm Pistol HUD Sprites based off of FreeDoom's Pistol Sprites
 - Ultra64, for the Vera ironsight & HUD sprites
 - Scuba Steve for the original Revolver sprites
+- A1337Spy, for the TRO-G ironsight sprite
