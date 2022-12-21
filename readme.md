@@ -4,7 +4,8 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 
 ## Recolored Ironsights:
 
-Default Hideous Destructor Front & Back Ironsights
+- Default Hideous Destructor Front & Back Ironsights
+- TRO-G Front Ironsight
 
 ## Recolored Weapons:
 
