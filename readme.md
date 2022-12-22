@@ -6,8 +6,13 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 - Default Hideous Destructor Front & Back Ironsights
 - TRO-G Front Ironsight
 
-## Recolored Weapons:
+## Weapon Sprite Changes:
 _Note: Some weapons included have the crosshair color "baked" into the sprite, and for those weapons I have taken the liberty of tweaking the in-game sprite to match my personal crosshair color.  If you would like your crosshair color to match, simply update the color in the main GZDoom options menu to `#673ab7`_
+
+### Pistol
+Swapped out with Glock18 sprites.  "Quick Swap" sprite has correctly flipped pistol sprite, as well.
+
+![pistol](./screenshots/pistol.png)
 
 ### Revolver
 _Scoped Revolver requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
