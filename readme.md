@@ -10,7 +10,7 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 _Note: Some weapons included have the crosshair color "baked" into the sprite, and for those weapons I have taken the liberty of tweaking the in-game sprite to match my personal crosshair color.  If you would like your crosshair color to match, simply update the color in the main GZDoom options menu to `#673ab7`_
 
 ### Pistol
-Swapped out with Glock18 sprites.  "Quick Swap" sprite has correctly flipped pistol sprite, as well.
+The pistol has been swapped out with Glock18 sprites.  "Quick Swap" sprite has correctly flipped pistol sprite, as well.
 
 ![pistol](./screenshots/pistol.png)
 
@@ -46,6 +46,14 @@ _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder
 The Greely's main body has been recolored ~~so Player 2 can have a turn~~ to tie in the weapon with the rest of the arsenal.
 
 ![greely12](./screenshots/greely12.png)
+
+### Combat Shotgun
+_Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
+
+The Combat Shotgun has been swapped out with the Duke3D Shotgun.
+
+![combat-shotgun](./screenshots/combat-shotgun.png)
+
 
 ### Vera 
 _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
@@ -94,4 +102,5 @@ The PD-42's body has been recolored to give better visual contrast between it an
 - ChopBlock223, for the 10mm Pistol HUD Sprites based off of FreeDoom's Pistol Sprites
 - Ultra64, for the Vera ironsight & HUD sprites
 - Scuba Steve for the original Revolver sprites
-- A1337Spy, for the TRO-G ironsight sprite- JoeyTD & Minigunner, for the Glock18 Pistol Sprites (Quick Swap sprites flipped by me)
+- A1337Spy, for the TRO-G ironsight sprite
+- JoeyTD & Minigunner, for the Glock18 Pistol Sprites (Quick Swap sprites flipped by me), as well as the Duke3D Shotgun Sprites
