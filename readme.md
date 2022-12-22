@@ -21,6 +21,11 @@ The Revolver's main body and Ironsights have been recolored, which also applies 
 
 ![revolver](./screenshots/revolver.png) ![scoped-revolver](./screenshots/scoped-revolver.png)
 
+### Hunter Shotgun
+The hunter has been swapped out for with Complex Doom's Shotgun sprites, then recolored to match thematically.
+
+![hunter](./screenshots/hunter.png)
+
 ### Brontornis
 The Brontornis' Ironsight dot has been updated to match the default Front Sight sprite.
 
@@ -104,3 +109,5 @@ The PD-42's body has been recolored to give better visual contrast between it an
 - Scuba Steve for the original Revolver sprites
 - A1337Spy, for the TRO-G ironsight sprite
 - JoeyTD & Minigunner, for the Glock18 Pistol Sprites (Quick Swap sprites flipped by me), as well as the Duke3D Shotgun Sprites
+- Daedalus, for the Shotgun HUD Sprites
+- ZikShadow, for the modified versions of Daedalus' Original Shotgun Pickup Sprites
