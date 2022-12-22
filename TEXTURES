@@ -1,0 +1,32 @@
+/***************************
+ *     Texture Patches     *
+ ***************************/
+
+// Correct the Pistol Pickup Sprites
+sprite PISTA0,27,15
+{
+	offset 13,15
+	xscale 1.5
+	yscale 1.5
+	patch PISTA0,0,0{}
+}
+sprite PISTB0,30,15{
+	offset 16,15
+	xscale 1.5
+	yscale 1.5
+	patch PISTB0,0,0{}
+}
+sprite PISTC0,27,15{
+	offset 13,15
+	xscale 1.5
+	yscale 1.5
+	patch PISTA0,0,0{}
+	patch FIRESEL,11,5{}
+}
+sprite PISTD0,30,15{
+	offset 16,15
+	xscale 1.5
+	yscale 1.5
+	patch PISTB0,0,0{}
+	patch FIRESEL,14,5{}
+}
