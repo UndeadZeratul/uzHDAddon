@@ -41,21 +41,21 @@ The 10mm Pistol's rear Ironsight dots have been recolored to match the default S
 ### Obrozz Pistol
 _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
 
-The Obrozz Pistol's scope lens has been recolored to differentiate it from the base Boss as well as tie it in with the rest of the recolored arsenal.
+The Obrozz Pistol's scope lens has been recolored to differentiate it from the base Boss as well as match thematically.
 
 ![obrozz](./screenshots/obrozz.png)
 
 ### Greely
 _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
 
-The Greely's main body has been recolored ~~so Player 2 can have a turn~~ to tie in the weapon with the rest of the arsenal.
+The Greely's main body has been recolored ~~so Player 2 can have a turn~~ to match thematically.
 
 ![greely12](./screenshots/greely12.png)
 
 ### Combat Shotgun
 _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
 
-The Combat Shotgun has been swapped out with the Duke3D Shotgun.
+The Combat Shotgun has been swapped out with the Duke3D Shotgun, which as then had its ironsights recolored to match the reticle colors.
 
 ![combat-shotgun](./screenshots/combat-shotgun.png)
 
@@ -84,14 +84,14 @@ The Scopeless Boss Rifle has had its Ironsight dots recolored to match the retic
 ### Six-12 Shotgun
 _Requires [Six12](https://gitlab.com/icarus-innovations/hdest-addons/six12)_
 
-The Six12 Shotgun's body & Ironsight sprites have been recolored to match thematically match the rest of the arsenal.
+The Six12 Shotgun's body & Ironsight sprites have been recolored to match thematically.
 
 ![six12](./screenshots/six12.png)
 
 ### PD-42
 _Requires [PD42](https://gitlab.com/icarus-innovations/hdest-addons/pd-42)_
 
-The PD-42's body has been recolored to give better visual contrast between it and the player's gloves, as well as tie it in with the rest of the arsenal.  The Ironsight dot has also been updated to match the crosshair color.
+The PD-42's body has been recolored to give better visual contrast between it and the player's gloves, as well match thematically.  The Ironsight dot has also been updated to match the crosshair color.
 
 ![pd-42](./screenshots/pd-42.png)
 
