@@ -14,7 +14,7 @@ jobs:
       - name: build PK3
         uses: montudor/action-zip@v1.0.0
         with:
-          args: zip -r "dist/uzHDAddon-${{ github.ref }}.pk3" . -i graphics/* patches/* sprites/* readme.md TEXTURES
+          args: zip -r "dist/uzHDAddon-${{ github.ref_name }}.pk3" . -i graphics/* patches/* sprites/* readme.md TEXTURES
       - name: Release PK3
         uses: softprops/action-gh-release@v0.1.15
         with:
