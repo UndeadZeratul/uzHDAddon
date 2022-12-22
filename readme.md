@@ -10,7 +10,7 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 _Note: Some weapons included have the crosshair color "baked" into the sprite, and for those weapons I have taken the liberty of tweaking the in-game sprite to match my personal crosshair color.  If you would like your crosshair color to match, simply update the color in the main GZDoom options menu to `#673ab7`_
 
 ### Pistol
-The pistol has been swapped out with Glock18 sprites.  "Quick Swap" sprite has correctly flipped pistol sprite, as well.
+The pistol has been swapped out with Glock18 sprites, then recolored to match thematically.  The "Quick Swap" set of sprites have the pistol correctly flipped, as well.
 
 ![pistol](./screenshots/pistol.png)
 
