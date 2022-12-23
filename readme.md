@@ -74,6 +74,13 @@ The P90 has had its sight dot recolored to match the reticle color.
 
 ![p90](./screenshots/p90.png)
 
+### ZM94 "Sniperwolf" Anti-Material Rifle
+_Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
+
+The ZM94 has been swapped out with the [ZM69]() Sniper Rifle sprites, as well as have its scope lens recolored to match thematically.
+
+![zm94](./screenshots/zm94.png)
+
 ### Scopeless Boss Rifle 
 _Requires Hexadoken's Legacy Continued_
 
@@ -111,3 +118,4 @@ The PD-42's body has been recolored to give better visual contrast between it an
 - JoeyTD & Minigunner, for the Glock18 Pistol Sprites (Quick Swap sprites flipped by me), as well as the Duke3D Shotgun Sprites
 - Daedalus, for the Shotgun HUD Sprites
 - ZikShadow, for the modified versions of Daedalus' Original Shotgun Pickup Sprites
+- Tartlman (a.k.a. bogus), for the ZM69 pickup & HUD sprites based off of Hideous Destructor's ZM66 sprites
