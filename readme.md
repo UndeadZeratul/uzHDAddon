@@ -104,18 +104,18 @@ The PD-42's body has been recolored to give better visual contrast between it an
 
 ## Credits:
 
-- Matt, for creating Hideous Destructor itself, including the Brontornis HUD Sprites as well as the default ironsight sprites
+- Matt, for creating Hideous Destructor itself, including the Brontornis HUD Sprites, as well as the default ironsight sprites
 - Dizzy, for giving me the inspiration to make my own HDest Addon
 - PrettyFist, for the Greely pickup & HUD sprites, as well as the P90 HUD & ironsight sprites, as well as the modified versions of Sonik.O's Scoped Revolver sprites
 - AdianoTMO69, for the Shortened version of PrettyFist's Greely HUD sprites
 - HexaDoken, for the Boss Variants' ironsight & HUD sprites
-- Icarus, for modified versions of Sonik.O/Railgunner Original Six12 sprites, as well as the PD-42's HUD sprites & Pickup sprites modified from various pickup sprites from Railgunner
+- Icarus, for modified versions of Sonik.O/Railgunner's Original Six12 sprites, as well as the PD-42's HUD sprites & Pickup sprites modified from various pickup sprites from Railgunner
 - Swampyrad, for the Obrozz HUD sprites
-- ChopBlock223, for the 10mm Pistol HUD Sprites based off of FreeDoom's Pistol Sprites
+- ChopBlock223, for the 10mm Pistol HUD sprites based off of FreeDoom's Pistol sprites
 - Ultra64, for the Vera ironsight & HUD sprites
 - Scuba Steve for the original Revolver sprites
 - A1337Spy, for the TRO-G ironsight sprite
-- JoeyTD & Minigunner, for the Glock18 Pistol Sprites (Quick Swap sprites flipped by me), as well as the Duke3D Shotgun Sprites
-- Daedalus, for the Shotgun HUD Sprites
-- ZikShadow, for the modified versions of Daedalus' Original Shotgun Pickup Sprites
+- JoeyTD & Minigunner, for the Glock18 Pistol Sprites (Quick Swap sprites flipped by me), as well as the Duke3D Shotgun sprites
+- Daedalus, for the Shotgun HUD sprites
+- ZikShadow, for the modified versions of Daedalus' original shotgun pickup sprites
 - Tartlman (a.k.a. bogus), for the ZM69 pickup & HUD sprites based off of Hideous Destructor's ZM66 sprites
