@@ -82,7 +82,7 @@ The ZM94 has been swapped out with the [ZM69]() Sniper Rifle sprites, as well as
 ![zm94](./screenshots/zm94.png)
 
 ### Scopeless Boss Rifle 
-_Requires Hexadoken's Legacy Continued_
+_Requires [Hexadoken's Legacy Continued](https://github.com/Gay-Snake-Squad/HexaDoken-Legacy-Continued)_
 
 The Scopeless Boss Rifle has had its Ironsight dots recolored to match the reticle sight sprites.
 
