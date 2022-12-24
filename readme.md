@@ -9,6 +9,7 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 - Default Hideous Destructor Front & Back Ironsights
 
 ### Peppergrinder
+- HLAR 9mm AR Front Ironsight
 - TRO-G AR Front Ironsight
 
 ---
@@ -119,7 +120,7 @@ The PD-42's body has been recolored to give better visual contrast between it an
 - Icarus, for modified versions of Sonik.O/Railgunner's Original Six12 sprites, as well as the PD-42's HUD sprites & Pickup sprites modified from various pickup sprites from Railgunner
 - Swampyrad, for the Obrozz HUD sprites
 - ChopBlock223, for the 10mm Pistol HUD sprites based off of FreeDoom's Pistol sprites
-- Ultra64, for the Vera ironsight & HUD sprites
+- Ultra64, for the Vera and HLAR sprites
 - Scuba Steve for the original Revolver sprites
 - A1337Spy, for the TRO-G ironsight sprite
 - JoeyTD & Minigunner, for the Glock18 Pistol Sprites (Quick Swap sprites flipped by me), as well as the Duke3D Shotgun sprites
