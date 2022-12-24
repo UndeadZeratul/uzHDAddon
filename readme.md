@@ -2,11 +2,17 @@
 
 This is my personal collection of recolor/resprite/resound assets for the GZDoom gameplay mod, "Hideous Destructor".  As it's my personal collection of changes, there are several various mods it makes changes to.
 
-## Recolored Ironsights:
-- Default Hideous Destructor Front & Back Ironsights
-- TRO-G Front Ironsight
+---
+## Recolored Ironsights
 
-## Weapon Sprite Changes:
+### Vanilla Hideous Destructor
+- Default Hideous Destructor Front & Back Ironsights
+
+### Peppergrinder
+- TRO-G AR Front Ironsight
+
+---
+## Weapon Sprite Changes
 _Note: Some weapons included have the crosshair color "baked" into the sprite, and for those weapons I have taken the liberty of tweaking the in-game sprite to match my personal crosshair color.  If you would like your crosshair color to match, simply update the color in the main GZDoom options menu to `#673ab7`_
 
 ### Pistol
@@ -102,7 +108,8 @@ The PD-42's body has been recolored to give better visual contrast between it an
 
 ![pd-42](./screenshots/pd-42.png)
 
-## Credits:
+---
+## Credits
 
 - Matt, for creating Hideous Destructor itself, including the Brontornis HUD Sprites, as well as the default ironsight sprites
 - Dizzy, for giving me the inspiration to make my own HDest Addon
