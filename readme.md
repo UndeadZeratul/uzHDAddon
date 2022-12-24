@@ -10,6 +10,7 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 
 ### Peppergrinder
 - HLAR 9mm AR Front Ironsight
+- BPX Pistol-caliber Carbine Rifle Back Ironsight
 - TRO-G AR Front Ironsight
 
 ---
@@ -120,9 +121,9 @@ The PD-42's body has been recolored to give better visual contrast between it an
 - Icarus, for modified versions of Sonik.O/Railgunner's Original Six12 sprites, as well as the PD-42's HUD sprites & Pickup sprites modified from various pickup sprites from Railgunner
 - Swampyrad, for the Obrozz HUD sprites
 - ChopBlock223, for the 10mm Pistol HUD sprites based off of FreeDoom's Pistol sprites
-- Ultra64, for the Vera and HLAR sprites
+- Ultra64, for the HLAR and Vera sprites
 - Scuba Steve for the original Revolver sprites
-- A1337Spy, for the TRO-G ironsight sprite
+- A1337Spy, for the BPX and TRO-G sprites
 - JoeyTD & Minigunner, for the Glock18 Pistol Sprites (Quick Swap sprites flipped by me), as well as the Duke3D Shotgun sprites
 - Daedalus, for the Shotgun HUD sprites
 - ZikShadow, for the modified versions of Daedalus' original shotgun pickup sprites
