@@ -10,7 +10,8 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 
 ### Peppergrinder
 - HLAR 9mm AR Front Ironsight
-- BPX Pistol-caliber Carbine Rifle Back Ironsight
+- BPX 9mm Carbine Rifle Back Ironsight
+- Sig-Cow 10mm Carbine Rifle Back Ironsight
 - TRO-G AR Front Ironsight
 
 ---
@@ -119,7 +120,7 @@ The PD-42's body has been recolored to give better visual contrast between it an
 - AdianoTMO69, for the Shortened version of PrettyFist's Greely HUD sprites
 - HexaDoken, for the Boss Variants' ironsight & HUD sprites
 - Icarus, for modified versions of Sonik.O/Railgunner's Original Six12 sprites, as well as the PD-42's HUD sprites & Pickup sprites modified from various pickup sprites from Railgunner
-- Swampyrad, for the Obrozz HUD sprites
+- Swampyrad, for the Obrozz HUD sprites, as well as the Sig-Cow Ironsight sprites
 - ChopBlock223, for the 10mm Pistol HUD sprites based off of FreeDoom's Pistol sprites
 - Ultra64, for the HLAR and Vera sprites
 - Scuba Steve for the original Revolver sprites
