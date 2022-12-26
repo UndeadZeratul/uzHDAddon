@@ -35,6 +35,11 @@ The hunter has been swapped out for with Complex Doom's Shotgun sprites, then re
 
 ![hunter](./screenshots/hunter.png)
 
+### Blooper Grenade Launcher
+The Blooper has been swapped out for a Break-Action Grenade Launcher by Sonik.O.
+
+![blooper](./screenshots/blooper.png)
+
 ### Brontornis
 The Brontornis' Ironsight dot has been updated to match the default Front Sight sprite.
 
@@ -146,4 +151,4 @@ The Medical Backpack always felt off to be carrying multiple "full-size" backpac
 - ZikShadow, for the modified versions of Daedalus' original shotgun pickup sprites
 - Tartlman (a.k.a. bogus), for the ZM69 pickup & HUD sprites based off of Hideous Destructor's ZM66 sprites
 - Zrrion, for the Medical Pouch sprite
-- id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, TSF, ChopBlock223; for the Sawed-Off Slayer HUD sprites
+- id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223; for the Sawed-Off Slayer HUD sprites
