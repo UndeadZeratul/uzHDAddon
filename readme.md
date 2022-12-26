@@ -61,6 +61,13 @@ The Greely's main body has been recolored ~~so Player 2 can have a turn~~ to mat
 
 ![greely12](./screenshots/greely12.png)
 
+### Sawed-Off Slayer
+_Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
+
+The Sawed-Off Slayer has been given a set of sprites to help it feel more hand-held.
+
+![sawed-slayer](./screenshots/sawed-slayer.png)
+
 ### Combat Shotgun
 _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
 
@@ -129,3 +136,4 @@ The PD-42's body has been recolored to give better visual contrast between it an
 - Daedalus, for the Shotgun HUD sprites
 - ZikShadow, for the modified versions of Daedalus' original shotgun pickup sprites
 - Tartlman (a.k.a. bogus), for the ZM69 pickup & HUD sprites based off of Hideous Destructor's ZM66 sprites
+- id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, TSF, ChopBlock223; for the Sawed-Off Slayer HUD sprites
