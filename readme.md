@@ -118,6 +118,15 @@ The PD-42's body has been recolored to give better visual contrast between it an
 
 ![pd-42](./screenshots/pd-42.png)
 
+## Item Sprite Changes
+
+### Medical Backpack
+_Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)
+
+The Medical Backpack always felt off to be carrying multiple "full-size" backpacks alongside the main backpack, as well as the Logistics Bag Cozi's provides.  Instead, it has been swapped out with one that looks more like the Ammo Pouch instead.
+
+![medical-bag](./screenshots/medical-bag.png)
+
 ---
 ## Credits
 
@@ -136,4 +145,5 @@ The PD-42's body has been recolored to give better visual contrast between it an
 - Daedalus, for the Shotgun HUD sprites
 - ZikShadow, for the modified versions of Daedalus' original shotgun pickup sprites
 - Tartlman (a.k.a. bogus), for the ZM69 pickup & HUD sprites based off of Hideous Destructor's ZM66 sprites
+- Zrrion, for the Medical Pouch sprite
 - id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, TSF, ChopBlock223; for the Sawed-Off Slayer HUD sprites
