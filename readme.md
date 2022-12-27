@@ -31,7 +31,7 @@ The Revolver's main body and Ironsights have been recolored, which also applies 
 ![revolver](./screenshots/revolver.png) ![scoped-revolver](./screenshots/scoped-revolver.png)
 
 ### Hunter Shotgun
-The hunter has been swapped out for with Complex Doom's Shotgun sprites, then recolored to match thematically.
+The hunter has been swapped out with Complex Doom's Shotgun sprites, then recolored to match thematically.
 
 ![hunter](./screenshots/hunter.png)
 
