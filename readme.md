@@ -152,3 +152,4 @@ The Medical Backpack always felt off to be carrying multiple "full-size" backpac
 - Tartlman (a.k.a. bogus), for the ZM69 pickup & HUD sprites based off of Hideous Destructor's ZM66 sprites
 - Zrrion, for the Medical Pouch sprite
 - id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223; for the Sawed-Off Slayer HUD sprites
+- Sonik.O for the UAC Break-Action Grenade Launcher HUD & pickup sprites
