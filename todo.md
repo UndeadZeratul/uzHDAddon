@@ -15,7 +15,7 @@
 - ~~Kelenken Minigun~~
 
 ### Radtech Weapons
-- 10mm Pistol front sight
+- ~~10mm Pistol front sight~~
 - Detective Special Revolver
 - Hush Puppy Silenced Pistol
 - Juan Pistol
