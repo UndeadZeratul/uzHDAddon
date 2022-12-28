@@ -80,6 +80,12 @@ The Combat Shotgun has been swapped out with the Duke3D Shotgun, which as then h
 
 ![combat-shotgun](./screenshots/combat-shotgun.png)
 
+### TRO-G AR
+_Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
+
+The TRO-G has had its front ironsight modified to match thematically.
+
+![trog](./screenshots/trog.png)
 
 ### Vera 
 _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
@@ -145,7 +151,8 @@ The Medical Backpack always felt off to be carrying multiple "full-size" backpac
 - ChopBlock223, for the 10mm Pistol HUD sprites based off of FreeDoom's Pistol sprites
 - Ultra64, for the HLAR and Vera sprites
 - Scuba Steve for the original Revolver sprites
-- A1337Spy, for the BPX and TRO-G sprites
+- A1337Spy, for the BPX sprites
+- A1337Spy, HyperUltra64, and Sledge for the modified versions of Chopblock's TRO-G sprites
 - JoeyTD & Minigunner, for the Glock18 Pistol Sprites (Quick Swap sprites flipped by me), as well as the Duke3D Shotgun sprites
 - Daedalus, for the Shotgun HUD sprites
 - ZikShadow, for the modified versions of Daedalus' original shotgun pickup sprites

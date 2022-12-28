@@ -8,6 +8,7 @@
 ### Peppergrinder
 - Bastard Rifle
 - Pistol Carbine Rifle
+- ~~TRO-G front sight~~
 - ~~ZM94 "Saberwolf" Sniper Rifle~~
 
 ### ~~Potetobloke's Weapons~~
