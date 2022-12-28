@@ -8,7 +8,7 @@ class UZ_PB_HDWeapon_Spawner : PB_HDWeapon_Spawner
 	}
 
 	override void CheckReplacement(ReplaceEvent e) {
-		if (!PB_HDWeps_AllowReplacement) return;
+		if (!UZ_PB_HDWeps_AllowReplacement) return;
 		
 		switch (e.Replacee.GetClassName()) {
 		
