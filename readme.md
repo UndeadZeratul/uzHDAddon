@@ -131,13 +131,19 @@ The PD-42's body has been recolored to give better visual contrast between it an
 
 ## Item Sprite Changes
 
-### Medical Backpack
+### Medical Bag
 _Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)
 
-The Medical Backpack always felt off to be carrying multiple "full-size" backpacks alongside the main backpack, as well as the Logistics Bag Cozi's provides.  Instead, it has been swapped out with one that looks more like the Ammo Pouch instead.
+The Medical Bag always felt off to be carrying multiple "full-size" backpacks alongside the main backpack.  Instead, it has been swapped out with one that more closely resembles the Ammo Pouch.
 
 ![medical-bag](./screenshots/medical-bag.png)
 
+### Logistics Bag
+_Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)
+
+The Logistics Bag also always felt off to be carrying multiple "full-size" backpacks alongside the main backpack.  Instead, it has been swapped out with the original "Gunsmith Pouch" from the mod of the same name, so that it more closely resembles the Ammo Pouch.
+
+![logistics-bag](./screenshots/logistics-bag.png)
 ---
 ## Credits
 
@@ -160,3 +166,4 @@ The Medical Backpack always felt off to be carrying multiple "full-size" backpac
 - Zrrion, for the Medical Pouch sprite
 - id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223; for the Sawed-Off Slayer HUD sprites
 - Sonik.O for the UAC Break-Action Grenade Launcher HUD & pickup sprites
+- Skelegant, for the [Gunsmith Pouch](https://dastrukar.gitlab.io/hddons-list/#utilities:gunsmithpouch-mohl) sprite used in Mohl's mod of the same name
