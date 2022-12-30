@@ -138,6 +138,32 @@ The PD-42's body has been recolored to give better visual contrast between it an
 
 ## Item Sprite Changes
 
+
+### Garrison Armor
+The Garrison Armor has been replaced to give it a more "all-purpose" feel.
+
+![garrison-armor](./screenshots/garrison-armor.png)
+
+### Sneaking Suit
+_Requires [Sneaking Suit](https://codeberg.org/Wanzer/HDst_WAN_SneakingSuit)_
+
+The Sneaking Suit has been replaced to fit the dimensions of the rest of the armors while also giving it a more lightweight/tactical feel.
+
+![sneaking-suit](./screenshots/sneaking-suit.png)
+
+### UAC Corporate Armor
+_Requires [UAC Corporate Armor](https://codeberg.org/TwelveEyes/hd_uacarmour/)_
+
+The UAC Corporate Armor has been replaced to give it a more "tech-armor" feel.
+
+![corpo-armor](./screenshots/corpo-armor.png)
+
+### HEV Armor
+_Requires [HEV Armor](https://gitlab.com/icarus-innovations/hdest-addons/hev-armor)_
+
+The HEV Armor has been replaced to make it less of a simple recolor.
+
+![hev-armor](./screenshots/hev-armor.png)
 ### Medical Bag
 _Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)
 
@@ -175,3 +201,6 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 - Sonik.O for the UAC Break-Action Grenade Launcher HUD & pickup sprites
 - Sgt. Shivers, for the Plasma Pistol HUD & pickup sprites (Phazer)
 - Skelegant, for the [Gunsmith Pouch](https://dastrukar.gitlab.io/hddons-list/#utilities:gunsmithpouch-mohl) sprite used in Mohl's mod of the same name
+- Ghastly Dragon, for the Tech Armor sprite (UAC Corporate Armor)
+- Lightsource, for the HD Armor sprite (HEV Armor)
+- SoloSpaghetti, for the Bulletproof Vest sprite (Sneaking Suit), as well as the Tactical Armor sprite (Garrison Armor)
