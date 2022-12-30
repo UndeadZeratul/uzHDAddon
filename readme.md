@@ -179,14 +179,14 @@ The Field Assembly Kit crate has been replaced to preserve the UAC logo, rather 
 ![field-assembly-kit](./screenshots/field-assembly-kit.png)
 
 ### Medical Bag
-_Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)
+_Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)_
 
 The Medical Bag always felt off to be carrying multiple "full-size" backpacks alongside the main backpack.  Instead, it has been swapped out with one that more closely resembles the Ammo Pouch.
 
 ![medical-bag](./screenshots/medical-bag.png)
 
 ### Logistics Bag
-_Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)
+_Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)_
 
 The Logistics Bag also always felt off to be carrying multiple "full-size" backpacks alongside the main backpack.  Instead, it has been swapped out with the original "Gunsmith Pouch" from the mod of the same name, so that it more closely resembles the Ammo Pouch.
 
