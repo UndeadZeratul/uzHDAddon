@@ -170,6 +170,14 @@ _Requires [HEV Armor](https://gitlab.com/icarus-innovations/hdest-addons/hev-arm
 The HEV Armor has been replaced to make it less of a simple recolor.
 
 ![hev-armor](./screenshots/hev-armor.png)
+
+### Field Assembly Kit
+_Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)_
+
+The Field Assembly Kit crate has been replaced to preserve the UAC logo, rather than Ace's personal logo.
+
+![field-assembly-kit](./screenshots/field-assembly-kit.png)
+
 ### Medical Bag
 _Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)
 
@@ -211,3 +219,4 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 - Ghastly Dragon, for the Tech Armor sprite (UAC Corporate Armor)
 - Lightsource, for the HD Armor sprite (HEV Armor)
 - SoloSpaghetti, for the Bulletproof Vest sprite (Sneaking Suit), as well as the Tactical Armor sprite (Garrison Armor)
+- Yholl, for the Supply Crate sprite (Field Assembly Kit)
