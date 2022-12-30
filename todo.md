@@ -1,6 +1,11 @@
 # Things left to do:
 
 ---
+
+## Redo Readme
+- Place credits alongside each thing altered for better context around who made what.
+
+---
 ## Recolors
 ## Hexadoken's Legacy Continued
 - No-Scope Boss front sight
@@ -25,6 +30,7 @@
 ## Resprites
 
 - Blooper Grenade Launcher front sight
+- Bullet Casings
 
 ### Peppergrinder
 - ~~ZM94 "Saberwolf" Sniper Rifle~~
@@ -33,6 +39,6 @@
 - Explosive Shotgun
 
 ---
-## Spawn Adjustments
-- Disable most of Potetobloke's Weapons
-	- Keep Fire Axe, Knife, Fire Extinguisher, Sledgehammer
+## ~~Spawn Adjustments~~
+- ~~Disable most of Potetobloke's Weapons~~
+	- ~~Keep Fire Axe, Knife, Fire Extinguisher, Sledgehammer~~
