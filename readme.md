@@ -154,7 +154,7 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 - HexaDoken, for the Boss Variants' ironsight & HUD sprites
 - Icarus, for modified versions of Sonik.O/Railgunner's Original Six12 sprites, as well as the PD-42's HUD sprites & Pickup sprites modified from various pickup sprites from Railgunner
 - Swampyrad, for the Obrozz HUD sprites, as well as the Sig-Cow Ironsight sprites
-- ChopBlock223, for the 10mm Pistol HUD sprites based off of FreeDoom's Pistol sprites
+- ChopBlock223, for the 10mm Pistol sprites based off of FreeDoom's Pistol sprites
 - Ultra64, for the HLAR and Vera sprites
 - Scuba Steve for the original Revolver sprites
 - A1337Spy, for the BPX sprites
