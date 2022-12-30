@@ -52,6 +52,13 @@ The 10mm Pistol's rear Ironsight dots have been recolored to match the default S
 
 ![10mm-pistol](./screenshots/10mm-pistol.png)
 
+### Phazer
+_Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
+
+The Phazer has been swapped out with a more fitting D-93 Plasma Pistol.
+
+![phazer](./screenshots/phazer.png)
+
 ### Obrozz Pistol
 _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
 
@@ -166,4 +173,5 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 - Zrrion, for the Medical Pouch sprite
 - id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223; for the Sawed-Off Slayer HUD sprites
 - Sonik.O for the UAC Break-Action Grenade Launcher HUD & pickup sprites
+- Sgt. Shivers, for the Plasma Pistol HUD & pickup sprites (Phazer)
 - Skelegant, for the [Gunsmith Pouch](https://dastrukar.gitlab.io/hddons-list/#utilities:gunsmithpouch-mohl) sprite used in Mohl's mod of the same name
