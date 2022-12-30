@@ -138,6 +138,12 @@ The PD-42's body has been recolored to give better visual contrast between it an
 
 ## Item Sprite Changes
 
+### HUD Helmet
+_Requires [Hideous Helmet](https://forum.zdoom.org/viewtopic.php?f=43&t=71950)_
+
+The HUD Helmet has been replaced for personal preference.
+
+![hud-helmet](./screenshots/hud-helmet.png)
 
 ### Garrison Armor
 The Garrison Armor has been replaced to give it a more "all-purpose" feel.
@@ -201,6 +207,7 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 - Sonik.O for the UAC Break-Action Grenade Launcher HUD & pickup sprites
 - Sgt. Shivers, for the Plasma Pistol HUD & pickup sprites (Phazer)
 - Skelegant, for the [Gunsmith Pouch](https://dastrukar.gitlab.io/hddons-list/#utilities:gunsmithpouch-mohl) sprite used in Mohl's mod of the same name
+- Mephresfire, for the Hideous Helmet sprite
 - Ghastly Dragon, for the Tech Armor sprite (UAC Corporate Armor)
 - Lightsource, for the HD Armor sprite (HEV Armor)
 - SoloSpaghetti, for the Bulletproof Vest sprite (Sneaking Suit), as well as the Tactical Armor sprite (Garrison Armor)
