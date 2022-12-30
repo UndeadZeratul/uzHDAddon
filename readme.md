@@ -209,7 +209,7 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 - JoeyTD & Minigunner, for the Glock18 Pistol Sprites (Quick Swap sprites flipped by me), as well as the Duke3D Shotgun sprites
 - Daedalus, for the Shotgun HUD sprites
 - ZikShadow, for the modified versions of Daedalus' original shotgun pickup sprites
-- Tartlman (a.k.a. bogus), for the ZM69 pickup & HUD sprites based off of Hideous Destructor's ZM66 sprites
+- Tartlman (a.k.a. bogus), for the [ZM69](https://forum.zdoom.org/viewtopic.php?f=43&t=66091) pickup & HUD sprites based off of Hideous Destructor's ZM66 sprites
 - Zrrion, for the Medical Pouch sprite
 - id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223; for the Sawed-Off Slayer HUD sprites
 - Sonik.O for the UAC Break-Action Grenade Launcher HUD & pickup sprites
