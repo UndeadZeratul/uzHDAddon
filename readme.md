@@ -218,5 +218,5 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 - Mephresfire, for the Hideous Helmet sprite
 - Ghastly Dragon, for the Tech Armor sprite (UAC Corporate Armor)
 - Lightsource, for the HD Armor sprite (HEV Armor)
-- SoloSpaghetti, for the Bulletproof Vest sprite (Sneaking Suit), as well as the Tactical Armor sprite (Garrison Armor)
+- SoloSpaghetti, for the Bulletproof Vest sprite (Sneaking Suit), the Tactical Armor sprite (Garrison Armor), and the Western Armor sprite (Leather Jacket) 
 - Yholl, for the Supply Crate sprite (Field Assembly Kit)

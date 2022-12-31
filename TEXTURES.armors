@@ -30,6 +30,18 @@ graphic "ARMER1", 31, 17
 	patch "ARMCA0", 0, 0 {translation "0:255=%[0,0,0]:[0.3,0.14,0]"}
 }
 
+Sprite "JAKTA0", 31, 25
+{
+	Offset 15, 17
+	Patch "JAKTA0", 0, -8
+}
+
+Graphic "JAKET0", 31, 25
+{
+	Offset 15, 17
+	Patch "JAKTA0", 0, 0 {translation "0:255=%[0,0,0]:[0.3,0.14,0]"}
+}
+
 Graphic "SNKSA0", 31, 17
 {
 	Offset 15, 17
