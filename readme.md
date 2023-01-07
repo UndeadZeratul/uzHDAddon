@@ -150,6 +150,13 @@ The Garrison Armor has been replaced to give it a more "all-purpose" feel.
 
 ![garrison-armor](./screenshots/garrison-armor.png)
 
+### Leather Jacket
+_Requires [Radtech Items Pack](https://github.com/swampyrad/RadTechItemPack)_
+
+The Leather Jacket has been replaced to feel more "Space Cowboy".
+
+![leather-jacket](./screenshots/leather-jacket.png)
+
 ### Sneaking Suit
 _Requires [Sneaking Suit](https://codeberg.org/Wanzer/HDst_WAN_SneakingSuit)_
 
