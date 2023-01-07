@@ -135,6 +135,9 @@ The Arkoudi Revolver Shotgun's ironsights have been recolored.
 ![uragan](./screenshots/uragan.png)  
 _Credits: AdianoTMO69_
 
+Cylinder Changes:  
+![ura-cyl](./screenshots/ura-cylinder.png)
+
 #### Hunter Shotgun
 The hunter has been swapped out with a set that looks like the ones made by Daedalus' Complex Doom, yet still keep more of a vanilla feel to it, then recolored to match thematically.
 
