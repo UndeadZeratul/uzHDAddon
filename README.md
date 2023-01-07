@@ -101,6 +101,9 @@ The Arkoudi Revolver Shotgun's ironsights have been recolored.
 ![uragan](./screenshots/uragan.png)  
 _Credits: AdianoTMO69_
 
+Cylinder Changes:  
+![ura-cyl](./screenshots/ura-cylinder.png)
+
 #### Hunter Shotgun
 The hunter has been swapped out with a set made by Sonik.O, simply for the pure quality of the spritework, then had its sights recolored to match thematically.
 
