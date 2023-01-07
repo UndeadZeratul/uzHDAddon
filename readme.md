@@ -221,6 +221,18 @@ _Credits: Icarus, Railgunner_
 
 ### Item Sprite Changes
 
+#### Ammunition
+
+Various ammunition drops and their spent casings have been swapped out with Captain J's lovely casing sprites.
+
+![9mm](./screenshots/9mm.png)  
+![355](./screenshots/355.png)  
+![4mm](./screenshots/4mm.png)  
+![7mm](./screenshots/7mm.png)  
+![shells](./screenshots/shells.png)  
+![slugs](./screenshots/slugs.png)  
+_Credits: Captain J._
+
 #### Light-amp Goggles
 
 The Light-amp Goggles have been replaced to feel more tactical
