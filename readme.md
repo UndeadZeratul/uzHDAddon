@@ -31,6 +31,13 @@ The Revolver's main body and Ironsights have been recolored, which also applies 
 
 ![revolver](./screenshots/revolver.png) ![scoped-revolver](./screenshots/scoped-revolver.png)
 
+#### Arkoudi Revolver Shotgun
+_Arkoudi Revolver Shotgun requires [Potetobloke's Weapon Pack](https://cdn.discordapp.com/attachments/713246305392001055/1017590614365323295/PB-Mohl_HDAddon_WeaponPack_4.8.2a_RC2a.pk3)_
+
+The Arkoudi Revolver Shotgun's ironsights have been recolored.
+
+![uragan](./screenshots/uragan.png)
+
 #### Hunter Shotgun
 The hunter has been swapped out with Complex Doom's Shotgun sprites, then recolored to match thematically.
 
@@ -228,3 +235,4 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 - Lightsource, for the HD Armor sprite (HEV Armor)
 - SoloSpaghetti, for the Bulletproof Vest sprite (Sneaking Suit), the Tactical Armor sprite (Garrison Armor), and the Western Armor sprite (Leather Jacket) 
 - Yholl, for the Supply Crate sprite (Field Assembly Kit)
+- LossForWords, for the Arkoudi Revolver Shotgun sprites
