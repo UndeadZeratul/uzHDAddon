@@ -19,10 +19,13 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 ### Weapon Sprite Changes
 _Note: Some weapons included have the crosshair color "baked" into the sprite, and for those weapons I have taken the liberty of tweaking the in-game sprite to match my personal crosshair color.  If you would like your crosshair color to match, simply update the color in the main GZDoom options menu to `#673ab7`_
 
-#### Pistol
+#### Pistols
+_Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
+
 The pistol has been swapped out with Glock18 sprites, then recolored to match thematically.  The "Quick Swap" set of sprites have the pistol correctly flipped, as well.
 
-![pistol](./screenshots/pistol.png)
+![pistol](./screenshots/pistol.png)  
+![hush-puppy](./screenshots/hush-puppy.png)
 
 #### Revolvers
 _Scoped Revolver requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
@@ -215,7 +218,7 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 - AdianoTMO69, for the Shortened version of PrettyFist's Greely HUD sprites
 - HexaDoken, for the Boss Variants' ironsight & HUD sprites
 - Icarus, for modified versions of Sonik.O/Railgunner's Original Six12 sprites, as well as the PD-42's HUD sprites & Pickup sprites modified from various pickup sprites from Railgunner
-- Swampyrad, for the Obrozz HUD sprites, as well as the Sig-Cow Ironsight sprites
+- Swampyrad, for the Obrozz HUD sprites, as well as the Sig-Cow Ironsight sprites, as well as the Hush Puppy's Silencer sprites
 - ChopBlock223, for the 10mm Pistol sprites based off of FreeDoom's Pistol sprites
 - Ultra64, for the HLAR and Vera sprites
 - Scuba Steve for the original Revolver sprites
