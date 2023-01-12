@@ -165,6 +165,12 @@ The Blooper has been swapped out for a Break-Action Grenade Launcher by Sonik.O.
 ![blooper](./screenshots/blooper.png)  
 _Credits: Sonik.O_
 
+#### Thunderbuster
+The Thunderbuster has been swapped out with an alternative plasma rifle sprites to differentiate it from Radtech's D-93 Plasmabuster.
+
+![thunderbuster](./screenshots/thunderbuster.png)  
+_Credits: Eriance_
+
 #### Brontornis
 The Brontornis Rifle has been swapped out for something with a bit better perspective, as well as fitting the overall aesthetic of the rest of the pack.
 
