@@ -207,6 +207,14 @@ The Phazer has been swapped out with a more fitting D-93 Plasma Pistol.
 ![phazer](./screenshots/phazer.png)  
 _Credits: [UNKNOWN](#UNKNOWN-CREDITS)_
 
+#### D-93 Plasmabuster
+_Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
+
+The D-93 Plasmabuster has been swapped out with a Doom Eternal style Plasma Rifle by Sonik.O
+
+![plasmabuster](./screenshots/plasmabuster.png)  
+_Credits: Sonik.O_
+
 #### Obrozz Pistol
 _Requires [Radtech Weapons Pack](https://git.gay/swampyrad/RadTechWeaponsPack)_
 
