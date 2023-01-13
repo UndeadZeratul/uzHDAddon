@@ -29,7 +29,7 @@
 ---
 ## Resprites
 
-- Blooper Grenade Launcher front sight
+- ~~Blooper Grenade Launcher front sight~~
 - Bullet Casings
 
 ### Peppergrinder
