@@ -214,7 +214,7 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 
 - Matt, for creating Hideous Destructor itself, including the Brontornis HUD Sprites, as well as the default ironsight sprites
 - Dizzy, for giving me the inspiration to make my own HDest Addon
-- PrettyFist, for the Greely pickup & HUD sprites, as well as the P90 HUD & ironsight sprites, as well as the modified versions of Sonik.O's Scoped Revolver sprites
+- PrettyFist, for the Greely pickup sprite, as well as the P90 HUD & ironsight sprites, as well as the modified versions of Sonik.O's Scoped Revolver sprites
 - AdianoTMO69, for the Shortened version of PrettyFist's Greely HUD sprites
 - HexaDoken, for the Boss Variants' ironsight & HUD sprites
 - Icarus, for modified versions of Sonik.O/Railgunner's Original Six12 sprites, as well as the PD-42's HUD sprites & Pickup sprites modified from various pickup sprites from Railgunner
