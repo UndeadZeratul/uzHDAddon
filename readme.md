@@ -232,7 +232,6 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 - Zrrion, for the Medical Pouch sprite
 - id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223; for the Sawed-Off Slayer HUD sprites
 - Toast, for the modified version of Sonik.O's UAC Break-Action Grenade Launcher HUD & pickup sprites
-- Realm667, for the Plasma Pistol HUD & pickup sprites (Phazer)
 - Skelegant, for the [Gunsmith Pouch](https://dastrukar.gitlab.io/hddons-list/#utilities:gunsmithpouch-mohl) sprite used in Mohl's mod of the same name
 - Mephresfire, for the Hideous Helmet sprite
 - Ghastly Dragon, for the Tech Armor sprite (UAC Corporate Armor)
@@ -245,3 +244,9 @@ _Assets used from [DRLA](https://forum.zdoom.org/viewtopic.php?t=37044) have bee
 **PERMISSION FROM DRLA AUTHORS IS REQUIRED TO RE-USE THEM**_
 
 - **SoloSpaghetti**, for the Bulletproof Vest sprite (Sneaking Suit), the Tactical Armor sprite (Garrison Armor), and the Western Armor sprite (Leather Jacket)
+
+### UNKNOWN CREDITS
+_I've tried finding the original owner for these assets and have come up empty.  
+If you are or know the owner, please let me know to correct them._
+
+- The Plasma Pistol HUD & pickup sprites (Phazer).  These were taken from DRLA, but I have been informed they were not made for DRLA and the original ownership has been lost.
