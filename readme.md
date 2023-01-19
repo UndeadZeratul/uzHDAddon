@@ -224,8 +224,8 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 - Scuba Steve for the original Revolver sprites
 - A1337Spy, for the BPX sprites
 - A1337Spy, HyperUltra64, and Sledge for the modified versions of Chopblock's TRO-G sprites
-- JoeyTD & Minigunner, for the Glock18 Pistol Sprites (Quick Swap sprites flipped by me), as well as the Duke3D Shotgun sprites
-- Daedalus, for the Complex Doom Shotgun HUD sprites
+- JoeyTD & Minigunner, for the [Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18) Glock18 Pistol Sprites (Quick Swap sprites flipped by me), as well as the [Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/841-duke-shotgun) Duke3D Shotgun sprites
+- Daedalus, for the [Complex Doom](https://forum.zdoom.org/viewtopic.php?t=58535) Shotgun HUD sprites
 - Neoworm, for the extended Shotgun HUD sprites
 - ZikShadow, for the modified versions of Daedalus' original shotgun pickup sprites
 - Tartlman (a.k.a. bogus), for the [ZM69](https://forum.zdoom.org/viewtopic.php?f=43&t=66091) pickup & HUD sprites based off of Hideous Destructor's ZM66 sprites
@@ -234,8 +234,8 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 - Toast, for the modified version of Sonik.O's UAC Break-Action Grenade Launcher HUD & pickup sprites
 - Skelegant, for the [Gunsmith Pouch](https://dastrukar.gitlab.io/hddons-list/#utilities:gunsmithpouch-mohl) sprite used in Mohl's mod of the same name
 - Mephresfire, for the Hideous Helmet sprite
-- Ghastly Dragon, for the Tech Armor sprite (UAC Corporate Armor)
-- Lightsource, for the HD Armor sprite (HEV Armor)
+- Ghastly Dragon, for the [Pandemonia](https://forum.zdoom.org/viewtopic.php?t=60984) Tech Armor sprite (UAC Corporate Armor)
+- Lightsource, for the [Pandemonia](https://forum.zdoom.org/viewtopic.php?t=60984) HD Armor sprite (HEV Armor)
 - Yholl, for the modified version of ID Software's UAC Supply Crate sprite (Field Assembly Kit)
 - LossForWords, for the Arkoudi Revolver Shotgun sprites
 
