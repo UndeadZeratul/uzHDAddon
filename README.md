@@ -169,7 +169,7 @@ _Credits: Sonik.O_
 The Thunderbuster has been swapped out with an alternative plasma rifle sprites to differentiate it from Radtech's D-93 Plasmabuster.
 
 ![thunderbuster](./screenshots/thunderbuster.png)  
-_Credits: Eriance_
+_Credits: Eriance ([Eriguns](https://forum.zdoom.org/viewtopic.php?t=48208))_
 
 #### Brontornis
 The Brontornis Rifle has been swapped out for something with a bit better perspective, as well as fitting the overall aesthetic of the rest of the pack.
