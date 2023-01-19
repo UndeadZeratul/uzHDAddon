@@ -118,7 +118,7 @@ _Credits: Toast, Sonik.O_
 The Thunderbuster has been swapped out with an alternative plasma rifle sprites to differentiate it from Radtech's D-93 Plasmabuster.
 
 ![thunderbuster](./screenshots/thunderbuster.png)  
-_Credits: Eriance_
+_Credits: Eriance ([Eriguns](https://forum.zdoom.org/viewtopic.php?t=48208))_
 
 #### Brontornis
 The Brontornis' Ironsight dot has been updated to match the default Front Sight sprite.
