@@ -210,6 +210,15 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 
 ![logistics-bag](./screenshots/logistics-bag.png)
 ---
+
+### Other Changes
+
+#### Cacodemon
+When playing id Doom, the cacodemon's death animation has been replaced with one that feels much more electrifying, given their proclivity to emit sparks when dead.
+
+![cacoDeath](./screenshots/cacodeath.gif)
+
+---
 ## Credits
 
 - Matt, for creating Hideous Destructor itself, including the Brontornis HUD Sprites, as well as the default ironsight sprites
@@ -238,6 +247,7 @@ The Logistics Bag also always felt off to be carrying multiple "full-size" backp
 - Lightsource, for the [Pandemonia](https://forum.zdoom.org/viewtopic.php?t=60984) HD Armor sprite (HEV Armor)
 - Yholl, for the modified version of ID Software's UAC Supply Crate sprite (Field Assembly Kit)
 - LossForWords, for the Arkoudi Revolver Shotgun sprites
+- Robo_Cola, for the alternative Cacodemon death sprites
 
 ### DRLA Credits
 _Assets used from [DRLA](https://forum.zdoom.org/viewtopic.php?t=37044) have been done so with permission.  
