@@ -241,7 +241,7 @@ When playing id Doom, the cacodemon's death animation has been replaced with one
 - Zrrion, for the Medical Pouch sprite
 - id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223; for the Sawed-Off Slayer HUD sprites
 - Toast, for the modified version of Sonik.O's UAC Break-Action Grenade Launcher HUD & pickup sprites
-- Skelegant, for the [Gunsmith Pouch](https://dastrukar.gitlab.io/hddons-list/#utilities:gunsmithpouch-mohl) sprite used in Mohl's mod of the same name
+- Skelegant, for the [Gunsmith Pouch](https://dastrukar.gitlab.io/hddons-list/#utilities:gunsmithpouch-mohl) sprite
 - Mephresfire, for the Hideous Helmet sprite
 - Ghastly Dragon, for the [Pandemonia](https://forum.zdoom.org/viewtopic.php?t=60984) Tech Armor sprite (UAC Corporate Armor)
 - Lightsource, for the [Pandemonia](https://forum.zdoom.org/viewtopic.php?t=60984) HD Armor sprite (HEV Armor)
