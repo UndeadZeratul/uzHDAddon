@@ -29,6 +29,28 @@ Graphic "STBURAUT", 28, 12
 	}
 }
 
+Graphic "STQBURST", 36, 12
+{
+	XScale 4.000
+	YScale 4.000
+	Patch "PRNDA0", 8, 7
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 23, 7
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 15, 0
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 0, 0
+	{
+		Rotate 90
+	}
+}
+
 Graphic "STFULAUT", 58, 12
 {
 	XScale 4.000
