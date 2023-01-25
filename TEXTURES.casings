@@ -39,12 +39,12 @@ Sprite "3BRSB0", 14, 6
 	}
 }
 
-Sprite "CS10A0", 5, 17
+Sprite "CS10A0", 5, 14
 {
 	XScale 4.000
 	YScale 4.000
-	Offset 3, 17
-	Patch "10MM", -34, 0
+	Offset 3, 14
+	Patch "PR10A0", 0, 0
 }
 
 Sprite "CS10B0", 12, 5
