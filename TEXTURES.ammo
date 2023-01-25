@@ -154,7 +154,7 @@ Sprite "PR10B0", 5, 11
 	Patch "10MM", 0, -24
 }
 
-Texture "T10MA0", 50, 18
+Sprite "T10MA0", 50, 18
 {
 	XScale 4.000
 	YScale 4.000
