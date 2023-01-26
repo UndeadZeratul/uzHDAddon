@@ -368,6 +368,7 @@ Various ammunition drops and their spent casings have been swapped out with Capt
 ![7mm](./screenshots/7mm.png)  
 ![shells](./screenshots/shells.png)  
 ![slugs](./screenshots/slugs.png)  
+![42069](./screenshots/42069.png)  
 _Credits: Captain J._
 
 #### Light-amp Goggles
