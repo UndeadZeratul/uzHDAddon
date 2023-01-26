@@ -233,27 +233,27 @@ Sprite "T10MA0", 50, 18
 	}
 }
 
-Sprite "RN45A0", 5, 17
+Sprite "RN45A0", 5, 15
 {
 	XScale 4.000
 	YScale 4.000
-	Offset 3, 17
-	Patch "10MM", -34, 0
+	Offset 2, 15
+	Patch "10MM", -34, -2
 }
 
 Sprite "RN45B0", 5, 11
 {
 	XScale 4.000
 	YScale 4.000
-	Offset 3, 11
+	Offset 2, 11
 	Patch "10MM", 0, -24
 }
 
-Sprite "TN45A0", 50, 21
+Sprite "TN45A0", 50, 19
 {
 	XScale 4.000
 	YScale 4.000
-	Offset 25, 18
+	Offset 25, 19
 	Patch "RN45A0", 0, 4
 	Patch "RN45A0", 10, 4
 	Patch "RN45A0", 20, 4
@@ -285,7 +285,7 @@ Sprite "45RNA0", 5, 17
 {
 	XScale 4.000
 	YScale 4.000
-	Offset 3, 17
+	Offset 2, 17
 	Patch "10MM", -34, 0
 }
 
@@ -293,7 +293,7 @@ Sprite "45RNB0", 5, 11
 {
 	XScale 4.000
 	YScale 4.000
-	Offset 3, 11
+	Offset 2, 11
 	Patch "10MM", 0, -24
 }
 
@@ -302,28 +302,28 @@ Sprite "45TNA0", 50, 21
 	XScale 4.000
 	YScale 4.000
 	Offset 25, 21
-	Patch "RN45A0", 0, 4
-	Patch "RN45A0", 10, 4
-	Patch "RN45A0", 20, 4
-	Patch "RN45A0", 30, 4
-	Patch "RN45A0", 40, 4
-	Patch "RN45A0", 5, 0
+	Patch "45RNA0", 0, 4
+	Patch "45RNA0", 10, 4
+	Patch "45RNA0", 20, 4
+	Patch "45RNA0", 30, 4
+	Patch "45RNA0", 40, 4
+	Patch "45RNA0", 5, 0
 	{
 		Blend "#000000", 0.3
 	}
-	Patch "RN45A0", 15, 0
+	Patch "45RNA0", 15, 0
 	{
 		Blend "#000000", 0.3
 	}
-	Patch "RN45A0", 25, 0
+	Patch "45RNA0", 25, 0
 	{
 		Blend "#000000", 0.3
 	}
-	Patch "RN45A0", 35, 0
+	Patch "45RNA0", 35, 0
 	{
 		Blend "#000000", 0.3
 	}
-	Patch "RN45A0", 45, 0
+	Patch "45RNA0", 45, 0
 	{
 		Blend "#000000", 0.3
 	}
@@ -772,13 +772,13 @@ Sprite "4GPAA0", 60, 36
 	XScale 3.000
 	YScale 3.000
 	Offset 30, 36
-	Patch "4GSIA0", 0, 5
-	Patch "4GSIA0", 30, 5
-	Patch "4GSIA0", 15, 0
+	Patch "4GS1A0", 0, 5
+	Patch "4GS1A0", 30, 5
+	Patch "4GS1A0", 15, 0
 	{
 		Blend "#000000", 0.4
 	}
-	Patch "4GSIA0", 45, 0
+	Patch "4GS1A0", 45, 0
 	{
 		Blend "#000000", 0.4
 	}
@@ -786,16 +786,16 @@ Sprite "4GPAA0", 60, 36
 
 Sprite "42BRA0", 9, 28
 {
-	XScale 4.000
-	YScale 4.000
+	XScale 5.000
+	YScale 5.000
 	Offset 4, 28
 	Patch "069", 0, 0
 }
 
 Sprite "42BTA0", 90, 33
 {
-	XScale 4.000
-	YScale 4.000
+	XScale 5.000
+	YScale 5.000
 	Offset 45, 33
 	Patch "42BRA0", 0, 5
 	Patch "42BRA0", 18, 5
@@ -934,16 +934,16 @@ Sprite "LLS4A0", 60, 36
 
 Sprite "FLARA0", 14, 25
 {
-	XScale 2.000
-	YScale 2.000
+	XScale 2.500
+	YScale 2.500
 	Offset 7, 25
 	Patch "FLARES", 0, -1
 }
 
 Sprite "FLA4A0", 59, 30
 {
-	XScale 2.000
-	YScale 2.000
+	XScale 2.500
+	YScale 2.500
 	Offset 30, 30
 	Patch "FLARA0", 0, 5
 	Patch "FLARA0", 30, 5
