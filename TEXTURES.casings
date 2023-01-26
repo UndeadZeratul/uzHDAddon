@@ -58,6 +58,29 @@ Sprite "3BRSB0", 14, 6
 	}
 }
 
+Sprite "420SA0", 14, 6
+{
+	XScale 4.000
+	YScale 4.000
+	Offset 7, 6
+	Patch "3BRSB0", 0, 0
+	{
+		Translation "0:255=#[0,255,0]"
+	}
+}
+
+Sprite "42BSA0", 29, 9
+{
+	XScale 4.500
+	YScale 4.500
+	Offset 15, 9
+	Patch "069", -36, -10
+	{
+		Rotate 90
+		Translation "224:231=80:87", "160:167=88:95"
+	}
+}
+
 Sprite "CS10A0", 5, 14
 {
 	XScale 4.000
