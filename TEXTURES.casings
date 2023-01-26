@@ -20,6 +20,25 @@ Sprite "PBRSB0", 9, 5
 	}
 }
 
+Sprite "NBRSA0", 5, 13
+{
+	XScale 5.000
+	YScale 5.000
+	Offset 2, 13
+	Patch "NRNDA0", 0, 0
+}
+
+Sprite "NBRSB0", 9, 5
+{
+	XScale 5.000
+	YScale 5.000
+	Offset 5, 5
+	Patch "PBRSB0", 0, 0
+	{
+		Translation "0:255=#[91,168,244]"
+	}
+}
+
 Sprite "3BRSA0", 6, 18
 {
 	XScale 4.000

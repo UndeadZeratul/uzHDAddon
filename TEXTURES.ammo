@@ -49,6 +49,53 @@ Sprite "TEN9A0", 50, 17
 	}
 }
 
+Sprite "NRNDA0", 5, 13
+{
+	XScale 5.000
+	YScale 5.000
+	Offset 2, 13
+	Patch "PRNDA0", 0, 0
+	{
+		Translation "0:255=@72[128,13,0]"
+	}
+	Patch "PRNDB0", 0, 5
+	{
+		Translation "0:255=#[91,168,244]"
+	}
+}
+
+Sprite "TNNDA0", 50, 17
+{
+	XScale 5.000
+	YScale 5.000
+	Offset 25, 17
+	Patch "NRNDA0", 0, 4
+	Patch "NRNDA0", 10, 4
+	Patch "NRNDA0", 20, 4
+	Patch "NRNDA0", 30, 4
+	Patch "NRNDA0", 40, 4
+	Patch "NRNDA0", 5, 0
+	{
+		Blend "#000000", 0.3
+	}
+	Patch "NRNDA0", 15, 0
+	{
+		Blend "#000000", 0.3
+	}
+	Patch "NRNDA0", 25, 0
+	{
+		Blend "#000000", 0.3
+	}
+	Patch "NRNDA0", 35, 0
+	{
+		Blend "#000000", 0.3
+	}
+	Patch "NRNDA0", 45, 0
+	{
+		Blend "#000000", 0.3
+	}
+}
+
 Sprite "3RNDA0", 6, 18
 {
 	XScale 5.000
