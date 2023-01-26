@@ -363,12 +363,22 @@ _Credits: Sonik.O_
 Various ammunition drops and their spent casings have been swapped out with Captain J's lovely casing sprites.
 
 ![9mm](./screenshots/9mm.png)  
+![9mm-ndm](./screenshots/9mm-ndm.png)
+![10mm](./screenshots/10mm.png)  
 ![355](./screenshots/355.png)  
 ![4mm](./screenshots/4mm.png)  
+![5mm](./screenshots/5mm.png)  
 ![7mm](./screenshots/7mm.png)  
 ![shells](./screenshots/shells.png)  
 ![slugs](./screenshots/slugs.png)  
+![4ga](./screenshots/4ga.png)
+![less-lethal](./screenshots/less-lethal.png)  
+![explosive-shells](./screenshots/explosive-shells.png)  
+![flare-shells](./screenshots/flare-shells.png)  
 ![42069](./screenshots/42069.png)  
+![45ACP](./screenshots/45ACP.png)  
+![45LC](./screenshots/45LC.png)  
+![golden45LC](./screenshots/golden-45LC.png)  
 _Credits: Captain J._
 
 #### Light-amp Goggles
