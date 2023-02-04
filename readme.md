@@ -47,9 +47,14 @@ The hunter has been swapped out with Complex Doom's Shotgun sprites, then recolo
 ![hunter](./screenshots/hunter.png)
 
 #### ZM-66 Assault Rifle
-The ZM-66 has been swapped out with an older version of its HUD sprites, then had its scope lens recolored to match thematically.
+The ZM-66 has been swapped out with an older version of its HUD & pickup sprites, then had its scope lens recolored to match thematically.
 
 ![zm66](./screenshots/zm66.png)
+
+#### Liberator Battle Rifle
+The Liberator has been swapped out with an older version of its HUD & pickup sprites, then had its scope lens recolored to match thematically.
+
+![liberator](./screenshots/liberator.png)
 
 #### Blooper Grenade Launcher
 The Blooper has been swapped out for a Break-Action Grenade Launcher by Sonik.O.
@@ -226,7 +231,7 @@ When playing id Doom, the cacodemon's death animation has been replaced with one
 ---
 ## Credits
 
-- Matt, for creating Hideous Destructor itself, including the Brontornis HUD sprites, the old ZM-66 HUD sprites, as well as the default ironsight sprites
+- Matt, for creating Hideous Destructor itself, including the Brontornis HUD sprites, the old ZM-66 & Liberator HUD & pickup sprites, as well as the default ironsight sprites
 - Dizzy, for giving me the inspiration to make my own HDest Addon
 - PrettyFist, for the Greely pickup sprite, as well as the P90 HUD & ironsight sprites, as well as the modified versions of Sonik.O's Scoped Revolver sprites
 - AdianoTMO69, for the Shortened version of PrettyFist's Greely HUD sprites
