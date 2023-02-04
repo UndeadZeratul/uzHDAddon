@@ -166,6 +166,13 @@ The HUD Helmet has been replaced to match the mugshots provided by HUD Helmet.
 
 ![hud-helmet](./screenshots/hud-helmet.png)
 
+#### Micro-Cell
+_Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
+
+The Micro-cell has been replaced to feel more like a conventional cylindrical battery
+
+![microcell](./screenshots/microcell.png)
+
 #### Garrison Armor
 The Garrison Armor has been replaced to give it a more "all-purpose" feel.
 
@@ -258,6 +265,7 @@ When playing id Doom, the cacodemon's death animation has been replaced with one
 - Yholl, for the modified version of ID Software's UAC Supply Crate sprite (Field Assembly Kit)
 - LossForWords, for the Arkoudi Revolver Shotgun sprites
 - Robo_Cola, for the alternative Cacodemon death sprites
+- osjclatchford, for the microcell battery pickup sprite
 
 ### DRLA Credits
 _Assets used from [DRLA](https://forum.zdoom.org/viewtopic.php?t=37044) have been done so with permission.  
