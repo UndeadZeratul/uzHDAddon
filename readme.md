@@ -159,6 +159,12 @@ The PD-42's body has been recolored to give better visual contrast between it an
 
 ### Item Sprite Changes
 
+#### Light-amp Goggles
+
+The Light-amp Goggles have been replaced to feel more tactical
+
+![lightamp](./screenshots/lightamp.png)
+
 #### HUD Helmet
 _Requires [Hideous Helmet](https://forum.zdoom.org/viewtopic.php?f=43&t=71950)_
 
@@ -265,7 +271,7 @@ When playing id Doom, the cacodemon's death animation has been replaced with one
 - Yholl, for the modified version of ID Software's UAC Supply Crate sprite (Field Assembly Kit)
 - LossForWords, for the Arkoudi Revolver Shotgun sprites
 - Robo_Cola, for the alternative Cacodemon death sprites
-- osjclatchford, for the microcell battery pickup sprite
+- osjclatchford, for the microcell battery pickup sprite, as well as the Lightamp goggles pickup sprites
 
 ### DRLA Credits
 _Assets used from [DRLA](https://forum.zdoom.org/viewtopic.php?t=37044) have been done so with permission.  
