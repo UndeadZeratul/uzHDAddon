@@ -51,6 +51,13 @@ The ZM-66 has been swapped out with an older version of its HUD & pickup sprites
 
 ![zm66](./screenshots/zm66.png)
 
+#### Vulcanette
+The Vulcanette has been swapped out to give it a much more fitting, hefty minigun feeling.
+
+![vulcanette](./screenshots/vulcanette.png)
+
+![zm66](./screenshots/zm66.png)
+
 #### Liberator Battle Rifle
 The Liberator has been swapped out with an older version of its HUD & pickup sprites, then had its scope lens recolored to match thematically.
 
@@ -272,6 +279,7 @@ When playing id Doom, the cacodemon's death animation has been replaced with one
 - LossForWords, for the Arkoudi Revolver Shotgun sprites
 - Robo_Cola, for the alternative Cacodemon death sprites
 - osjclatchford, for the microcell battery pickup sprite, as well as the Lightamp goggles pickup sprites
+- Sonik.O, for the minigun HUD & pickup sprites (Vulcanette)
 - Combine Kegan, for the Fireselect graphic
 
 ### DRLA Credits
