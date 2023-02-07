@@ -106,7 +106,7 @@ The 10mm Pistol's rear Ironsight dots have been recolored to match the default S
 ![10mm-pistol](./screenshots/10mm-pistol.png)  
 _Credits:  
 HUD & Pkcup Sprites: Chopblock223, [Freedoom](https://freedoom.github.io/)
-Fireselect Graphic: Combine Kegan
+Fireselect Graphic: Combine Kegan_
 
 #### Phazer
 _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
