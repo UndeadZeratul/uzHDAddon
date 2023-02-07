@@ -1,9 +1,14 @@
 # Things left to do:
 
 ---
-
 ## Redo Readme
 - Place credits alongside each thing altered for better context around who made what.
+
+---
+## Sprite Fixes
+
+- Muzzle Flash Refinements
+  - Remove as much of the redundant portions of the flash overlay as necessary
 
 ---
 ## Recolors
