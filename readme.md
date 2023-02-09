@@ -88,6 +88,9 @@ The Vulcanette has been swapped out to give it a much more fitting, hefty minigu
 ![vulcanette](./screenshots/vulcanette.png)  
 _Credits: Sonik.O_
 
+H.E.R.P. Changes
+![herp](./screenshots/herp.png)
+
 #### Liberator Battle Rifle
 The Liberator has been swapped out with an older version of its HUD & pickup sprites, then had its scope lens recolored to match thematically.
 
