@@ -206,12 +206,10 @@ _Credits: HexaDoken_
 #### Six-12 Shotgun
 _Requires [Six12](https://gitlab.com/icarus-innovations/hdest-addons/six12)_
 
-The Six12 Shotgun's body & Ironsight sprites have been recolored to match thematically.
+The Six12 Shotgun has been replaced with one made by Sonik.O.
 
 ![six12](./screenshots/six12.png)  
-_Credits:  
-HUD Sprites: Icarus, Sonik.O
-Pickup Sprites: Railgunner_
+_Credits: Sonik.O_
 
 #### PD-42
 _Requires [PD42](https://gitlab.com/icarus-innovations/hdest-addons/pd-42)_
