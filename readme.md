@@ -79,7 +79,7 @@ The ZM-66 has been swapped out with an older version of its HUD & pickup sprites
 
 ![zm66](./screenshots/zm66.png)  
 _Credits:  
-HUD & Pickup Sprites: Matt
+HUD & Pickup Sprites: Matt  
 Fireselect Graphic: Combine Kegan_
 
 #### Vulcanette
