@@ -34,7 +34,7 @@ The pistol has been swapped out with Glock18 sprites, then recolored to match th
 _Credits:  
 HUD Sprites: JoeyTD & Minigunner ([Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18))  
 Silencer: Swampyrad  
-Pickup Sprites: Toast
+Pickup Sprites: Toast  
 Fireselect Graphic: Combine Kegan_
 
 #### Revolvers
@@ -44,9 +44,9 @@ The Revolver's main body and Ironsights have been recolored, which also applies 
 
 ![revolver](./screenshots/revolver.png)  
 ![scoped-revolver](./screenshots/scoped-revolver.png)
-_Credits:_
-_Revolver Base: Scuba Steve_  
-_Scope: PrettyFist, Sonik.O_
+_Credits:  
+Revolver Base: Scuba Steve  
+Scope: PrettyFist, Sonik.O_
 
 #### SMG
 
@@ -118,7 +118,7 @@ The 10mm Pistol's rear Ironsight dots have been recolored to match the default S
 
 ![10mm-pistol](./screenshots/10mm-pistol.png)  
 _Credits:  
-HUD & Pkcup Sprites: Chopblock223, [Freedoom](https://freedoom.github.io/)
+HUD & Pkcup Sprites: Chopblock223, [Freedoom](https://freedoom.github.io/)  
 Fireselect Graphic: Combine Kegan_
 
 #### Phazer
@@ -127,7 +127,7 @@ _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack
 The Phazer has been swapped out with a more fitting D-93 Plasma Pistol.
 
 ![phazer](./screenshots/phazer.png)  
-_Credits: [UNKNOWN](#UNKNOWN%20CREDITS)_
+_Credits: [UNKNOWN](#UNKNOWN-CREDITS)_
 
 #### Obrozz Pistol
 _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
@@ -144,7 +144,7 @@ The Greely's main body has been recolored ~~so Player 2 can have a turn~~ to mat
 
 ![greely12](./screenshots/greely12.png)  
 _Credits:  
-HUD Sprites: AdianoTMO69, PrettyFist
+HUD Sprites: AdianoTMO69, PrettyFist  
 Pickup Sprites: PrettyFist_
 
 #### Sawed-Off Slayer
@@ -248,7 +248,7 @@ _Credits: osjclatchford_
 The Garrison Armor has been replaced to give it a more "all-purpose" feel.
 
 ![garrison-armor](./screenshots/garrison-armor.png)  
-_[DRLA Credits](#DRLA%20Credits): SoloSpaghetti ([DRLA](https://forum.zdoom.org/viewtopic.php?t=37044))_
+_[DRLA Credits](#DRLA-Credits): SoloSpaghetti ([DRLA](https://forum.zdoom.org/viewtopic.php?t=37044))_
 
 #### Leather Jacket
 _Requires [Radtech Items Pack](https://github.com/swampyrad/RadTechItemPack)_
@@ -256,7 +256,7 @@ _Requires [Radtech Items Pack](https://github.com/swampyrad/RadTechItemPack)_
 The Leather Jacket has been replaced to feel more "Space Cowboy".
 
 ![leather-jacket](./screenshots/leather-jacket.png)  
-_[DRLA Credits](#DRLA%20Credits): SoloSpaghetti ([DRLA](https://forum.zdoom.org/viewtopic.php?t=37044))_
+_[DRLA Credits](#DRLA-Credits): SoloSpaghetti ([DRLA](https://forum.zdoom.org/viewtopic.php?t=37044))_
 
 #### Sneaking Suit
 _Requires [Sneaking Suit](https://codeberg.org/Wanzer/HDst_WAN_SneakingSuit)_
@@ -264,7 +264,7 @@ _Requires [Sneaking Suit](https://codeberg.org/Wanzer/HDst_WAN_SneakingSuit)_
 The Sneaking Suit has been replaced to fit the dimensions of the rest of the armors while also giving it a more lightweight/tactical feel.
 
 ![sneaking-suit](./screenshots/sneaking-suit.png)  
-_[DRLA Credits](#DRLA%20Credits): SoloSpaghetti ([DRLA](https://forum.zdoom.org/viewtopic.php?t=37044))_
+_[DRLA Credits](#DRLA-Credits): SoloSpaghetti ([DRLA](https://forum.zdoom.org/viewtopic.php?t=37044))_
 
 #### UAC Corporate Armor
 _Requires [UAC Corporate Armor](https://codeberg.org/TwelveEyes/hd_uacarmour/)_
