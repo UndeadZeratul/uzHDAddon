@@ -84,8 +84,8 @@ HUD Sprites: TommyGalano5, JoeyTD & Minigunner ([Realm667](https://www.realm667.
 Pickup Sprites: TommyGalano5_  
 
 #### Revolvers
-_Scoped Revolver requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_  
-_Snubnose Revolver requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
+_Scoped Revolver requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)  
+Snubnose Revolver requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
 
 The Revolver's main body and Ironsights have been recolored, which also applies to the Peppergrinder Scoped Revolver.  The cylinder has also been updated to track each inserted round's sprite, to differentiate between .355 and 9mm rounds.
 
