@@ -316,6 +316,23 @@ When playing id Doom, the cacodemon's death animation has been replaced with one
 ![cacoDeath](./screenshots/cacodeath.gif)  
 _Credits: Robo_Cola, id Software_
 
+#### HUD Helmet Backgrounds
+_Requires [Hideous Helmet Extended]()_
+
+The various Preset HUD Backgrounds have all been recolored to match thematically.
+
+![alpha-hud](./screenshots/alpha-hud.png)
+_Credits: Toast, id Software, Sgt. Kiwi, Arcterezion_  
+
+![arc-hud](./screenshots/arc-hud.png)  
+_Credits: Arcterezion_  
+
+![udv-hud](./screenshots/udv-hud.png)  
+_Credits: Saegiru, WildWeasel, 2800fps_  
+
+![udv-alt-hud](./screenshots/udv-alt-hud.png)
+_Credits: Saegiru, WildWeasel, 2800fps, Lightsource_  
+
 ---
 ## Special Thanks
 
