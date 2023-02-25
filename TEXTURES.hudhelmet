@@ -1,5 +1,6 @@
 Graphic "HELMA0", 15, 12
 {
+	Offset 8, 12
 	XScale 0.900
 	YScale 0.900
 	Patch "HELMA0", 0, 0
@@ -7,6 +8,7 @@ Graphic "HELMA0", 15, 12
 
 Graphic "HELMB0", 15, 12
 {
+	Offset 8, 12
 	XScale 0.900
 	YScale 0.900
 	Patch "HELMA0", 0, 0 {Translation "0:255=%[0.00,0.00,0.00]:[0.30,0.14,0.00]"}
