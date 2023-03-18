@@ -219,6 +219,14 @@ The PD-42's body has been recolored to give better visual contrast between it an
 ![pd-42](./screenshots/pd-42.png)  
 _Credits: Icarus, Railgunner_
 
+#### UMS Automag
+_Requires [UMS Automag](https://dastrukar.gitlab.io/hddons-list/#weapons:umsautomag-zikshadow)_
+
+The UMS Automag has been replaced with something that also visually has the mag in front of the player's hand, but also fits a bit more cohesively, visually speaking.
+
+![automag](./screenshots/automag.png)
+_Credits: Clay, Infinity Ward, id Software, KDiZD Team, Banjo Software, MrYifYif, 3D Realms, Enchanter, HACX_
+
 ### Item Sprite Changes
 
 #### Light-amp Goggles
