@@ -161,6 +161,13 @@ _Credits:
 HUD Sprites: AdianoTMO69, PrettyFist  
 Pickup Sprites: PrettyFist_
 
+#### Slayer
+
+The Slayer has been swapped out with a more detailed, yet still vanilla-like design
+
+![slayer](./screenshots/slayer.png)  
+_Credits: Toast, id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223_
+
 #### Sawed-Off Slayer
 _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
 
