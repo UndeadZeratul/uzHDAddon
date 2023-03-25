@@ -4,6 +4,11 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 ---
 ## Sprite Changes
 
+#### Fists
+The fists have been swapped out with a set that use plain Doomguy Gloves, simply for consistency.
+
+_Credits: [UNKNOWN](#UNKNOWN-CREDITS)_
+
 ### Recolored Ironsights
 
 #### Vanilla Hideous Destructor
@@ -379,4 +384,5 @@ _Assets used from [DRLA](https://forum.zdoom.org/viewtopic.php?t=37044) have bee
 _I've tried finding the original owner for these assets and have come up empty.  
 If you are or know the owner, please let me know to correct them._
 
+- Various Hands sprites, including the unarmed Fist sprites, came from the [Master Hand Sheet](https://imgur.com/FIYBDSI), and thus I'm not sure who did these specific alternative punching sprites.
 - The Plasma Pistol HUD & pickup sprites (Phazer).  These were taken from DRLA, but I have been informed they were not made for DRLA and the original ownership has been lost.
