@@ -74,6 +74,20 @@ _Credits:
 HUD Sprites: Daedalus, Neoworm  
 Pickup Sprite: ZikShadow, Daedalus ([Complex Doom](https://forum.zdoom.org/viewtopic.php?t=58535))_
 
+#### Slayers
+_Sawed-Off & Scoped Slayers require [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
+
+The Slayers have been swapped out with a more detailed, yet still vanilla-like design.
+
+![slayer](./screenshots/slayer.png)  
+_Credits: Toast, id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223_
+
+![scoped-slayer](./screenshots/scoped-slayer.png)  
+_Credits: Toast, id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223, A1337Spy, Potetobloke_
+
+![sawed-slayer](./screenshots/sawed-slayer.png)  
+_Credits: Toast, id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223_
+
 #### ZM-66 Assault Rifle
 The ZM-66 has been swapped out with an older version of its HUD & pickup sprites, then had its scope lens recolored to match thematically.
 
@@ -160,21 +174,6 @@ The Greely's main body has been recolored ~~so Player 2 can have a turn~~ to mat
 _Credits:  
 HUD Sprites: AdianoTMO69, PrettyFist  
 Pickup Sprites: PrettyFist_
-
-#### Slayer
-
-The Slayer has been swapped out with a more detailed, yet still vanilla-like design
-
-![slayer](./screenshots/slayer.png)  
-_Credits: Toast, id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223_
-
-#### Sawed-Off Slayer
-_Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
-
-The Sawed-Off Slayer has been given a set of sprites to help it feel more hand-held.
-
-![sawed-slayer](./screenshots/sawed-slayer.png)  
-_Credits: Toast, id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223_
 
 #### Combat Shotgun
 _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
