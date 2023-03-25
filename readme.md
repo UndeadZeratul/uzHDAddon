@@ -99,6 +99,14 @@ _Credits:
 HUD & Pickup Sprites: Matt  
 Fireselect Graphic: Combine Kegan_
 
+#### Rocket Launcher
+The Rocket Launcher has been swapped out with something a recoil-less rifle in the form of the Direct Hit, which has been adjusted to account for the extended mag option.
+
+![rocket-launcher](./screenshots/rocket-launcher.png)
+_[DRLA Credits](#DRLA-Credits):_  
+_Direct Hit Sprites: PillowBlaster ([DRLA](https://forum.zdoom.org/viewtopic.php?t=37044))_  
+_Extended Mag addon: Sonik.O_
+
 #### Blooper Grenade Launcher
 The Blooper has been swapped out for a Break-Action Grenade Launcher by Sonik.O.
 
