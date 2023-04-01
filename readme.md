@@ -133,16 +133,16 @@ The Blooper has been swapped out for a Break-Action Grenade Launcher by Sonik.O.
 _Credits: Toast, Sonik.O_
 
 #### Brontornis
-The Brontornis' Ironsight dot has been updated to match the default Front Sight sprite.
+The Brontornis Rifle has been swapped out for something with a bit better perspective, as well as fitting the overall aesthetic of the rest of the pack.
 
-![brontornis](./screenshots/brontornis.png)  
-_Credits: Matt_
+![brontornis-rifle](./screenshots/brontornis-rifle.png)  
+_Credits: Sonik.O_
 
 #### BFG-9000
 The BFG-9000 Has been swapped out for one that still feels like a BFG, but one that fits the overall aesthetic a bit better.
 
 ![bfg-9000](./screenshots/bfg-9000.png)
-_Credits: Sonik.O_
+_Credits: Sonik.O, 3D Realms_
 
 #### 10mm Pistol
 _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
