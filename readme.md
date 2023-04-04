@@ -60,8 +60,8 @@ The SMG has been swapped out with something a bit more modern and sleek, as well
 ![smg](./screenshots/smg.png)  
 ![smg-reflex](./screenshots/smg-reflex.png)  
 _Credits:  
-HUD Sprites: ZikShadow, Jeimuzu, DoomNukem  
-Pickup Sprites: ZikShadow, DoomNukem_
+HUD Sprites: vitriolicv, ZikShadow, Jeimuzu, DoomNukem  
+Pickup Sprites: vitriolicv, ZikShadow, DoomNukem_
 
 #### Arkoudi Revolver Shotgun
 _Arkoudi Revolver Shotgun requires [Potetobloke's Weapon Pack](https://cdn.discordapp.com/attachments/713246305392001055/1017590614365323295/PB-Mohl_HDAddon_WeaponPack_4.8.2a_RC2a.pk3)_
