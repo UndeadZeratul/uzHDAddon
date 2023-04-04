@@ -37,7 +37,7 @@ The pistol has been swapped out with Glock18 sprites, then recolored to match th
 ![pistol](./screenshots/pistol.png)  
 ![hush-puppy](./screenshots/hush-puppy.png)  
 _Credits:  
-HUD Sprites: JoeyTD & Minigunner ([Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18))  
+HUD Sprites: Toast, JoeyTD & Minigunner ([Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18))  
 Silencer: Swampyrad  
 Pickup Sprites: Toast  
 Fireselect Graphic: Combine Kegan_
