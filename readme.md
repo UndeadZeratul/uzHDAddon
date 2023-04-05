@@ -35,12 +35,15 @@ _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack
 The pistol has been swapped out with Glock18 sprites, then recolored to match thematically.  The "Quick Swap" set of sprites have the pistol correctly flipped, as well.
 
 ![pistol](./screenshots/pistol.png)  
+_Credits:  
+HUD Sprites: Toast, JoeyTD & Minigunner ([Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18))  
+Pickup Sprites: Toast  
+Fireselect Graphic: Combine Kegan_  
+
 ![hush-puppy](./screenshots/hush-puppy.png)  
 _Credits:  
 HUD Sprites: Toast, JoeyTD & Minigunner ([Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18))  
-Silencer: Swampyrad  
-Pickup Sprites: Toast  
-Fireselect Graphic: Combine Kegan_
+Pickup Sprites: Toast_  
 
 #### Revolvers
 _Scoped Revolver requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
