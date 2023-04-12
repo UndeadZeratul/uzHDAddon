@@ -36,14 +36,14 @@ The pistol has been swapped out with Glock18 sprites, then recolored to match th
 
 ![pistol](./screenshots/pistol.png)  
 _Credits:  
-HUD Sprites: Toast, JoeyTD & Minigunner ([Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18))  
-Pickup Sprites: Toast  
+HUD Sprites: TommyGalano5, JoeyTD & Minigunner ([Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18))  
+Pickup Sprites: TommyGalano5  
 Fireselect Graphic: Combine Kegan_  
 
 ![hush-puppy](./screenshots/hush-puppy.png)  
 _Credits:  
-HUD Sprites: Toast, JoeyTD & Minigunner ([Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18))  
-Pickup Sprites: Toast_  
+HUD Sprites: TommyGalano5, JoeyTD & Minigunner ([Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18))  
+Pickup Sprites: TommyGalano5_  
 
 #### Revolvers
 _Scoped Revolver requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
@@ -88,13 +88,13 @@ _Sawed-Off & Scoped Slayers require [Peppergrinder](https://gitlab.com/hdiscord-
 The Slayers have been swapped out with a more detailed, yet still vanilla-like design.
 
 ![slayer](./screenshots/slayer.png)  
-_Credits: Toast, id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223_
+_Credits: TommyGalano5, id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223_
 
 ![scoped-slayer](./screenshots/scoped-slayer.png)  
-_Credits: Toast, id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223, A1337Spy, Potetobloke_
+_Credits: TommyGalano5, id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223, A1337Spy, Potetobloke_
 
 ![sawed-slayer](./screenshots/sawed-slayer.png)  
-_Credits: Toast, id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223_
+_Credits: TommyGalano5, id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFaust, Sonik.O, ChopBlock223_
 
 #### ZM-66 Assault Rifle
 The ZM-66 has been swapped out with an older version of its HUD & pickup sprites, then had its scope lens recolored to match thematically.
@@ -133,7 +133,7 @@ _Extended Mag addon: Sonik.O_
 The Blooper has been swapped out for a Break-Action Grenade Launcher by Sonik.O.
 
 ![blooper](./screenshots/blooper.png)  
-_Credits: Toast, Sonik.O_
+_Credits: TommyGalano5, Sonik.O_
 
 #### Brontornis
 The Brontornis Rifle has been swapped out for something with a bit better perspective, as well as fitting the overall aesthetic of the rest of the pack.
@@ -358,7 +358,7 @@ _Requires [Hideous Helmet Extended]()_
 The various Preset HUD Backgrounds have all been recolored to match thematically.
 
 ![alpha-hud](./screenshots/alpha-hud.png)
-_Credits: Toast, id Software, Sgt. Kiwi, Arcterezion_  
+_Credits: TommyGalano5, id Software, Sgt. Kiwi, Arcterezion_  
 
 ![arc-hud](./screenshots/arc-hud.png)  
 _Credits: Arcterezion_  
