@@ -257,6 +257,13 @@ _Credits: Clay, Infinity Ward, id Software, KDiZD Team, Banjo Software, MrYifYif
 
 ### Item Sprite Changes
 
+#### Automap
+
+The Automap has been replaced with a fresh new look!
+
+![automap](./screenshots/automap.png)
+_Credits: Sonik.O_
+
 #### Light-amp Goggles
 
 The Light-amp Goggles have been replaced to feel more tactical
