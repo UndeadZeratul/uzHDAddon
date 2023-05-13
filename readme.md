@@ -391,7 +391,7 @@ When playing id Doom, the cacodemon's death animation has been replaced with one
 _Credits: Robo_Cola, id Software_
 
 #### HUD Helmet Backgrounds
-_Requires [Hideous Helmet Extended]()_
+_Requires [Hideous Helmet Extended](https://github.com/UndeadZeratul/hideous-helmet-extended)_
 
 The various Preset HUD Backgrounds have all been recolored to match thematically.
 
