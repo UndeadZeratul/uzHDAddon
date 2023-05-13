@@ -257,6 +257,13 @@ _Credits: Clay, Infinity Ward, id Software, KDiZD Team, Banjo Software, MrYifYif
 
 ### Item Sprite Changes
 
+#### Keys
+
+The keys have all had their pickup sprites replaced with a set that gives them both variety as well as a fresh new look!
+
+![keys](./screenshots/keys.png)  
+_Credits: Sonik.O_  
+
 #### Automap
 
 The Automap has been replaced with a fresh new look!
