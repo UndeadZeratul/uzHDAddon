@@ -285,6 +285,16 @@ The Shield Core Pickup Sprite has been replaced with one that fits the Space Mar
 ![shieldcore](./screenshots/shield-core.png)  
 _Credits: Sonik.O_
 
+#### Squad Summoner
+
+By way of the other replacements, the Squad Summoner has thus also been updated.
+
+![squad-summoner](./screenshots/squad-summoner.png)  
+_Credits:_  
+_Garrison Armor ([DRLA Credits](#DRLA-Credits)): SoloSpaghetti ([DRLA](https://forum.zdoom.org/viewtopic.php?t=37044))_  
+_Liberator: Matt & Combine Kegan_  
+_Shield Core: Sonik.O_
+
 #### HUD Helmet
 _Requires [Hideous Helmet](https://forum.zdoom.org/viewtopic.php?f=43&t=71950)_
 
