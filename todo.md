@@ -49,6 +49,8 @@
 - ~~BFG?~~
 
 - Bullet Casings
+  - Brontornis Round Sabots
+  - 4ga Slug Sabots
 
 ### Peppergrinder
 - ~~ZM94 "Saberwolf" Sniper Rifle~~
