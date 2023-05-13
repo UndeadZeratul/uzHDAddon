@@ -278,6 +278,13 @@ The Environment Suit has been replaced with one that includes a full-body contai
 ![radsuit](./screenshots/radsuit.png)
 _Credits: Sonik.O_
 
+#### Shield Core
+
+The Shield Core Pickup Sprite has been replaced with one that fits the Space Marine aesthetic while still maintaining the ancient rusty look.
+
+![shieldcore](./screenshots/shield-core.png)  
+_Credits: Sonik.O_
+
 #### HUD Helmet
 _Requires [Hideous Helmet](https://forum.zdoom.org/viewtopic.php?f=43&t=71950)_
 
