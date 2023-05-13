@@ -51,7 +51,7 @@ _Scoped Revolver requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/
 The Revolver's main body and Ironsights have been recolored, which also applies to the Peppergrinder Scoped Revolver.
 
 ![revolver](./screenshots/revolver.png)  
-![scoped-revolver](./screenshots/scoped-revolver.png)
+![scoped-revolver](./screenshots/scoped-revolver.png)  
 _Credits:  
 Revolver Base: Scuba Steve  
 Scope: PrettyFist, Sonik.O_
@@ -111,7 +111,7 @@ The Vulcanette has been swapped out to give it a much more fitting, hefty minigu
 _Credits: Sonik.O_
 
 H.E.R.P. Changes
-![herp](./screenshots/herp.png)
+![herp](./screenshots/herp.png)  
 
 #### Liberator Battle Rifle
 The Liberator has been swapped out with an older version of its HUD & pickup sprites, then had its scope lens recolored to match thematically.
@@ -124,7 +124,7 @@ Fireselect Graphic: Combine Kegan_
 #### Rocket Launcher
 The Rocket Launcher has been swapped out with something a recoil-less rifle in the form of the Direct Hit, which has been adjusted to account for the extended mag option.
 
-![rocket-launcher](./screenshots/rocket-launcher.png)
+![rocket-launcher](./screenshots/rocket-launcher.png)  
 _[DRLA Credits](#DRLA-Credits):_  
 _Direct Hit Sprites: PillowBlaster ([DRLA](https://forum.zdoom.org/viewtopic.php?t=37044))_  
 _Extended Mag addon: Sonik.O_
@@ -144,7 +144,7 @@ _Credits: Sonik.O_
 #### BFG-9000
 The BFG-9000 Has been swapped out for one that still feels like a BFG, but one that fits the overall aesthetic a bit better.
 
-![bfg-9000](./screenshots/bfg-9000.png)
+![bfg-9000](./screenshots/bfg-9000.png)  
 _Credits: Sonik.O, 3D Realms_
 
 #### 10mm Pistol
@@ -204,7 +204,7 @@ _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder
 
 The Vera has had its Ironsight dots recolored to match its reticle sprites, as well as have its ammo box & stock recolored to match thematically.
 
-![vera](./screenshots/vera.png)
+![vera](./screenshots/vera.png)  
 _Credits: Ultra64_
 
 #### BreakerTek P90
@@ -252,7 +252,7 @@ _Requires [UMS Automag](https://dastrukar.gitlab.io/hddons-list/#weapons:umsauto
 
 The UMS Automag has been replaced with something that also visually has the mag in front of the player's hand, but also fits a bit more cohesively, visually speaking.
 
-![automag](./screenshots/automag.png)
+![automag](./screenshots/automag.png)  
 _Credits: Clay, Infinity Ward, id Software, KDiZD Team, Banjo Software, MrYifYif, 3D Realms, Enchanter, HACX_
 
 ### Item Sprite Changes
@@ -261,7 +261,7 @@ _Credits: Clay, Infinity Ward, id Software, KDiZD Team, Banjo Software, MrYifYif
 
 The Automap has been replaced with a fresh new look!
 
-![automap](./screenshots/automap.png)
+![automap](./screenshots/automap.png)  
 _Credits: Sonik.O_
 
 #### Light-amp Goggles
@@ -275,7 +275,7 @@ _Credits: osjclatchford_
 
 The Environment Suit has been replaced with one that includes a full-body containment, rather than simply looking like a cleanup garment.
 
-![radsuit](./screenshots/radsuit.png)
+![radsuit](./screenshots/radsuit.png)  
 _Credits: Sonik.O_
 
 #### Shield Core
@@ -301,7 +301,7 @@ _Requires [Hideous Helmet](https://forum.zdoom.org/viewtopic.php?f=43&t=71950)_
 The HUD Helmet has been replaced to match the mugshots provided by HUD Helmet.
 
 ![hud-helmet](./screenshots/hud-helmet.png)  
-Credits: Mephresfire_
+_Credits: Mephresfire_
 
 #### Micro-Cell
 _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
@@ -388,7 +388,7 @@ _Requires [Hideous Helmet Extended]()_
 
 The various Preset HUD Backgrounds have all been recolored to match thematically.
 
-![alpha-hud](./screenshots/alpha-hud.png)
+![alpha-hud](./screenshots/alpha-hud.png)  
 _Credits: TommyGalano5, id Software, Sgt. Kiwi, Arcterezion_  
 
 ![arc-hud](./screenshots/arc-hud.png)  
@@ -397,7 +397,7 @@ _Credits: Arcterezion_
 ![udv-hud](./screenshots/udv-hud.png)  
 _Credits: Saegiru, WildWeasel, 2800fps_  
 
-![udv-alt-hud](./screenshots/udv-alt-hud.png)
+![udv-alt-hud](./screenshots/udv-alt-hud.png)  
 _Credits: Saegiru, WildWeasel, 2800fps, Lightsource_  
 
 ---
@@ -412,7 +412,7 @@ _Credits: Saegiru, WildWeasel, 2800fps, Lightsource_
 _Assets used from [DRLA](https://forum.zdoom.org/viewtopic.php?t=37044) have been done so with permission.  
 **PERMISSION FROM DRLA AUTHORS IS REQUIRED TO RE-USE THEM**_
 
-- **SoloSpaghetti**, for the Bulletproof Vest sprite (Sneaking Suit), the Tactical Armor sprite (Garrison Armor), and the Western Armor sprite (Leather Jacket)
+- **SoloSpaghetti**, for the Bulletproof Vest sprite (Sneaking Suit), the Tactical Armor sprite (Garrison Armor), and the Western Armor sprite (Leather Jacket)  
 
 ### UNKNOWN CREDITS
 _I've tried finding the original owner for these assets and have come up empty.  
