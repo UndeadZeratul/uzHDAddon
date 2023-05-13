@@ -9,6 +9,8 @@
 
 - Muzzle Flash Refinements
   - Remove as much of the redundant portions of the flash overlay as necessary
+- BFG Pickup Sprite too big
+- Vulcanette Pickup Sprite too small
 
 ---
 ## Recolors
@@ -39,11 +41,11 @@
 ## Resprites
 
 - ~~Blooper Grenade Launcher front sight~~
-- SMG
-- Slayer
-- Rocket Launcher
-- Brontornis
-- BFG?
+- ~~SMG~~
+- ~~Slayer~~
+- ~~Rocket Launcher~~
+- ~~Brontornis~~
+- ~~BFG?~~
 
 - Bullet Casings
 
