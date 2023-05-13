@@ -264,6 +264,13 @@ The Light-amp Goggles have been replaced to feel more tactical
 ![lightamp](./screenshots/lightamp.png)  
 _Credits: osjclatchford_
 
+#### Environmental Shielding Suit
+
+The Environment Suit has been replaced with one that includes a full-body containment, rather than simply looking like a cleanup garment.
+
+![radsuit](./screenshots/radsuit.png)
+_Credits: Sonik.O_
+
 #### HUD Helmet
 _Requires [Hideous Helmet](https://forum.zdoom.org/viewtopic.php?f=43&t=71950)_
 
