@@ -169,6 +169,12 @@ Graphic "STMSI0", 19, 21
 	Patch "STWLSHL", 13, 6
 }
 
+Sprite "STPEA0", 57, 17
+{
+	Offset 28, 17
+	Patch "SXTWLP0", 0, 0
+}
+
 Sprite "STBEA0", 57, 17
 {
 	Offset 28, 17
