@@ -215,6 +215,14 @@ The P90 has had its sight dot recolored to match the reticle color.
 ![p90](./screenshots/p90.png)  
 _Credits: Prettyfist_
 
+#### Bastard Rifle
+_Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
+
+The Bastard Rifle has been replaced with this totally rad "Atomic Purple" skin straight out of the 90s!.
+
+![bastard-rifle](./screenshots/bastard-rifle.png)  
+_Credits: Skelegant, Combine_Kegan_
+
 #### ZM94 "Sniperwolf" Anti-Material Rifle
 _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
 
