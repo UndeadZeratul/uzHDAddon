@@ -369,6 +369,7 @@ Various ammunition drops and their spent casings have been swapped out with Capt
 ![4mm](./screenshots/4mm.png)  
 ![5mm](./screenshots/5mm.png)  
 ![7mm](./screenshots/7mm.png)  
+![50OMG](./screenshots/50OMG.png)  
 ![40mm](./screenshots/40mm.png)
 ![shells](./screenshots/shells.png)  
 ![slugs](./screenshots/slugs.png)  
