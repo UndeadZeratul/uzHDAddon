@@ -539,36 +539,55 @@ Sprite "TEN7A0", 80, 40
 	}
 }
 
-Sprite "RBRSA1A5", 8, 35
+Sprite "RBRSA1", 7, 7
 {
-	XScale 8.000
-	YScale 8.000
-	Offset 4, 35
-	Patch "7RNDA0", 0, 0
+	XScale 7.000
+	YScale 7.000
+	Offset 3, 7
+	Patch "776", -67, -40
 }
 
-Sprite "RBRSA2A8", 8, 35
+Sprite "RBRSA2A8", 25, 8
 {
-	XScale 8.000
-	YScale 8.000
-	Offset 4, 35
-	Patch "7RNDA0", 0, 0
+	XScale 7.000
+	YScale 7.000
+	Offset 12, 8
+	Patch "776", -35, -84
+	{
+		FlipY
+		Rotate 90
+	}
 }
 
-Sprite "RBRSA3A7", 8, 35
+Sprite "RBRSA3A7", 35, 8
 {
-	XScale 8.000
-	YScale 8.000
-	Offset 4, 35
-	Patch "7RNDA0", 0, 0
+	XScale 7.000
+	YScale 7.000
+	Offset 16, 8
+	Patch "776", 0, -25
+	{
+		FlipY
+		Rotate 90
+	}
 }
 
-Sprite "RBRSA4A6", 8, 35
+Sprite "RBRSA4A6", 25, 8
 {
-	XScale 8.000
-	YScale 8.000
-	Offset 4, 35
-	Patch "7RNDA0", 0, 0
+	XScale 7.000
+	YScale 7.000
+	Offset 12, 8
+	Patch "776", 0, -84
+	{
+		Rotate 90
+	}
+}
+
+Sprite "RBRSA5", 7, 7
+{
+	XScale 7.000
+	YScale 7.000
+	Offset 3, 7
+	Patch "776", -67, -67
 }
 
 Sprite "ORNDA0", 9, 45
