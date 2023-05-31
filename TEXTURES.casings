@@ -167,6 +167,57 @@ Sprite "RBRSB4B6", 19, 8
 	}
 }
 
+Sprite "OGBSA1", 7, 7
+{
+	XScale 5.000
+	YScale 5.000
+	Offset 3, 7
+	Patch "50OMG", -79, -72
+}
+
+Sprite "OGBSA2A8", 24, 9
+{
+	XScale 5.000
+	YScale 5.000
+	Offset 12, 9
+	Patch "50OMG", -55, -87
+	{
+		FlipY
+		Rotate 90
+	}
+}
+
+Sprite "OGBSA3A7", 34, 9
+{
+	XScale 5.000
+	YScale 5.000
+	Offset 17, 9
+	Patch "50OMG", -52, -10
+	{
+		FlipY
+		Rotate 90
+	}
+}
+
+Sprite "OGBSA4A6", 24, 9
+{
+	XScale 5.000
+	YScale 5.000
+	Offset 12, 9
+	Patch "50OMG", -6, -87
+	{
+		Rotate 90
+	}
+}
+
+Sprite "OGBSA5", 7, 7
+{
+	XScale 5.000
+	YScale 5.000
+	Offset 3, 7
+	Patch "50OMG", -79, -91
+}
+
 Sprite "ESHLA1", 3, 4
 {
 	Offset 1, 4
