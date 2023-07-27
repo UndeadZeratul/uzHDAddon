@@ -239,21 +239,31 @@ The Scopeless Boss Rifle has had its Ironsight dots recolored to match the retic
 ![no-scope-boss](./screenshots/no-scope-boss.png)  
 _Credits: HexaDoken_
 
+#### PD-42
+_Requires [Icarus Innovations Improved](https://github.com/HDest-Community/icarus-innovations-improved)_
+
+The PD-42's body has been recolored to give better visual contrast between it and the player's gloves, as well match thematically.  The Ironsight dot has also been updated to match the crosshair color.
+
+![pd-42](./screenshots/pd-42.png)  
+_Credits: Icarus, Railgunner_
+
 #### Six-12 Shotgun
-_Requires [Six12](https://gitlab.com/icarus-innovations/hdest-addons/six12)_
+_Requires [Icarus Innovations Improved](https://github.com/HDest-Community/icarus-innovations-improved)_
 
 The Six12 Shotgun has been replaced with one made by Sonik.O.
 
 ![six12](./screenshots/six12.png)  
 _Credits: Sonik.O_
 
-#### PD-42
-_Requires [PD42](https://gitlab.com/icarus-innovations/hdest-addons/pd-42)_
+#### USP-45
+_Requires [Icarus Innovations Improved](https://github.com/HDest-Community/icarus-innovations-improved)_
 
-The PD-42's body has been recolored to give better visual contrast between it and the player's gloves, as well match thematically.  The Ironsight dot has also been updated to match the crosshair color.
+The USP-45 has been replaced with Project Brutality's own .45 ACP Pistol, with a more fitting pickup sprite and recolored to match thematically.
 
-![pd-42](./screenshots/pd-42.png)  
-_Credits: Icarus, Railgunner_
+![usp-45](./screenshots/usp-45.png)
+_Credits:  
+HUD Sprites: Sergeant Mark IV, Moa Dixon  
+Pickup Sprites: Carbine Dioxide_
 
 #### UMS Automag
 _Requires [UMS Automag](https://dastrukar.gitlab.io/hddons-list/#weapons:umsautomag-zikshadow)_
