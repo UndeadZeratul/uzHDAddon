@@ -232,7 +232,7 @@ The ZM94 has been swapped out with the [ZM69](https://forum.zdoom.org/viewtopic.
 _Credits: Tartlman, Matt_
 
 #### Iron Sights Boss Rifle
-_Requires [Hexadoken's Legacy Continued](https://github.com/Gay-Snake-Squad/HexaDoken-Legacy-Continued)_
+_Requires [Hexadoken's Legacy Continued](https://github.com/HDest-Community/HexaDoken-Legacy-Continued)_
 
 The Scopeless Boss Rifle has had its Ironsight dots recolored to match the reticle sight sprites.
 
