@@ -67,7 +67,7 @@ HUD Sprites: vitriolicv, ZikShadow, Jeimuzu, DoomNukem
 Pickup Sprites: vitriolicv, ZikShadow, DoomNukem_
 
 #### Arkoudi Revolver Shotgun
-_Arkoudi Revolver Shotgun requires [Potetobloke's Weapon Pack](https://cdn.discordapp.com/attachments/713246305392001055/1017590614365323295/PB-Mohl_HDAddon_WeaponPack_4.8.2a_RC2a.pk3)_
+_Arkoudi Revolver Shotgun requires [Potetobloke's Bangers & Mash](https://github.com/Potetobloke/PB_HDAddon_Bangers-And-Mash.git)_
 
 The Arkoudi Revolver Shotgun's ironsights have been recolored.
 
