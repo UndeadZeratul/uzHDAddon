@@ -262,7 +262,7 @@ The USP-45 has been replaced with Project Brutality's own .45 ACP Pistol, with a
 
 ![usp-45](./screenshots/usp-45.png)
 _Credits:  
-HUD Sprites: Sergeant Mark IV, Moa Dixon  
+HUD Sprites: DoomNukem, Sergeant Mark IV, Moa Dixon  
 Pickup Sprites: Carbine Dioxide_
 
 #### UMS Automag
@@ -420,10 +420,10 @@ _Credits: TommyGalano5, id Software, Sgt. Kiwi, Arcterezion_
 _Credits: Arcterezion_  
 
 ![udv-hud](./screenshots/udv-hud.png)  
-_Credits: Saegiru, WildWeasel, 2800fps_  
+_Credits: Saegiru, WildWeasel, 2800fps, DoomNukem_  
 
 ![udv-alt-hud](./screenshots/udv-alt-hud.png)  
-_Credits: Saegiru, WildWeasel, 2800fps, Lightsource_  
+_Credits: Saegiru, WildWeasel, 2800fps, Lightsource, DoomNukem_  
 
 ---
 ## Special Thanks
