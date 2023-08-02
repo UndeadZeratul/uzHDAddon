@@ -3,8 +3,8 @@
 // Weapon Tags
 TAG_FIST                         = "Unarmed";
 TAG_CHAINSAW                     = "'Lumberjack' Chainsaw";
-TAG_PISTOL                       = "Glock 15 Pistol";
-TAG_REVOLVER                     = "Deinonychus Revolver";
+TAG_PISTOL                       = "Glock 15 9x22mm Pistol";
+TAG_REVOLVER                     = "Deinonychus .355 Masterball Revolver";
 TAG_SMG                          = "MP-46 Heavy Automatic Pistol";
 TAG_HUNTER                       = "SPOS-E28 'Hunter' Pump-Action Shotgun";
 TAG_SLAYER                       = "SL-41 'Slayer' Double-Barreled Shotgun";
@@ -27,18 +27,31 @@ TAG_BLACKJACK                    = "AceCorp 'Blackjack' .355 Masterball Rifle";
 TAG_GUNGNIR                      = "AceCorp 'Gungnir' Frag Beam Rifle";
 TAG_HAMMERHEAD                   = "AceCorp CIR-37 'Hammerhead' Plasma Minigun";
 TAG_JACKDAW                      = "AceCorp 'Jackdaw' 9x22mm SMG";
-TAG_MAJESTIC                     = "AceCorp 'Majestic' .500 S&W Magnum Railgun";
+TAG_MAJESTIC                     = "AceCorp 'Majestic' .500 S&W Railgun";
 TAG_REDLINE                      = "AceCorp RDL-N3 'Redline' Thermal Lance";
 TAG_SCORPION                     = "AceCorp 'Scorpion' 35mm Sniper Cannon";
 TAG_VIPER                        = "AceCorp 'Viper' .50 AM Handgun";
 TAG_WYVERN                       = "AceCorp 'Wyvern' .50 OMG Double-Barreled Rifle";
 
+PEPPER_TAG_BOXCANNON             = "L&M Box Cannon C24 Pistol Carbine";
+PEPPER_TAG_BPX                   = "LIG Mauer BPX 9x22mm Carbine";
 PEPPER_TAG_GREELY                = "KAG 'Greely' Pump-Action SuperShorty";
+PEPPER_TAG_HELZING               = "L&M 'Helzing' .355 Masterball Handgun";
 PEPPER_TAG_ILIB                  = "Volt ZM7 'Liberator' Battle Rifle";
+PEPPER_TAG_LISA                  = "0H1-MK 'Lisa' Plasma DMR";
+PEPPER_TAG_LOTUS                 = "KAG 'Lotus' Revolver Carbine";
+PEPPER_TAG_MAULER                = "DAIMAOU 'Mauler' Gretchenfrage Cannon";
+PEPPER_TAG_ODDBALL               = "UAC 'Oddball' Energy PDW";
+PEPPER_TAG_OTIS                  = "Otis-5 .500 S&W Revolver";
+PEPPER_TAG_P90                   = "L&M BreakerTek P90 9x25 NDM PDW";
+PEPPER_TAG_RUBYMASER             = "Rubicon AEF-322c 'Ruby Maser' Microwave Laser";
 PEPPER_TAG_SAWEDSLAYER           = "Sawn-off SL-41 'Slayer' Double-Barreled Shotgun";
-PEPPER_TAG_SCOPEDSLAYER          = "Scoped SL-41 'Slayer' Double-Barreled Shotgun";
-PEPPER_TAG_SCOPEDREVOLVER        = "Scoped Deinonychus Revolver";
-PEPPER_TAG_ZM94                  = "Volt ZM94 Anti-Materiel Rifle";
+PEPPER_TAG_SCOPEDSLAYER          = "SL-41 'Slayer' Double-Barreled Shotgun";
+PEPPER_TAG_SCOPEDREVOLVER        = "Deinonychus .355 Masterball Revolver";
+PEPPER_TAG_TROG                  = "Volt AR-29 'TRO-G' 4.26mm Assault Rifle";
+PEPPER_TAG_VERA                  = "Volt M764 'Vera' Squad Automatic Weapon";
+PEPPER_TAG_YEYUZE                = "VPF Arms 'Yeyuze' Pump-Action Grenade Launcher";
+PEPPER_TAG_ZM94                  = "Volt ZM94 'Sabrewolf' Anti-Materiel Rifle";
 
 TAG_NSB                          = "Mk. IV 'Boss' 7.76mm Bolt-action Rifle";
 TAG_9MMBOSS                      = "Mk. IV 'Boss' 9x22mm Bolt-action Rifle";
@@ -49,13 +62,13 @@ TAG_OMGBOSS                      = "Mk. IV 'Boss' .50 OMG Bolt-action Anti-Mater
 TAG_WORSTBOSS                    = "Mk. IV 'Boss' 7.76mm Bolt-action Rifle";
 
 TAG_BARRACUDA                    = "Icarus 'Barracuda' Double-Barreled Revolver Shotgun";
-TAG_BITCH                        = "Icarus 'Bitch' 4mm LMG";
+TAG_BITCH                        = "Icarus 'Bitch' 4.26mm LMG";
 TAG_FENRIS                       = "Icarus CFL-21 'Fenris' Cold Fusion Laser";
 TAG_FLAMENWERFER77               = "Icarus FT-77 'Flamenwerfer' Flamethrower";
 TAG_FRONTIERSMAN                 = "Icarus 'Frontiersman' 7.76mm Lever-Action Rifle";
 TAG_GFB9                         = "Icarus GFB-9 Gretchenfrage Blaster Mk. 9";
 TAG_NCT                          = "Icarus NS3-Cr.Kt";
-TAG_NYX                          = "Icarus CM-3 'Nyx' .355 Magnum";
+TAG_NYX                          = "Icarus CM-3 'Nyx' .355 Masterball Handgun";
 TAG_PD42                         = "Icarus PD-42 Suppressed 4.26mm PDW";
 TAG_SIX12                        = "Icarus 'Six-12' Revolver Shotgun";
 TAG_UMP                          = "Icarus UMP-45 .45 ACP PDW";
@@ -99,8 +112,8 @@ TAG_DUDROCKET                    = "Dud Rocket Grenade";
 
 TAG_420FREI                      = ".451 Frei Round";
 TAG_420FREI_BOX                  = ".451 Frei Box";
-TAG_069BORE                      = ".410 Bore Shell";
-TAG_069BORE_BOX                  = ".410 Bore Box";
+TAG_069BORE                      = ".410 000 Buckshot Shell";
+TAG_069BORE_BOX                  = ".410 000 Buckshot Box";
 TAG_500SW                        = ".500 S&W Round";
 TAG_500SWL                       = ".500 S&W Light Round";
 TAG_500SWH                       = ".500 S&W Heavy Round";
@@ -108,7 +121,7 @@ TAG_EXPLSHL                      = "12ga HE-Slug";
 TAG_FLARESHELL                   = "12ga Flare Shell";
 TAG_G45LC                        = "Golden .45 LC Round";
 TAG_45LC                         = ".45 LC Round";
-TAG_50AE                         = ".50 AE Round";
+TAG_50AE                         = ".50 Action Express Round";
 TAG_50AM                         = ".50 Action Mega Round";
 TAG_50OMG                        = ".50 OMG Round";
 TAG_MUSKETBALL                   = "Lead Ball";
@@ -132,7 +145,12 @@ TAG_300SAVAGEBRASS               = ".300 Savage Casing";
 TAG_762TOKAREV                   = "7.62mm Tokarev Round";
 TAG_762TOKAREVBRASS              = "7.62mm Tokarev Casing";
 
-PEPPER_TAG_NDM                   = "9x22mm Nail Driver Maximum Round";
+TAG_BLACKHAWKBOLT                = "Regular Crossbow Bolt";
+TAG_BLACKHAWKBOLT_E              = "Electric Crossbow Bolt";
+TAG_BLACKHAWKBOLT_I              = "Incendiary Crossbow Bolt";
+TAG_BLACKHAWKBOLT_N              = "Nuclear Crossbow Bolt";
+
+PEPPER_TAG_NDM                   = "9x25mm Nail Driver Maximum Round";
 
 TAG_GASTANK                      = "Fuel Tank";
 
@@ -151,7 +169,7 @@ TAG_VIPERMAG                     = "'Viper' .50 AM Magazine";
 
 PEPPER_TAG_9MCLIP                = "9x22mm Clip";
 PEPPER_TAG_355MAG                = "Helzing .355 Masterball Magazine";
-PEPPER_TAG_NDM_MAG               = "9x22mm NDM Magazine";
+PEPPER_TAG_NDM_MAG               = "9x25mm NDM Magazine";
 PEPPER_TAG_ZM94_MAG              = "Volt ZM94 .50 OMG Magazine";
 
 TAG_50OMGCLIP                    = ".50 OMG Clip";
@@ -241,7 +259,7 @@ PICKUP_BFG9000                   = "Picked up a Botis Field Glyph v9.0";
 
 PICKUP_BLACKHAWK_PREFIX          = "Picked up a ";
 PICKUP_BLACKHAWK_SUFFIX          = ".";
-PICKUP_BLACKHAWKBOLT_PREFIX      = "Picked up an ";
+PICKUP_BLACKHAWKBOLT_PREFIX      = "Picked up a ";
 PICKUP_BLACKHAWKBOLT_SUFFIX      = ".";
 PICKUP_BLACKHAWKBOLT_E_PREFIX    = "Picked up an ";
 PICKUP_BLACKHAWKBOLT_E_SUFFIX    = ".";
@@ -286,6 +304,8 @@ PICKUP_WYVERN_AUTOLOADER         = "Auto-loading ";
 PICKUP_WYVERN_SUFFIX             = ".";
 
 PEPPER_PICKUP_GREELY             = "Picked up a Kabocha Arms Group 'Greely' Pump-Action SuperShorty.";
+PEPPER_PICKUP_ODDBALL            = "Picked up a UAC Oscilliating Dynamo Ballistic Alternative Laser 'Oddball' energy PDW.";
+PEPPER_PICKUP_TROG               = "Picked up a Volt Tactical Response Operation-Grenade Rifle";
 
 PICKUP_NSB                       = "Picked up a Mk. IV 'Boss' 7.76mm Bolt-action Rifle.";
 PICKUP_9MMBOSS                   = "Picked up a Mk. IV 'Boss' 9x22mm Bolt-action Rifle.";
@@ -351,8 +371,8 @@ PICKUP_USP_PREFIX                = "Picked up a ";
 PICKUP_USP_SUFFIX                = ".";
 
 // Ammo Pickup Messages
-PICKUP_PistolAmmo                = "Picked up a 9x22mm Parampudicum Round.";
-PICKUP_PistolAmmoPlural          = "Picked up some 9x22mm Parampudicum Rounds.";
+PICKUP_PistolAmmo                = "Picked up a 9x22mm Parumpudicum Round.";
+PICKUP_PistolAmmoPlural          = "Picked up some 9x22mm Parumpudicum Rounds.";
 PICKUP_RevolverAmmo              = "Picked up a .355 Masterball Round.";
 PICKUP_RevolverAmmoPlural        = "Picked up some .355 Masterball Rounds.";
 PICKUP_ShotgunShell              = "Picked up a 12ga 00 Buckshot Shell.";
@@ -370,7 +390,7 @@ PICKUP_DUDROCKET                 = "Picked up a defused 40mm Short-Range Reduced
 PICKUP_DUDROCKETNEW              = "Picked up (and defused) a 40mm Short-Range Reduced-Arc Hybrid Rocket Grenades.";
 PICKUP_HEATROCKET                = "Picked up a High-Explosive Anti-Tank Round.";
 
-PICKUP_50AE                      = "Picked up a .50 AE Round.";
+PICKUP_50AE                      = "Picked up a .50 Action Express Round.";
 PICKUP_50AEBOX                   = "Picked up a box of .50 Action Express Rounds.";
 PICKUP_10MM                      = "Picked up a 10mm Round.";
 PICKUP_10MMBRASS                 = "Picked up a 10mm Casing.";
@@ -394,11 +414,11 @@ PICKUP_BIRDSHOTSHELLBOX          = "Picked up a box of 20ga #3 Birdshot Shells."
 PICKUP_300SAVAGE                 = "Picked up a .300 Savage Round.";
 PICKUP_300SAVAGEBOX              = "Picked up a box of .300 Savage Rounds.";
 PICKUP_300SAVAGEBRASS            = "Picked up a .300 Savage Casing.";
-PICKUP_762TOKAREV                = "Picked up a 7.62 Tokarev Round.";
-PICKUP_762TOKAREVBRASS           = "Picked up a 7.62 Tokarev Casing.";
-PICKUP_762TOKAREVBOX             = "Picked up a box of 7.62 Tokarev Rounds.";
-PICKUP_6MMFLECHETTE              = "Picked up a 6mm Flechette Round.";
-PICKUP_6MMFLECHETTEBOX           = "Picked up a box of 6mm Flechette Rounds.";
+PICKUP_762TOKAREV                = "Picked up a 7.62mm Tokarev Round.";
+PICKUP_762TOKAREVBRASS           = "Picked up a 7.62mm Tokarev Casing.";
+PICKUP_762TOKAREVBOX             = "Picked up a box of 7.62mm Tokarev Rounds.";
+PICKUP_6MMFLECHETTE              = "Picked up a 6x42mm Flechette Round.";
+PICKUP_6MMFLECHETTEBOX           = "Picked up a box of 6x42mm Flechette Rounds.";
 PICKUP_5MM                       = "Picked up a 5x12mm Bumblebee Rimfire Round.";
 PICKUP_5MMBOX                    = "Picked up a box of 5x12mm Bumblebee Rimfire Rounds.";
 PICKUP_50AM                      = "Picked up a .50 Action Mega Round.";
@@ -426,13 +446,18 @@ PICKUP_SLUGS                     = "Picked up some 12ga Slugs.";
 PICKUP_SLUGBOX                   = "Picked up a box of 12ga Slugs.";
 PICKUP_420FREI                   = "Picked up a .451 Frei Round.";
 PICKUP_420FREIBOX                = "Picked up a box of .451 Frei Rounds.";
-PICKUP_069BORE                   = "Picked up a .410 Bore Shell.";
-PICKUP_069BOREBOX                = "Picked up a box of .410 Bore Shells.";
+PICKUP_069BORE                   = "Picked up a .410 000 Buckshot Shell.";
+PICKUP_069BOREBOX                = "Picked up a box of .410 000 Buckshot Shells.";
+
+PEPPER_PICKUP_NDM                = "Picked up a 9x25mm NDM Round.";
+PEPPER_PICKUP_NDM_BOX            = "Picked up a box of 9x25mm NDM Rounds.";
 
 PICKUP_50OMGCLIP                 = "Picked up a .50 OMG Clip.";
 
 PEPPER_PICKUP_9MCLIP             = "Picked up a 9x22mm Clip.";
 PEPPER_PICKUP_355MAG             = "Picked up a Helzing .355 Masterball Magazine.";
+PEPPER_PICKUP_NDM_MAG            = "Picked up a Guillotine 9x25mm NDM Magazine.";
+PEPPER_PICKUP_BIGNDMMAG          = "Picked up a P90 9x25mm NDM Magazine.";
 PEPPER_PICKUP_ZM94_MAG           = "Picked up a ZM94 .50 OMG Magazine.";
 
 // Magazine Pickup Messages
@@ -482,7 +507,7 @@ PICKUP_FIRSTAIDSPRAY_FULL        = "Picked up a fresh can of First Aid Spray.";
 PICKUP_FIRSTAIDSPRAY_USED        = "Picked up a used can of First Aid Spray. ";
 PICKUP_FIRSTAIDSPRAY_EMPTY       = "Picked up an empty can of First Aid Spray.";
 PICKUP_FIELDMEDICKIT_FULL        = "Picked up a sealed Field Medical Kit";
-PICKUP_FIELDMEDICKIT_USED        = "Picked up a opened Field Medical Kit";
+PICKUP_FIELDMEDICKIT_USED        = "Picked up an opened Field Medical Kit";
 PICKUP_FIELDMEDICKIT_EMPTY       = "Picked up an empty Field Medical Kit";
 
 // Armour Pickup Messages
@@ -515,7 +540,7 @@ TAG_500_HEAVY_BOX                = "Reusable .500 S&W Heavy Ammo Box";
 TAG_500_LIGHT_BOX                = "Reusable .500 S&W Light Ammo Box";
 TAG_762TOKAREV_BOX               = "Reusable 7.62mm Tokarev Ammo Box";
 TAG_3006_BOX                     = "Reusable .30-06 Ammo Box";
-TAG_069_BOX                      = "Reusable .410 Bore Shell Box";
+TAG_069_BOX                      = "Reusable .410 000 Buckshot Shell Box";
 TAG_300SAVAGE_BOX                = "Reusable .300 Savage Ammo Box";
 TAG_420_BOX                      = "Reusable .451 Frei Ammo Box";
 TAG_FLARE_BOX                    = "Reusable 12ga Flare Shell Box";
@@ -535,7 +560,7 @@ PICKUP_4G_SLUG_BOX               = "Picked up a box of 4ga Saboted Slugs.";
 PICKUP_5MM_BOX                   = "Picked up a box of 5x12mm Bumblebee Rimfire Rounds.";
 PICKUP_SLUG_BOX                  = "Picked up a box of 12ga Slugs.";
 PICKUP_EXPLOSIVE_SHELL_BOX       = "Picked up a box of 12ga HE-Slugs.";
-PICKUP_6MM_BOX                   = "Picked up a box of 6mm Flechette Rounds.";
+PICKUP_6MM_BOX                   = "Picked up a box of 6x42mm Flechette Rounds.";
 PICKUP_10MM_BOX                  = "Picked up a box of 10mm Rounds.";
 PICKUP_45ACP_BOX                 = "Picked up a box of .45 ACP Rounds.";
 PICKUP_45LC_BOX                  = "Picked up a box of .45 LC Rounds.";
@@ -545,7 +570,7 @@ PICKUP_50OMG_BOX                 = "Picked up a box of .50 OMG Rounds.";
 PICKUP_500_HEAVY_BOX             = "Picked up a box of .500 S&W Heavy Rounds.";
 PICKUP_500_LIGHT_BOX             = "Picked up a box of .500 S&W Light Rounds.";
 PICKUP_762TOKAREV_BOX            = "Picked up a box of 7.62mm Tokarev Rounds.";
-PICKUP_069_BOX                   = "Picked up a box of .410 bore Shells.";
+PICKUP_069_BOX                   = "Picked up a box of .410 000 Buckshot Shells.";
 PICKUP_3006_BOX                  = "Picked up a box of .30-06 Rounds.";
 PICKUP_300SAVAGE_BOX             = "Picked up a box of .300 Savage Rounds.";
 PICKUP_420_BOX                   = "Picked up a box of .451 Frei Rounds.";
