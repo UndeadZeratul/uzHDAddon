@@ -223,7 +223,7 @@ The Bastard Rifle has been replaced with this totally rad "Atomic Purple" skin s
 ![bastard-rifle](./screenshots/bastard-rifle.png)  
 _Credits: Skelegant, Combine_Kegan_
 
-#### ZM94 "Sniperwolf" Anti-Material Rifle
+#### ZM94 "Sniperwolf" Anti-Materiel Rifle
 _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
 
 The ZM94 has been swapped out with the [ZM69](https://forum.zdoom.org/viewtopic.php?f=43&t=66091) Sniper Rifle sprites, as well as have its scope lens recolored to match thematically.
