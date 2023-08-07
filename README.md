@@ -381,6 +381,7 @@ Various ammunition drops and their spent casings have been swapped out with Capt
 ![45ACP](./screenshots/45ACP.png)  
 ![45LC](./screenshots/45LC.png)  
 ![golden45LC](./screenshots/golden-45LC.png)  
+![500sw](./screenshots/500sw.png)  
 _Credits: Captain J._
 
 #### Light-amp Goggles
