@@ -425,6 +425,11 @@ _Credits: Saegiru, WildWeasel, 2800fps, DoomNukem_
 ![udv-alt-hud](./screenshots/udv-alt-hud.png)  
 _Credits: Saegiru, WildWeasel, 2800fps, Lightsource, DoomNukem_  
 
+#### Merchant's Mercenary Bucks
+
+The Mercenary Bucks icon has been swapped out with an actual dollar bill from Duke Nukem 3D.  
+_Credits: 3D Realms_
+
 ---
 ## Special Thanks
 
