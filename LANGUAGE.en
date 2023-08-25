@@ -86,8 +86,8 @@ TAG_SIX12                        = "Icarus 'Six-12' 12ga Revolver Shotgun";
 TAG_UMP                          = "Icarus UMP-45 .45 ACP PDW";
 TAG_USP                          = "Icarus USP-45 .45 ACP Handgun";
 
-TAG_10PIS                        = "'Delta Elite' 10mm Pistol";
-TAG_10PSLECT                     = "'Delta Elite' 10mm Pistol";
+TAG_10PIS                        = "Volt 'Delta Elite' N1911 10mm Pistol";
+TAG_10PSLECT                     = "Volt 'Delta Elite' N1911 10mm Pistol";
 TAG_C19                          = "Duketha N1911 .45 ACP Pistol";
 TAG_COMBATSHOTGUN                = "Duketha N37 12ga Combat Shotgun";
 TAG_DM93PLASMA                   = "DM-93 'Plasma Buster' Experimental Beam Projector";
@@ -359,7 +359,7 @@ PICKUP_HEXAPERSONAL              = "Picked up a Mk. IV 'Boss' 5x12mm Bolt-Action
 PICKUP_OMGBOSS                   = "Picked up a Mk. IV 'Boss' .50 OMG Bolt-Action Anti-Materiel Rifle.";
 PICKUP_WORSTBOSS                 = "Picked up a Mk. IV 'Boss' 7.76mm Bolt-Action Rifle, but it's the worst.";
 
-PICKUP_10MMPISTOL                = "Picked up a 'Delta Elite' 10mm Pistol.";
+PICKUP_10MMPISTOL                = "Picked up a Volt 'Delta Elite' N1911 10mm Pistol.";
 PICKUP_COLT1911                  = "Picked up a Duketha N1911 .45 ACP Pistol.";
 PICKUP_COMBATSHOTGUN             = "Picked up a Duketha N37 12ga Combat Shotgun.";
 PICKUP_DETECTIVESPECIAL          = "Picked up a Buger 'Detective Special' .355 Masterball Snub-Nose Revolver.";
