@@ -133,6 +133,7 @@ TAG_HERP                         = "Volt 'H.E.R.P.' Robot";
 // Ammo Tags
 TAG_PISTOLAMMO                   = "9x22mm Parumpudicum Round";
 TAG_REVOLVERAMMO                 = ".355 Masterball Round";
+355ROUND                         = ".355 Masterball Round";
 TAG_SHOTGUNSHELLS                = "12ga 00 Buckshot Shell";
 TAG_426AMMO                      = "4.26mm UAC Standard Round";
 TAG_7MMAMMO                      = "7.76mm Round";
