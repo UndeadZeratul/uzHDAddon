@@ -533,19 +533,19 @@ PEPPER_PICKUP_BIGNDMMAG          = "Picked up a P90 9x25mm NDM Magazine.";
 PEPPER_PICKUP_ZM94_MAG           = "Picked up a ZM94 .50 OMG Magazine.";
 
 // Magazine Pickup Messages
-PICKUP_9MMAG                     = "Picked up a 9x22mm Pistol Magazine.";
+PICKUP_9MMAG                     = "Picked up a 9x22mm Grokk 15 Magazine.";
 PICKUP_4MMAG                     = "Picked up a Volt 4.26mm UAC Standard Magazine.";
 PICKUP_9MMAG30                   = "Picked up a 9x22mm SMG magazine.";
 PICKUP_7MMAG                     = "Picked up a Volt 7.76mm magazine.";
 PICKUP_BATTERY                   = "Picked up a Cell Battery.";
 
 PICKUP_10MAG25                   = "Picked up a 10mm Sig-Cow Magazine.";
-PICKUP_10MAG8                    = "Picked up a 10mm Pistol Magazine.";
+PICKUP_10MAG8                    = "Picked up a 10mm 'Delta Elite' N1911 Pistol Magazine.";
 PICKUP_MICROCELL                 = "Picked up a Micro-Cell Battery.";
 PICKUP_JUANMAG                   = "Picked up a 9x22mm Pistol Magazine, but it's shaped like a horsehoe?";
-PICKUP_PPSH41MAG35               = "Picked up a PPSh-41 magazine.";
-PICKUP_PPSH41MAG71               = "Picked up a PPSh-41 drum.";
-PICKUP_TT33MAG                   = "Picked up a TT-33 magazine.";
+PICKUP_PPSH41MAG35               = "Picked up a PPSh-41 7.62mm Tokarev Magazine.";
+PICKUP_PPSH41MAG71               = "Picked up a PPSh-41 7.62mm Tokarev Drum Magazine.";
+PICKUP_TT33MAG                   = "Picked up a TT-33 7.62mm Tokarev Magazine.";
 
 PICKUP_GASTANK_PREFIX            = "Picked up a ";
 PICKUP_GASTANK_SUFFIX            = ".";
