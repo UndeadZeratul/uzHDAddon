@@ -194,10 +194,10 @@ _Credits: JoeyTD, Minigunner ([Realm667](https://www.realm667.com/en/armory-main
 #### TRO-G AR
 _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
 
-The TRO-G has had its front ironsight modified to match thematically.
+The TRO-G has been swapped out with the original version from Chopblock, recolored to a nice atomic purple to match thematically.
 
 ![trog](./screenshots/trog.png)  
-_Credits: A1337Spy, HyperUltra64, Sledge, Chopblock223_
+_Credits: Chopblock223, ID Software, 3D Realms_
 
 #### Vera
 _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
