@@ -484,6 +484,11 @@ MERCH_CAT_PD42                    = "SMGs";
 MERCH_TAG_PD42                    = "Icarus PD-42 Suppressed 4.26mm PDW";
 MERCH_FLAVOR_PD42                 = "Silent and deadlier.";
 
+// Pistol
+MERCH_CAT_PISTOL                  = "Handguns";
+MERCH_TAG_PISTOL                  = "Grokk 15 9x22mm Pistol";
+MERCH_FLAVOR_PISTOL               = "A dime a dozen.";
+
 // Phazer
 MERCH_CAT_PHAZER                  = "Energy Weapons";
 MERCH_TAG_PHAZER                  = "DM-94 Plasma Pistol";
@@ -653,6 +658,11 @@ MERCH_FLAVOR_TT33                 = "Make them go blyat.";
 MERCH_CAT_UMP45                   = "SMGs";
 MERCH_TAG_UMP45                   = "Icarus UMP-45 .45 ACP PDW";
 MERCH_FLAVOR_UMP45                = "Doesn't sit at home plate all day.";
+
+// UMS Automag
+MERCH_CAT_UMSAUTOMAG              = "Handguns";
+MERCH_TAG_UMSAUTOMAG              = "UMS Automag";
+MERCH_FLAVOR_UMSAUTOMAG           = "a bit heavy for such light ammunition.";
 
 // Uragan
 MERCH_CAT_URAGAN                  = "Revolvers";
@@ -884,6 +894,11 @@ MERCH_CAT_GUNSMITHPOUCH           = "Storage";
 MERCH_TAG_GUNSMITHPOUCH           = "Gunsmith Pouch";
 MERCH_FLAVOR_GUNSMITHPOUCH        = "For when you just can't hold all of that gunpowder.";
 
+// Gyro Stabilizer
+MERCH_CAT_GYROSTABILIZER          = "Equipment";
+MERCH_TAG_GYROSTABILIZER          = "Gyroscopic Stabilizer";
+MERCH_FLAVOR_GYROSTABILIZER       = "Be the cybernetic policeman you were born to be.";
+
 // Hacked Reloader
 MERCH_CAT_HACKED7MMRELOADER       = "Ammo Conversion";
 MERCH_TAG_HACKED7MMRELOADER       = "Hacked 7.76mm Reloader";
@@ -1038,6 +1053,11 @@ MERCH_FLAVOR_WATERRATION          = "NOTE: Taste depends on temperature.";
 MERCH_CAT_REPAIRSPRAY             = "Equipment";
 MERCH_TAG_REPAIRSPRAY             = "Weapon Repair Spray";
 MERCH_FLAVOR_REPAIRSPRAY          = "If this doesn't get it working again, nothing will.";
+
+// Weapon Sling
+MERCH_CAT_WEAPONSLING             = "Equipment";
+MERCH_TAG_WEAPONSLING             = "Weapon Sling";
+MERCH_FLAVOR_WEAPONSLING          = "For when you need that third arm.";
 
 // Weapon Crate
 MERCH_CAT_WEAPONCRATE             = "Supplies";
