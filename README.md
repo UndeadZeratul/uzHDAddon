@@ -271,7 +271,9 @@ _Requires [UMS Automag](https://dastrukar.gitlab.io/hddons-list/#weapons:umsauto
 The UMS Automag has been replaced with something that also visually has the mag in front of the player's hand, but also fits a bit more cohesively, visually speaking.
 
 ![automag](./screenshots/automag.png)  
-_Credits: Clay, Infinity Ward, id Software, KDiZD Team, Banjo Software, MrYifYif, 3D Realms, Enchanter, HACX_
+_Credits:  
+HUD Sprites: Tapor, Sonik.O  
+Pickup Sprites: TommyGalano5, Sonik.O_
 
 ### Item Sprite Changes
 
