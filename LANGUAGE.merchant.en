@@ -6,7 +6,7 @@
 
 // 10mm Pistol
 MERCH_CAT_10MMPISTOL              = "Handguns";
-MERCH_TAG_10MMPISTOL              = "'Delta Elite' 10mm Pistol";
+MERCH_TAG_10MMPISTOL              = "Volt 'Delta Elite' N1911 10mm Pistol";
 MERCH_FLAVOR_10MMPISTOL           = "Hope your wrists can handle the recoil.";
 
 // Arcanum
