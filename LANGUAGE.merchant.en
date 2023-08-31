@@ -176,7 +176,7 @@ MERCH_FLAVOR_DMR                  = "Shoot through that marine's visor from 200 
 
 // Doomed Hunter
 MERCH_CAT_DOOMHUNTER              = "Shotguns";
-MERCH_TAG_DOOMHUNTER              = "SPOS-E19 'Hunter' 20ga Pump-Action Shotgun";
+MERCH_TAG_DOOMHUNTER              = "SPOS-E19 'Hunter' 12ga Pump-Action Shotgun";
 MERCH_FLAVOR_DOOMHUNTER           = "I have a feeling you won't be using this for duck hunting.";
 
 // Duck Hunter
