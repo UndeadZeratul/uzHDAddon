@@ -404,6 +404,10 @@ _Credits: Skelegant ([Gunsmith Pouch](https://dastrukar.gitlab.io/hddons-list/#u
 
 ### Other Changes
 
+#### Font Changes
+- BIGFONT has been replaced with Jimmy's StatusReport BigFont, which takes inspiration from ID Software's statusbar font.
+- SMALLFNT has been replaced with Jimmy's StatusReport Font, which takes inspiration from ID Software's statusbar font.
+
 #### Cacodemon
 When playing id Doom, the cacodemon's death animation has been replaced with one that feels much more electrifying, given their proclivity to emit sparks when dead.
 

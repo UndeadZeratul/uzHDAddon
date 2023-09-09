@@ -1,0 +1,13 @@
+GameInfo {
+	DimColor = "673AB7"
+	DimAmount = 0.2
+	
+	MenuFontColor_Title = "UZ"
+	MenuFontColor_Label = "White"
+	MenuFontColor_Value = "White"
+	MenuFontColor_Action = "White"
+	MenuFontColor_Header = "UZ"
+	MenuFontColor_Selection = "UZ"
+	
+	MenuSliderColor = "UZ"
+}

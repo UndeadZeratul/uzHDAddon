@@ -1,5 +1,18 @@
 [enu default]
 
+// Vanilla Doom Entries
+TXT_D2E1                         = "\c[White]Hell on Earth";
+
+SKILL_BABY                       = "\c[White]Homely";
+SKILL_EASY                       = "\c[White]Ugly";
+SKILL_NORMAL                     = "\c[White]Grotesque";
+SKILL_HARD                       = "\c[White]Hideous";
+SKILL_NIGHTMARE                  = "\c[White]b e a u t i f u l";
+
+// Vanilla HDest Entries
+MNU_HDOPTIONS                    = "\c[White]HD Options";
+MNU_EPRANGE                      = "\c[White]Firing Range";
+
 // Weapon Tags
 TAG_FIST                         = "Unarmed";
 TAG_CHAINSAW                     = "'Lumberjack' Chainsaw";
