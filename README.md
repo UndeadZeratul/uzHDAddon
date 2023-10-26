@@ -67,7 +67,7 @@ HUD Sprites: vitriolicv, ZikShadow, Jeimuzu, DoomNukem
 Pickup Sprites: vitriolicv, ZikShadow, DoomNukem_
 
 #### Arkoudi Revolver Shotgun
-_Arkoudi Revolver Shotgun requires [Potetobloke's Weapon Pack](https://cdn.discordapp.com/attachments/713246305392001055/1017590614365323295/PB-Mohl_HDAddon_WeaponPack_4.8.2a_RC2a.pk3)_
+_Arkoudi Revolver Shotgun requires [Potetobloke's Bangers & Mash](https://github.com/Potetobloke/PB_HDAddon_Bangers-And-Mash.git)_
 
 The Arkoudi Revolver Shotgun's ironsights have been recolored.
 
@@ -194,10 +194,10 @@ _Credits: JoeyTD, Minigunner ([Realm667](https://www.realm667.com/en/armory-main
 #### TRO-G AR
 _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
 
-The TRO-G has had its front ironsight modified to match thematically.
+The TRO-G has been swapped out with the original version from Chopblock, recolored to a nice atomic purple to match thematically.
 
 ![trog](./screenshots/trog.png)  
-_Credits: A1337Spy, HyperUltra64, Sledge, Chopblock223_
+_Credits: Chopblock223, ID Software, 3D Realms_
 
 #### Vera
 _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
@@ -223,7 +223,7 @@ The Bastard Rifle has been replaced with this totally rad "Atomic Purple" skin s
 ![bastard-rifle](./screenshots/bastard-rifle.png)  
 _Credits: Skelegant, Combine_Kegan_
 
-#### ZM94 "Sniperwolf" Anti-Material Rifle
+#### ZM94 "Sniperwolf" Anti-Materiel Rifle
 _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
 
 The ZM94 has been swapped out with the [ZM69](https://forum.zdoom.org/viewtopic.php?f=43&t=66091) Sniper Rifle sprites, as well as have its scope lens recolored to match thematically.
@@ -232,28 +232,38 @@ The ZM94 has been swapped out with the [ZM69](https://forum.zdoom.org/viewtopic.
 _Credits: Tartlman, Matt_
 
 #### Iron Sights Boss Rifle
-_Requires [Hexadoken's Legacy Continued](https://github.com/Gay-Snake-Squad/HexaDoken-Legacy-Continued)_
+_Requires [Hexadoken's Legacy Continued](https://github.com/HDest-Community/HexaDoken-Legacy-Continued)_
 
 The Scopeless Boss Rifle has had its Ironsight dots recolored to match the reticle sight sprites.
 
 ![no-scope-boss](./screenshots/no-scope-boss.png)  
 _Credits: HexaDoken_
 
+#### PD-42
+_Requires [Icarus Innovations Improved](https://github.com/HDest-Community/icarus-innovations-improved)_
+
+The PD-42's body has been recolored to give better visual contrast between it and the player's gloves, as well match thematically.  The Ironsight dot has also been updated to match the crosshair color.
+
+![pd-42](./screenshots/pd-42.png)  
+_Credits: Icarus, Railgunner_
+
 #### Six-12 Shotgun
-_Requires [Six12](https://gitlab.com/icarus-innovations/hdest-addons/six12)_
+_Requires [Icarus Innovations Improved](https://github.com/HDest-Community/icarus-innovations-improved)_
 
 The Six12 Shotgun has been replaced with one made by Sonik.O.
 
 ![six12](./screenshots/six12.png)  
 _Credits: Sonik.O_
 
-#### PD-42
-_Requires [PD42](https://gitlab.com/icarus-innovations/hdest-addons/pd-42)_
+#### USP-45
+_Requires [Icarus Innovations Improved](https://github.com/HDest-Community/icarus-innovations-improved)_
 
-The PD-42's body has been recolored to give better visual contrast between it and the player's gloves, as well match thematically.  The Ironsight dot has also been updated to match the crosshair color.
+The USP-45 has been replaced with Project Brutality's own .45 ACP Pistol, with a more fitting pickup sprite and recolored to match thematically.
 
-![pd-42](./screenshots/pd-42.png)  
-_Credits: Icarus, Railgunner_
+![usp-45](./screenshots/usp-45.png)
+_Credits:  
+HUD Sprites: DoomNukem, Sergeant Mark IV, Moa Dixon  
+Pickup Sprites: Carbine Dioxide_
 
 #### UMS Automag
 _Requires [UMS Automag](https://dastrukar.gitlab.io/hddons-list/#weapons:umsautomag-zikshadow)_
@@ -261,7 +271,9 @@ _Requires [UMS Automag](https://dastrukar.gitlab.io/hddons-list/#weapons:umsauto
 The UMS Automag has been replaced with something that also visually has the mag in front of the player's hand, but also fits a bit more cohesively, visually speaking.
 
 ![automag](./screenshots/automag.png)  
-_Credits: Clay, Infinity Ward, id Software, KDiZD Team, Banjo Software, MrYifYif, 3D Realms, Enchanter, HACX_
+_Credits:  
+HUD Sprites: Tapor, Sonik.O  
+Pickup Sprites: TommyGalano5, Sonik.O_
 
 ### Item Sprite Changes
 
@@ -392,6 +404,10 @@ _Credits: Skelegant ([Gunsmith Pouch](https://dastrukar.gitlab.io/hddons-list/#u
 
 ### Other Changes
 
+#### Font Changes
+- BIGFONT has been replaced with Jimmy's StatusReport BigFont, which takes inspiration from ID Software's statusbar font.
+- SMALLFNT has been replaced with Jimmy's StatusReport Font, which takes inspiration from ID Software's statusbar font.
+
 #### Cacodemon
 When playing id Doom, the cacodemon's death animation has been replaced with one that feels much more electrifying, given their proclivity to emit sparks when dead.
 
@@ -410,10 +426,15 @@ _Credits: TommyGalano5, id Software, Sgt. Kiwi, Arcterezion_
 _Credits: Arcterezion_  
 
 ![udv-hud](./screenshots/udv-hud.png)  
-_Credits: Saegiru, WildWeasel, 2800fps_  
+_Credits: Saegiru, WildWeasel, 2800fps, DoomNukem_  
 
 ![udv-alt-hud](./screenshots/udv-alt-hud.png)  
-_Credits: Saegiru, WildWeasel, 2800fps, Lightsource_  
+_Credits: Saegiru, WildWeasel, 2800fps, Lightsource, DoomNukem_  
+
+#### Merchant's Mercenary Bucks
+
+The Mercenary Bucks icon has been swapped out with an actual dollar bill from Duke Nukem 3D.  
+_Credits: 3D Realms_
 
 ---
 ## Special Thanks

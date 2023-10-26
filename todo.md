@@ -21,7 +21,7 @@
 - No-Scope Boss front sight
 
 ### Peppergrinder
-- Bastard Rifle
+- ~~Bastard Rifle~~
 - Pistol Carbine Rifle
 - VERA
 - ~~TRO-G front sight~~
@@ -56,10 +56,17 @@
 - Explosive Shotgun (Use TSF's "Six12" sprites instead?)
 
 ### Six12
-- Use new sprites to allow Explosive Shotgun to use TSF's "Six12"
+- ~~Use new sprites to allow Explosive Shotgun to use TSF's "Six12"~~
 
 ### PD-42
 - Thinking of using the M41A Pulse Rifle, but not sure how to adjust with only 2 HUD frames, unless...
+
+---
+## LANGUAGE Changes?
+
+- Fix tags that are all lowercase (fist, pump action shotgun, side by side shotgun, etc.)
+- Pistol renamed to Glock 15?
+- Unify Naming Convention? (Similar to how Ted had theirs with Brand/Model, then 'Nickname', then descriptive phrase?)
 
 ---
 ## ~~Spawn Adjustments~~
