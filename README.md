@@ -320,7 +320,8 @@ By way of the other replacements, the Squad Summoner has thus also been updated.
 _Credits:_  
 _Garrison Armor ([DRLA Credits](#DRLA-Credits)): SoloSpaghetti ([DRLA](https://forum.zdoom.org/viewtopic.php?t=37044))_  
 _Liberator: Matt & Combine Kegan_  
-_Shield Core: Sonik.O_
+_Shield Core: Sonik.O_  
+_Dogtags: TedTheDragon_
 
 #### HUD Helmet
 _Requires [Hideous Helmet](https://forum.zdoom.org/viewtopic.php?f=43&t=71950)_
