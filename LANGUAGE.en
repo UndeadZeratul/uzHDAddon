@@ -118,6 +118,44 @@ PEPPER_TAG_YUREI                 = "Yurei 9x22mm High-Capacity SMG";
 PEPPER_TAG_ZM94                  = "Volt ZM94 'Sabrewolf' .50 OMG Anti-Materiel Rifle";
 PEPPER_TAG_ZORCHER               = "'Zorcher' Handheld Teleporter";
 
+// PB's Bangers & Mash
+TAG_93R                          = "Mouletta 97R 'Raffica' 9x22mm Handgun";
+TAG_AT4                          = "RAT-84";
+TAG_AUTOMAG                      = "SP-50 Mega Class Magnum";
+TAG_BUGERM22                     = "Buger M22 Target Rifle";
+TAG_CAWS                         = "H&M CROWS 'Presslufthämmer' 12ga Automatic Shotgun";
+TAG_CGM25                        = "DLAaM ATCM-35";
+TAG_COLTCOMMANDO                 = "Volt R0355 HPC 'Commando' .355 Masterball SMG";
+TAG_DEVINCENZIA                  = "Berlinghoff XM135 'Devincenzia' 35mm Anti-Materiel Rifle";
+TAG_EXTINGUISHER                 = "UAC Emergency Fire Extinguisher";
+TAG_FAL                          = "UN-AF L7A1 'Defender' 7.76mm Rifle";
+TAG_FIREAXE                      = "UAC Emergency Fire Axe";
+TAG_G11                          = "H&M G26 4.26mm Assault Rifle";
+TAG_G11_NORMAL                   = "H&M G26 4.26mm Assault Rifle";
+TAG_G11_SCOPED                   = "H&M G26 4.26mm Assault Rifle";
+TAG_GASGRENADES                  = "'Roller' Toxic Gas Grenades";
+TAG_KELENKEN                     = "MS-AT 'Kelenken' 35mm Rotary Support Cannon";
+TAG_KHARON                       = "Kharon";
+TAG_KNIFE                        = "Combat Knife";
+TAG_LEVERGAT                     = "Sawyer LR37 'Big Boy' Hunting Carbine";
+TAG_M2HB                         = "Brownell AM-HMG50 'MKII Stinger' .50 OMG HMG";
+TAG_M5165C                       = "Arkoudi M5/165c";
+TAG_M60                          = "USGI M60E1 'Hungry Hog' 7.76mm HMG";
+TAG_M9S                          = "Minato M9S 9x22mm Machine Pistol";
+TAG_MAC10                        = "Raycob RAC-10/45 .45 ACP Machine Pistol";
+TAG_MK23                         = "H&M Mk23 'SOCOM' .45 ACP Handgun";
+TAG_PS20                         = "DLA&M PS-451";
+TAG_PSG1                         = "H&M PSG2A1 7.76mm Sniper Rifle";
+TAG_RAILGUN                      = "XM99 Experimental Railgun";
+TAG_RAILGUNDYNAMO                = "XM99 Railgun Dynamo";
+TAG_SLEDGEHAMMER                 = "Sledgehammer";
+TAG_SMARTGUN                     = "H&M HS76A1 SmartGun";
+TAG_STEYRACR                     = "Austere M17 Flechette Rifle";
+TAG_STREETSWEEPER                = "Raycob Urban Destroyer 12ga Automatic Shotgun";
+TAG_TERMINATOR                   = "Raycob Exterminator 12ga \"Shotgun\"";
+TAG_URAGAN5                      = "Arkoudi M12/5 12ga Revolver Shotgun";
+TAG_WPGRENADES                   = "M70 White Phosphorus Grenades";
+
 // Radtech Weapons Pack
 TAG_10PIS                        = "Volt N1911 'Delta Elite' 10mm Pistol";
 TAG_10PSLECT                     = "Volt N1911 'Delta Elite' 10mm Pistol";
@@ -375,6 +413,9 @@ TAG_SOULCUBE                     = "Ominous Cube";
 
 // Peppergrinder
 PEPPER_TAG_THEBOX                = "Strange Device";
+
+// PB's Bangers & Mash
+TAG_MANCUBUSCANNON               = "Mancubus Arm Cannon";
 
 
 //-------------------------------------
@@ -737,9 +778,16 @@ PEPPER_PICKUP_BIGNDMMAG          = "Picked up a P90 9x25mm NDM Magazine.";
 PEPPER_PICKUP_COYOTEMAG          = "Picked up a Coyote .451 Magazine.";
 PEPPER_PICKUP_KILLER7MAG         = "Picked up a Killer7 .500 S&W Magazine.";
 PEPPER_PICKUP_NDM_MAG            = "Picked up a Guillotine 9x25mm NDM Magazine.";
-PEPPER_PICKUP_TROGMAG            = "Picked up a TRO-G 4.26m magazine.";
+PEPPER_PICKUP_TROGMAG            = "Picked up a TRO-G 4.26mm magazine.";
 PEPPER_PICKUP_YUREIMAG           = "Picked up a Yurei 9x22mm Magazine.";
 PEPPER_PICKUP_ZM94_MAG           = "Picked up a ZM94 .50 OMG Magazine.";
+
+// PB's Bangers & Mash
+
+PICKUP_KNIFE                     = "Picked up a Combat Knife.";
+PICKUP_FIREAXE                   = "Picked up a UAC Emergency Fire Axe.";
+PICKUP_SLEDGEHAMMER              = "Picked up a Sledgehammer.";
+PICKUP_KHARON                    = "Picked up a Kharon Replica.";
 
 // Radtech
 PICKUP_10MAG25                   = "Picked up a 10mm Sig-Cow Magazine.";
