@@ -3,7 +3,7 @@
 
 Sprite "STMBA0", 11, 8
 {
-	Offset 5, 8
+	Offset 6, 8
 	Patch "STWLSHL", -1, 5
 	Patch "STWLSHL", -1, 0
 	Patch "STWLSHL", -1, 3
@@ -87,7 +87,7 @@ Graphic "STMBI0", 19, 21
 
 Sprite "STMSA0", 11, 8
 {
-	Offset 5, 8
+	Offset 6, 8
 	Patch "STWLSHL", -1, 5
 	Patch "STWLSHL", -1, 0
 	Patch "STWLSHL", -1, 3
