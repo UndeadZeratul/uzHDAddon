@@ -147,6 +147,12 @@ The BFG-9000 Has been swapped out for one that still feels like a BFG, but one t
 ![bfg-9000](./screenshots/bfg-9000.png)  
 _Credits: Sonik.O, 3D Realms_
 
+#### Altis O/U Shotgun
+The Altis O/U Shotgun has had its reloading frames swapped out by a fresh set made by TommyGalano5.
+
+![altis](./screenshots/altis.png)
+_Credits: TommyGalano5_
+
 #### 10mm Pistol
 _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
 
