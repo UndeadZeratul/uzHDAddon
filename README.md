@@ -281,6 +281,14 @@ The ZM94 has been swapped out with the [ZM69](https://forum.zdoom.org/viewtopic.
 ![zm94](./screenshots/zm94.png)  
 _Credits: Tartlman, Matt_
 
+#### Bossmerg Shotgun
+_Requires [Hexadoken's Legacy Continued](https://github.com/HDest-Community/HexaDoken-Legacy-Continued)_
+
+The Bossmerg Shotgun has had its side saddles updates to match the new shell colors.
+
+![bossmerg](./screenshots/bossmerg.png)  
+_Credits: HexaDoken_
+
 #### Iron Sights Boss Rifle
 _Requires [Hexadoken's Legacy Continued](https://github.com/HDest-Community/HexaDoken-Legacy-Continued) or [1337Weps](https://gitlab.com/a1337spy/1337weps)_
 
