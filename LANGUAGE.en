@@ -845,7 +845,7 @@ PICKUP_SUPPLYBEACON              = "Picked up a UAC Standard Supply Beacon.";
 PICKUP_TELEPORTER                = "Picked up a UAC Specialist Portable Teleporter.";
 
 // Radtech
-PICKUP_RADBOOTS                  = "Picked up a pair of UAC Environmental Protection Boots.";
+PICKUP_ANTIRADBOOTS              = "Picked up a pair of UAC Environmental Protection Boots.";
 
 // Ugly as Sin
 PICKUP_2FCARTRIDGE               = "Picked up a UAC Standard 'Second Flesh' Auto-Suture Cartridge.";
