@@ -133,7 +133,7 @@ _Extended Mag addon: Sonik.O_
 The Blooper has been swapped out for a Break-Action Grenade Launcher by Sonik.O.
 
 ![blooper](./screenshots/blooper.png)  
-_Credits: TommyGalano5, Sonik.O_
+_Credits: Sonik.O_
 
 #### Brontornis
 The Brontornis Rifle has been swapped out for something with a bit better perspective, as well as fitting the overall aesthetic of the rest of the pack.
