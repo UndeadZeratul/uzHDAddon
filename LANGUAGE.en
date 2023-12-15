@@ -27,6 +27,7 @@ MNU_EPRANGE                      = "\c[White]Firing Range";
 
 // Vanilla HDest
 TAG_FIST                         = "Unarmed";
+TAG_SPRINTING                    = "Sprinting";
 TAG_CHAINSAW                     = "'Lumberjack' Chainsaw";
 TAG_PISTOL                       = "Grokk 15 9x22mm Pistol";
 TAG_REVOLVER                     = "Buger 'Deinonychus' .355 Masterball Revolver";
