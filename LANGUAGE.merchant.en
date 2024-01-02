@@ -346,7 +346,7 @@ MERCH_FLAVOR_LLHUNTER             = "Whatcha gonna do with this, arrest the demo
 
 // Levergun
 MERCH_CAT_LEVERGUN                = "Carbines";
-MERCH_TAG_LEVERGUN                = "LR37 \"Big Boy\" Hunting Carbine";
+MERCH_TAG_LEVERGUN                = "Sawyer LR355 \"Big Boy\" .355 Masterball Carbine";
 MERCH_FLAVOR_LEVERGUN             = "Contrary to what its name suggests, you don't HAVE to use it against \"big boys\".";
 
 // Liberator
@@ -396,7 +396,7 @@ MERCH_FLAVOR_MA76C                = "It's like the MA-75B but smaller.";
 
 // MAC10
 MERCH_CAT_MAC10                   = "Handguns";
-MERCH_TAG_MAC10                   = "RAC-10/45 .45 ACP Machine Pistol";
+MERCH_TAG_MAC10                   = "Raycob RAC-10/45 .45 ACP Machine Pistol";
 MERCH_FLAVOR_MAC10                = "Ferocious little box that spits hot lead and anger. Don't lose your grip.";
 
 // Majestic
@@ -426,7 +426,7 @@ MERCH_FLAVOR_MINERVA              = "She ain't no mouse , I'll tell you that muc
 
 // MK23 SOCOM
 MERCH_CAT_MK23SOCOM               = "Handguns";
-MERCH_TAG_MK23SOCOM               = "Mk.45 Combat Handgun";
+MERCH_TAG_MK23SOCOM               = "H&M Mk23 \"SOCOM\" .45 ACP Handgun";
 MERCH_FLAVOR_MK23SOCOM            = "They won't even hear you coming.";
 
 // Modular Battle Rifle
@@ -456,7 +456,7 @@ MERCH_FLAVOR_NYX                  = "The Queen of Thicc.";
 
 // Obrozz
 MERCH_CAT_OBROZZ                  = "Boss Rifles";
-MERCH_TAG_OBROZZ                  = "Sawn-off L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Pistol";
+MERCH_TAG_OBROZZ                  = "L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Pistol";
 MERCH_FLAVOR_OBROZZ               = "Now yer a real gunslinger.";
 
 // Oddball
@@ -506,12 +506,12 @@ MERCH_FLAVOR_PPSH41               = "Give \"em some indigestion!";
 
 // PS20
 MERCH_CAT_PS20                    = "Disposables";
-MERCH_TAG_PS20                    = "Denton Light Arms and Munitions PS-451";
+MERCH_TAG_PS20                    = "DLA&M PS-451";
 MERCH_FLAVOR_PS20                 = "A deceivingly effective package for the marine you just can't kill.";
 
 // PSG1
 MERCH_CAT_PSG1                    = "Rifles";
-MERCH_TAG_PSG1                    = "H&M PSG2A1 Sniper Rifle";
+MERCH_TAG_PSG1                    = "H&M PSG2A1 7.76mm Sniper Rifle";
 MERCH_FLAVOR_PSG1                 = "See that Baron over there? Now you don't.";
 
 // Railgun
@@ -926,7 +926,7 @@ MERCH_FLAVOR_JETPACK              = "Careful not to leave the atmosphere.";
 
 // Ladder Launcher
 MERCH_CAT_LADDERLAUNCHER          = "Equipment";
-MERCH_TAG_LADDERLAUNCHER          = "UAC Specialist Ladder Launcher";
+MERCH_TAG_LADDERLAUNCHER          = "UAC Specialist Remote Ladder Deployment Apparatus";
 MERCH_FLAVOR_LADDERLAUNCHER       = "Aim for the top.";
 
 // M249 Reloader
