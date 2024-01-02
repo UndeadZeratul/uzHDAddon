@@ -6,7 +6,7 @@
 
 // 10mm Pistol
 MERCH_CAT_10MMPISTOL              = "Handguns";
-MERCH_TAG_10MMPISTOL              = "Volt N1911 'Delta Elite' 10mm Pistol";
+MERCH_TAG_10MMPISTOL              = "Volt N1911 \"Delta Elite\" 10mm Pistol";
 MERCH_FLAVOR_10MMPISTOL           = "Hope your wrists can handle the recoil.";
 
 // Arcanum
@@ -16,7 +16,7 @@ MERCH_FLAVOR_ARCANUM              = "I don't understand a damn thing that's writ
 
 // Altis O/U Shotgun
 MERCH_CAT_ALTIS                   = "Shotguns";
-MERCH_TAG_ALTIS                   = "Altis Over-and-Under Shotgun";
+MERCH_TAG_ALTIS                   = "Altis \"Over-and-Under\" 12ga Shotgun";
 MERCH_FLAVOR_ALTIS                = "It's like the Slayer, but vertical.";
 
 // AT-4
@@ -26,12 +26,12 @@ MERCH_FLAVOR_AT4                  = "Mind the backblast.";
 
 // ATC Devincenzia
 MERCH_CAT_DEVINCENZIA             = "Heavy Weapons";
-MERCH_TAG_DEVINCENZIA             = "Berlinghoff XM135 'Devincenzia' 35mm Cannon";
+MERCH_TAG_DEVINCENZIA             = "Berlinghoff XM135 \"Devincenzia\" 35mm Cannon";
 MERCH_FLAVOR_DEVINCENZIA          = "Whoa, a new toy!.";
 
 // ATC Kelenken
 MERCH_CAT_KELENKEN                = "Heavy Weapons";
-MERCH_TAG_KELENKEN                = "M5-AT 'Kelenken' 35mm Autocannon";
+MERCH_TAG_KELENKEN                = "M5-AT \"Kelenken\" 35mm Autocannon";
 MERCH_FLAVOR_KELENKEN             = "The chances of being surrounded by ten Cyberdemons is low but never zero.";
 
 // ATCM-35
@@ -41,27 +41,27 @@ MERCH_FLAVOR_ATCM35               = "The operator casualty rate for these are...
 
 // Aurochs
 MERCH_CAT_AUROCHS                 = "Revolvers";
-MERCH_TAG_AUROCHS                 = "VPF Arms 'Aurochs' .451 Single-Action Revolver";
+MERCH_TAG_AUROCHS                 = "VPF Arms \"Aurochs\" .451 Single-Action Revolver";
 MERCH_FLAVOR_AUROCHS              = "I love to reload during a battle.";
 
 // Auto5
 MERCH_CAT_AUTO5                   = "Rifles";
-MERCH_TAG_AUTO5                   = "M&S LTD 'Baileya' 12ga Slug Rifle";
+MERCH_TAG_AUTO5                   = "M&S LTD \"Baileya\" 12ga Slug Rifle";
 MERCH_FLAVOR_AUTO5                = "Old but gold.";
 
 // Automag
 MERCH_CAT_AUTOMAG                 = "Handguns";
 MERCH_TAG_AUTOMAG                 = "SP-50 .50 Action Mega Handgun";
-MERCH_FLAVOR_AUTOMAG              = "Now you too can be a Bleedin' Action Man!";
+MERCH_FLAVOR_AUTOMAG              = "Now you too can be a Bleedin\" Action Man!";
 
 // Barracuda
 MERCH_CAT_BARRACUDA               = "Shotguns";
-MERCH_TAG_BARRACUDA               = "Icarus 'Barracuda' 12ga Double-Barreled Revolver Shotgun";
+MERCH_TAG_BARRACUDA               = "Icarus \"Barracuda\" 12ga Double-Barreled Revolver Shotgun";
 MERCH_FLAVOR_BARRACUDA            = "The time for vengeance is now.";
 
 // Bastard Rifle
 MERCH_CAT_BASTARDRIFLE            = "Machineguns";
-MERCH_TAG_BASTARDRIFLE            = "L&M 'Bastard Rifle' 4.26mm LMG";
+MERCH_TAG_BASTARDRIFLE            = "L&M \"Bastard Rifle\" 4.26mm LMG";
 MERCH_FLAVOR_BASTARDRIFLE         = "Has no familiar relationship with the bastard sword.";
 
 // BFG 9000
@@ -71,57 +71,57 @@ MERCH_FLAVOR_BFG                  = "Same as the Brontornis but casts mass disap
 
 // Bitch
 MERCH_CAT_BITCH                   = "Machineguns";
-MERCH_TAG_BITCH                   = "Icarus 'Bitch' 4.26mm LMG";
+MERCH_TAG_BITCH                   = "Icarus \"Bitch\" 4.26mm LMG";
 MERCH_FLAVOR_BITCH                = "Pour Your Little Heart Out.";
 
 // Blackhawk
 MERCH_CAT_BLACKHAWK               = "Rifles";
-MERCH_TAG_BLACKHAWK               = "AceCorp 'Blackhawk' Hi-Tech Crossbow";
+MERCH_TAG_BLACKHAWK               = "AceCorp \"Blackhawk\" Hi-Tech Crossbow";
 MERCH_FLAVOR_BLACKHAWK            = "Shhhhh... we're hunting demons.";
 
 // Blackjack
 MERCH_CAT_BLACKJACK               = "Rifles";
-MERCH_TAG_BLACKJACK               = "AceCorp 'Blackjack' .355 Masterball Rifle";
+MERCH_TAG_BLACKJACK               = "AceCorp \"Blackjack\" .355 Masterball Rifle";
 MERCH_FLAVOR_BLACKJACK            = "23. Bust.";
 
 // Blooper
 MERCH_CAT_BLOOPER                 = "Explosives";
-MERCH_TAG_BLOOPER                 = "L&M 'Blooper' 40mm Grenade Launcher";
-MERCH_FLAVOR_BLOOPER              = "Chunk 'n' cheese bosses with this.";
+MERCH_TAG_BLOOPER                 = "L&M \"Blooper\" 40mm Grenade Launcher";
+MERCH_FLAVOR_BLOOPER              = "Chunk \"n\" cheese bosses with this.";
 
 // Boss Rifle
 MERCH_CAT_BOSS                    = "Boss Rifles";
-MERCH_TAG_BOSS                    = "L&M 'Boss' Mk. IV 7.76mm Bolt-Action Rifle";
+MERCH_TAG_BOSS                    = "L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Rifle";
 MERCH_FLAVOR_BOSS                 = "Hey, as long as it w- What? It jammed again!?";
 
 // Boss Rifle (9mm)
 MERCH_CAT_9MMBOSS                 = "Boss Rifles";
-MERCH_TAG_9MMBOSS                 = "L&M 'Boss' Mk. IV 9x22mm Bolt-Action Rifle";
+MERCH_TAG_9MMBOSS                 = "L&M Mk. IV \"Boss\" 9x22mm Bolt-Action Rifle";
 MERCH_FLAVOR_9MMBOSS              = "Why is it greasy?";
 
 // Boss Rifle (4mm)
 MERCH_CAT_4MMBOSS                 = "Boss Rifles";
-MERCH_TAG_4MMBOSS                 = "L&M 'Boss' Mk. IV 4.26mm Bolt-Action Rifle";
+MERCH_TAG_4MMBOSS                 = "L&M Mk. IV \"Boss\" 4.26mm Bolt-Action Rifle";
 MERCH_FLAVOR_4MMBOSS              = "Feels like cheap plastic.";
 
 // Boss Rifle (5mm)
 MERCH_CAT_5MMBOSS                 = "Boss Rifles";
-MERCH_TAG_5MMBOSS                 = "L&M 'Boss' 5x12mm Bolt-Action Rifle";
-MERCH_FLAVOR_5MMBOSS              = "IT'S PINK!";
+MERCH_TAG_5MMBOSS                 = "L&M \"Boss\" 5x12mm Bolt-Action Rifle";
+MERCH_FLAVOR_5MMBOSS              = "IT's PINK!";
 
 // Boss Rifle (.50 OMG)
 MERCH_CAT_OMGBOSS                 = "Boss Rifles";
-MERCH_TAG_OMGBOSS                 = "L&M 'Boss' Mk. IV .50 OMG Bolt-Action Anti-Materiel Rifle";
+MERCH_TAG_OMGBOSS                 = "L&M Mk. IV \"Boss\" .50 OMG Bolt-Action Anti-Materiel Rifle";
 MERCH_FLAVOR_OMGBOSS              = "A bit of oomph to go with that.";
 
 // Bossmerg
 MERCH_CAT_12GBOSS                 = "Boss Rifles";
-MERCH_TAG_12GBOSS                 = "L&M 'Boss' Mk. IV 12ga 00 Buckshot Bolt-Action Shotgun";
+MERCH_TAG_12GBOSS                 = "L&M Mk. IV \"Boss\" 12ga 00 Buckshot Bolt-Action Shotgun";
 MERCH_FLAVOR_12GBOSS              = "It's the best of all three!";
 
 // Box Cannon
 MERCH_CAT_BOXCANNON               = "Handguns";
-MERCH_TAG_BOXCANNON               = "L&M C24 'Box Cannon' 9x22mm Pistol Carbine";
+MERCH_TAG_BOXCANNON               = "L&M C24 \"Box Cannon\" 9x22mm Pistol Carbine";
 MERCH_FLAVOR_BOXCANNON            = "HALT!";
 
 // BPX
@@ -131,17 +131,17 @@ MERCH_FLAVOR_BPX                  = "The standard-issue handgun after a complete
 
 // Brontornis
 MERCH_CAT_BRONTO                  = "Heavy Weapons";
-MERCH_TAG_BRONTO                  = "Freeley 'Brontornis' Mk. VII 35mm Ultralight Cannon";
+MERCH_TAG_BRONTO                  = "Freeley Mk. VII \"Brontornis\" 35mm Ultralight Cannon";
 MERCH_FLAVOR_BRONTO               = "And now I will show you a magic trick. Watch as this Hell Noble disappears.";
 
 // Cawsgun
 MERCH_CAT_CAWSGUN                 = "Shotguns";
-MERCH_TAG_CAWSGUN                 = "H&M CROWS 'Presslufthammer' Shotgun";
+MERCH_TAG_CAWSGUN                 = "H&M CROWS \"Presslufthammer\" Shotgun";
 MERCH_FLAVOR_CAWSGUN              = "Just don't expect your shells to chamber reliably.";
 
 // Chainsaw
 MERCH_CAT_CHAINSAW                = "Melee Weapons";
-MERCH_TAG_CHAINSAW                = "'Lumberjack' Chainsaw";
+MERCH_TAG_CHAINSAW                = "\"Lumberjack\" Chainsaw";
 MERCH_FLAVOR_CHAINSAW             = "VRRRRRRRRRRRRRR!";
 
 // Colt .355
@@ -166,7 +166,7 @@ MERCH_FLAVOR_COMBATSHOTGUN        = "Hail to the king, baby!";
 
 // DM-93 Plasmabuster
 MERCH_CAT_D93                     = "Energy Weapons";
-MERCH_TAG_D93                     = "DM-93 'Plasma Buster' Experimental Beam Projector";
+MERCH_TAG_D93                     = "DM-93 \"Plasma Buster\" Experimental Beam Projector";
 MERCH_FLAVOR_D93                  = "Melting demons like it's 1993!";
 
 // DMR
@@ -176,12 +176,12 @@ MERCH_FLAVOR_DMR                  = "Shoot through that marine's visor from 200 
 
 // Doomed Hunter
 MERCH_CAT_DOOMHUNTER              = "Shotguns";
-MERCH_TAG_DOOMHUNTER              = "SPOS-E19 'Hunter' 12ga Pump-Action Shotgun";
+MERCH_TAG_DOOMHUNTER              = "DiFranco SPOS-E19 \"Hunter\" 12ga Pump-Action Shotgun";
 MERCH_FLAVOR_DOOMHUNTER           = "I have a feeling you won't be using this for duck hunting.";
 
 // Duck Hunter
 MERCH_CAT_DUCKHUNTER              = "Shotguns";
-MERCH_TAG_DUCKHUNTER              = "SPOS-D42 'Hunter' 20ga Pump-Action Shotgun";
+MERCH_TAG_DUCKHUNTER              = "DiFranco SPOS-D42 \"Hunter\" 20ga Pump-Action Shotgun";
 MERCH_FLAVOR_DUCKHUNTER           = "Mind the retriever.";
 
 // Executioner
@@ -191,12 +191,12 @@ MERCH_FLAVOR_EXECUTIONER          = "Just get it the fuck away from me. This thi
 
 // Explosive Hunter
 MERCH_CAT_XHUNTER                 = "Shotguns";
-MERCH_TAG_XHUNTER                 = "SPOS-E44 'Gatherer' 12ga Pump-Action Shotgun";
+MERCH_TAG_XHUNTER                 = "DiFranco SPOS-E44 \"Gatherer\" 12ga Pump-Action Shotgun";
 MERCH_FLAVOR_XHUNTER              = "It's like a Hunter and a Blooper had a one night stand.";
 
 // Fenris
 MERCH_CAT_FENRIS                  = "Energy Weapons";
-MERCH_TAG_FENRIS                  = "Icarus CFL-21 'Fenris' Cold Fusion Laser";
+MERCH_TAG_FENRIS                  = "Icarus CFL-21 \"Fenris\" Cold Fusion Laser";
 MERCH_FLAVOR_FENRIS               = "It's a cold day in hell.";
 
 // Finger of God
@@ -211,7 +211,7 @@ MERCH_FLAVOR_FIREAXE              = "Why is it called a Fire Axe if it's not on 
 
 // Flamenwerfer 77
 MERCH_CAT_FLAMENWERFER            = "Explosives";
-MERCH_TAG_FLAMENWERFER            = "Icarus FT-77 'Flamenwerfer' Flamethrower";
+MERCH_TAG_FLAMENWERFER            = "Icarus FT-77 \"Flamenwerfer\" Flamethrower";
 MERCH_FLAVOR_FLAMENWERFER         = "It werfs flammen.";
 
 // Flare Gun (Metal)
@@ -227,7 +227,7 @@ MERCH_FLAVOR_FLAREGUN             = "Useful for finding your way through dark pl
 // Flintlock Pistol
 MERCH_CAT_FLINTLOCK               = "Handguns";
 MERCH_TAG_FLINTLOCK               = "Flintlock Pistol";
-MERCH_FLAVOR_FLINTLOCK            = "Gunslingin' like it's 1749!";
+MERCH_FLAVOR_FLINTLOCK            = "Gunslingin\" like it's 1749!";
 
 // FNFAL
 MERCH_CAT_FNFAL                   = "Machineguns";
@@ -236,17 +236,17 @@ MERCH_FLAVOR_FNFAL                = "Give those abominations a taste of true fre
 
 // FP-45
 MERCH_CAT_FP45                    = "Handguns";
-MERCH_TAG_FP45                    = "FP-45 'Liberator' .45 ACP Pistol";
+MERCH_TAG_FP45                    = "FP-45 \"Liberator\" .45 ACP Pistol";
 MERCH_FLAVOR_FP45                 = "Do you even need more than one shot?";
 
 // Frag Cannon
 MERCH_CAT_FRAGCANNON              = "Explosives";
-MERCH_TAG_FRAGCANNON              = "'Frag Cannon' Frag Grenade Launcher";
+MERCH_TAG_FRAGCANNON              = "\"Frag Cannon\" Frag Grenade Launcher";
 MERCH_FLAVOR_FRAGCANNON           = "Is your arm tired?";
 
 // Frontiersman
 MERCH_CAT_FRONTIERSMAN            = "Rifles";
-MERCH_TAG_FRONTIERSMAN            = "Icarus 'Frontiersman' 7.76mm Lever-Action Rifle";
+MERCH_TAG_FRONTIERSMAN            = "Icarus \"Frontiersman\" 7.76mm Lever-Action Rifle";
 MERCH_FLAVOR_FRONTIERSMAN         = "A bare-bones gun for a bare-bones man.";
 
 // Fulgur
@@ -262,7 +262,7 @@ MERCH_FLAVOR_G11                  = "Kraut Space Magic!";
 // G11 (Scoped)
 MERCH_CAT_G11SCOPED               = "Automatic Rifles";
 MERCH_TAG_G11SCOPED               = "H&M G26SD Service Rifle";
-MERCH_FLAVOR_G11SCOPED            = "A very sneaky G26A1 capable of 'hyperburst'.";
+MERCH_FLAVOR_G11SCOPED            = "A very sneaky G26A1 capable of \"hyperburst\".";
 
 // GFB-9
 MERCH_CAT_GFB9                    = "Energy Weapons";
@@ -271,22 +271,22 @@ MERCH_FLAVOR_GFB9                 = "For when all else fails.";
 
 // Golden Single Action Revolver
 MERCH_CAT_GOLDENSAREVOLVER        = "Revolvers";
-MERCH_TAG_GOLDENSAREVOLVER        = "Buger 'Golden Gun' .45 Long Colt Single-Action Revolver";
+MERCH_TAG_GOLDENSAREVOLVER        = "Buger \"Golden Gun\" .45 Long Colt Single-Action Revolver";
 MERCH_FLAVOR_GOLDENSAREVOLVER     = "I don't expect these demons to talk, I expect them to die!";
 
 // Greely
 MERCH_CAT_GREELY                  = "Shotguns";
-MERCH_TAG_GREELY                  = "KAG 'Greely' 12ga Pump-Action SuperShorty";
+MERCH_TAG_GREELY                  = "KAG \"Greely\" 12ga Pump-Action SuperShorty";
 MERCH_FLAVOR_GREELY               = "Might fit in your pockets.";
 
 // Guillotine
 MERCH_CAT_GUILLOTINE              = "Handguns";
-MERCH_TAG_GUILLOTINE              = "'La Petite Guillotine' 9x25mm NDM Pistol";
+MERCH_TAG_GUILLOTINE              = "\"La Petite Guillotine\" 9x25mm NDM Pistol";
 MERCH_FLAVOR_GUILLOTINE           = "Chop, chop.";
 
 // Gungnir
 MERCH_CAT_GUNGNIR                 = "Heavy Weapons";
-MERCH_TAG_GUNGNIR                 = "AceCorp 'Gungnir' Gretchenfrage Rifle";
+MERCH_TAG_GUNGNIR                 = "AceCorp \"Gungnir\" Gretchenfrage Rifle";
 MERCH_FLAVOR_GUNGNIR              = "BFG?  More like BEAM-FG am I right?";
 
 // Hacked ZM66
@@ -296,12 +296,12 @@ MERCH_FLAVOR_HZM                  = "Yep, totally legitimate. Just don't show it
 
 // Hammerhead
 MERCH_CAT_HAMMERHEAD              = "Energy Weapons";
-MERCH_TAG_HAMMERHEAD              = "AceCorp CIR-37 'Hammerhead' Plasma Minigun";
+MERCH_TAG_HAMMERHEAD              = "AceCorp CIR-37 \"Hammerhead\" Plasma Minigun";
 MERCH_FLAVOR_HAMMERHEAD           = "Do you hate batteries? Do you hate imps more? This gun lets you get rid of both!";
 
 // Helzing
 MERCH_CAT_HELZING                 = "Handguns";
-MERCH_TAG_HELZING                 = "L&M 'Helzing' .355 Masterball Handgun";
+MERCH_TAG_HELZING                 = "L&M \"Helzing\" .355 Masterball Handgun";
 MERCH_FLAVOR_HELZING              = "In the name of the Lord!";
 
 // HLAR
@@ -311,7 +311,7 @@ MERCH_FLAVOR_HLAR                 = "Makes more noise and throws grenades, but t
 
 // Hunter
 MERCH_CAT_HUNTER                  = "Shotguns";
-MERCH_TAG_HUNTER                  = "SPOS-E28 'Hunter' Pump-Action Shotgun";
+MERCH_TAG_HUNTER                  = "DiFranco SPOS-E28 \"Hunter\" Pump-Action Shotgun";
 MERCH_FLAVOR_HUNTER               = "Come on, baby, just pump it.";
 
 // Hush Puppy
@@ -321,17 +321,17 @@ MERCH_FLAVOR_HUSHPUPPY            = "It's a shame the slide sticks, though";
 
 // Ironsight Lib
 MERCH_CAT_ILIB                    = "Automatic Rifles";
-MERCH_TAG_ILIB                    = "Volt ZM7 'Liberator' 7.76mm Battle Rifle";
+MERCH_TAG_ILIB                    = "H&M ZM7 \"Liberator\" 7.76mm Battle Rifle";
 MERCH_FLAVOR_ILIB                 = "Liberator rifle in and out. Almost.";
 
 // Jackdaw
 MERCH_CAT_JACKDAW                 = "SMGs";
-MERCH_TAG_JACKDAW                 = "AceCorp 'Jackdaw' 9x22mm SMG";
+MERCH_TAG_JACKDAW                 = "AceCorp \"Jackdaw\" 9x22mm SMG";
 MERCH_FLAVOR_JACKDAW              = "It's like five SMGs strapped together, but you can only fire one at a time.";
 
 // Juan Horeshoe Pistol
 MERCH_CAT_JUAN                    = "Handguns";
-MERCH_TAG_JUAN                    = "Mouletta 'Juan' 9x22mm Horsehoe Pistol";
+MERCH_TAG_JUAN                    = "Mouletta \"Juan\" 9x22mm Horsehoe Pistol";
 MERCH_FLAVOR_JUAN                 = "J u a n";
 
 // Kharon
@@ -346,22 +346,22 @@ MERCH_FLAVOR_LLHUNTER             = "Whatcha gonna do with this, arrest the demo
 
 // Levergun
 MERCH_CAT_LEVERGUN                = "Carbines";
-MERCH_TAG_LEVERGUN                = "LR37 'Big Boy' Hunting Carbine";
-MERCH_FLAVOR_LEVERGUN             = "Contrary to what its name suggests, you don't HAVE to use it against 'big boys'.";
+MERCH_TAG_LEVERGUN                = "Sawyer LR355 \"Big Boy\" .355 Masterball Carbine";
+MERCH_FLAVOR_LEVERGUN             = "Contrary to what its name suggests, you don't HAVE to use it against \"big boys\".";
 
 // Liberator
 MERCH_CAT_LIBERATOR               = "Automatic Rifles";
-MERCH_TAG_LIBERATOR               = "Volt ZM7 'Liberator' 7.76mm Battle Rifle";
+MERCH_TAG_LIBERATOR               = "H&M ZM7 \"Liberator\" 7.76mm Battle Rifle";
 MERCH_FLAVOR_LIBERATOR            = "Vive la révolution!";
 
 // Lisa
 MERCH_CAT_LISA                    = "Energy Weapons";
-MERCH_TAG_LISA                    = "0H1-MK 'Lisa' Plasma DMR";
+MERCH_TAG_LISA                    = "0H1-MK \"Lisa\" Plasma DMR";
 MERCH_FLAVOR_LISA                 = "This rifle has not been hit.";
 
 // Lotus
 MERCH_CAT_LOTUS                   = "Carbines";
-MERCH_TAG_LOTUS                   = "KAG 'Lotus' 7.76mm Revolver Carbine";
+MERCH_TAG_LOTUS                   = "KAG \"Lotus\" 7.76mm Revolver Carbine";
 MERCH_FLAVOR_LOTUS                = "Carbine, but it's really a revolver. Why?";
 
 // M1 Garand
@@ -371,7 +371,7 @@ MERCH_FLAVOR_M1GARAND             = "PING! PING!";
 
 // M2HB
 MERCH_CAT_M2HB                    = "Heavy Weapons";
-MERCH_TAG_M2HB                    = "AM-HMG50 'MKII Stinger' HMG";
+MERCH_TAG_M2HB                    = "AM-HMG50 \"MKII Stinger\" HMG";
 MERCH_FLAVOR_M2HB                 = "This was made for tanks, not infantry. How you'll use this is a mystery to me.";
 
 // M5165
@@ -381,7 +381,7 @@ MERCH_FLAVOR_M5165                = "It really does hold 165 rounds. Very tiny r
 
 // M60
 MERCH_CAT_M60                     = "Heavy Weapons";
-MERCH_TAG_M60                     = "USGI M60E1 'Fat Boar' GPMG";
+MERCH_TAG_M60                     = "USGI M60E1 \"Fat Boar\" GPMG";
 MERCH_FLAVOR_M60                  = "Just don't load them as much.";
 
 // MA-75B
@@ -396,12 +396,12 @@ MERCH_FLAVOR_MA76C                = "It's like the MA-75B but smaller.";
 
 // MAC10
 MERCH_CAT_MAC10                   = "Handguns";
-MERCH_TAG_MAC10                   = "RAC-10/45 .45 ACP Machine Pistol";
+MERCH_TAG_MAC10                   = "Raycob RAC-10/45 .45 ACP Machine Pistol";
 MERCH_FLAVOR_MAC10                = "Ferocious little box that spits hot lead and anger. Don't lose your grip.";
 
 // Majestic
 MERCH_CAT_MAJESTIC                = "Handguns";
-MERCH_TAG_MAJESTIC                = "AceCorp 'Majestic' .500 S&W Railgun";
+MERCH_TAG_MAJESTIC                = "AceCorp \"Majestic\" .500 S&W Railgun";
 MERCH_FLAVOR_MAJESTIC             = "Aliens may or may not have been involved in the production of this.";
 
 // Mancubus Cannon
@@ -411,7 +411,7 @@ MERCH_FLAVOR_MANCCANNON           = "I hope you aren't planning to use this for 
 
 // Mauler
 MERCH_CAT_MAULER                  = "Energy Weapons";
-MERCH_TAG_MAULER                  = "DAIMAOU 'Mauler' Gretchenfrage Cannon";
+MERCH_TAG_MAULER                  = "DAIMAOU \"Mauler\" Gretchenfrage Cannon";
 MERCH_FLAVOR_MAULER               = "Might turn you into a radioactive corpse over time, but who cares?";
 
 // Microgun
@@ -421,12 +421,12 @@ MERCH_FLAVOR_MICROGUN             = "Keep the trigger squeezed down and it'll do
 
 // Minerva
 MERCH_CAT_MINERVA                 = "Heavy Weapons";
-MERCH_TAG_MINERVA                 = "'Minerva' 9x22mm Rotary Support Weapon";
+MERCH_TAG_MINERVA                 = "\"Minerva\" 9x22mm Rotary Support Weapon";
 MERCH_FLAVOR_MINERVA              = "She ain't no mouse , I'll tell you that much.";
 
 // MK23 SOCOM
 MERCH_CAT_MK23SOCOM               = "Handguns";
-MERCH_TAG_MK23SOCOM               = "Mk.45 Combat Handgun";
+MERCH_TAG_MK23SOCOM               = "H&M Mk23 \"SOCOM\" .45 ACP Handgun";
 MERCH_FLAVOR_MK23SOCOM            = "They won't even hear you coming.";
 
 // Modular Battle Rifle
@@ -441,7 +441,7 @@ MERCH_FLAVOR_MUSKET               = "Do demons even have whites in their eyes?";
 
 // No-Scope Boss
 MERCH_CAT_NSB                     = "Boss Rifles";
-MERCH_TAG_NSB                     = "L&M 'Boss' Mk. IV 7.76mm Bolt-Action Rifle";
+MERCH_TAG_NSB                     = "L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Rifle";
 MERCH_FLAVOR_NSB                  = "Who needs a scope when you've got a BOLT-ACTION!";
 
 // NS3-Cr.Kt
@@ -451,17 +451,17 @@ MERCH_FLAVOR_NCT                  = "It's some sort of weird tiny... gun? thing?
 
 // Nyx
 MERCH_CAT_NYX                     = "Handguns";
-MERCH_TAG_NYX                     = "Icarus CM-3 'Nyx' .355 Masterball Handgun";
+MERCH_TAG_NYX                     = "Icarus CM-3 \"Nyx\" .355 Masterball Handgun";
 MERCH_FLAVOR_NYX                  = "The Queen of Thicc.";
 
 // Obrozz
 MERCH_CAT_OBROZZ                  = "Boss Rifles";
-MERCH_TAG_OBROZZ                  = "Sawn-off L&M 'Boss' Mk. IV 7.76mm Bolt-Action Pistol";
+MERCH_TAG_OBROZZ                  = "L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Pistol";
 MERCH_FLAVOR_OBROZZ               = "Now yer a real gunslinger.";
 
 // Oddball
 MERCH_CAT_ODDBALL                 = "Energy Weapons";
-MERCH_TAG_ODDBALL                 = "CEA 'O.D.B.A.L.' Energy Pistol";
+MERCH_TAG_ODDBALL                 = "CEA \"O.D.B.A.L.\" Energy Pistol";
 MERCH_FLAVOR_ODDBALL              = "Crank it up.";
 
 // Otis-5
@@ -476,7 +476,7 @@ MERCH_FLAVOR_P90                  = "A veritable bullet-hose with no apparent do
 
 // P90 (Princess)
 MERCH_CAT_P90PRINCESS             = "SMGs";
-MERCH_TAG_P90PRINCESS             = "L&M BreakerTek 'Red Crown' P90 9x25mm NDM PDW";
+MERCH_TAG_P90PRINCESS             = "L&M BreakerTek \"Red Crown\" P90 9x25mm NDM PDW";
 MERCH_FLAVOR_P90PRINCESS          = "Perfect for rapid-fire exsanguination. And parties.";
 
 // PD-42
@@ -501,17 +501,17 @@ MERCH_FLAVOR_PLASMAPISTOL         = "Don't overcharge it, this baby gets hot!";
 
 // PPSh-41
 MERCH_CAT_PPSH41                  = "SMGs";
-MERCH_TAG_PPSH41                  = "PPSh-41 'Papasha' 7.62mm Tokarev SMG";
-MERCH_FLAVOR_PPSH41               = "Give 'em some indigestion!";
+MERCH_TAG_PPSH41                  = "PPSh-41 \"Papasha\" 7.62mm Tokarev SMG";
+MERCH_FLAVOR_PPSH41               = "Give \"em some indigestion!";
 
 // PS20
 MERCH_CAT_PS20                    = "Disposables";
-MERCH_TAG_PS20                    = "Denton Light Arms and Munitions PS-451";
+MERCH_TAG_PS20                    = "DLA&M PS-451";
 MERCH_FLAVOR_PS20                 = "A deceivingly effective package for the marine you just can't kill.";
 
 // PSG1
 MERCH_CAT_PSG1                    = "Rifles";
-MERCH_TAG_PSG1                    = "H&M PSG2A1 Sniper Rifle";
+MERCH_TAG_PSG1                    = "H&M PSG2A1 7.76mm Sniper Rifle";
 MERCH_FLAVOR_PSG1                 = "See that Baron over there? Now you don't.";
 
 // Railgun
@@ -526,67 +526,67 @@ MERCH_FLAVOR_RAILGUNDYNAMO        = "A recharging device for the XM99. Required 
 
 // Redline
 MERCH_CAT_REDLINE                 = "Energy Weapons";
-MERCH_TAG_REDLINE                 = "AceCorp RDL-N3 'Redline' Thermal Lance";
+MERCH_TAG_REDLINE                 = "AceCorp RDL-N3 \"Redline\" Thermal Lance";
 MERCH_FLAVOR_REDLINE              = "Look here. Smile. Wait for flash.";
 
 // Revolver
 MERCH_CAT_REVOLVER                = "Revolvers";
-MERCH_TAG_REVOLVER                = "Buger 'Deinonychus' .355 Masterball Revolver";
+MERCH_TAG_REVOLVER                = "Buger \"Deinonychus\" .355 Masterball Revolver";
 MERCH_FLAVOR_REVOLVER             = "It's high noon.";
 
 // Rocket Launcher
 MERCH_CAT_ROCKETLAUNCHER          = "Explosives";
-MERCH_TAG_ROCKETLAUNCHER          = "L&M 'Direct Hit' 40mm Rocket Launcher'";
+MERCH_TAG_ROCKETLAUNCHER          = "L&M \"Direct Hit\" 40mm Rocket Launcher\"";
 MERCH_FLAVOR_ROCKETLAUNCHER       = "Now you're packing heat. ...Are you?";
 
 // Ruby Maser
 MERCH_CAT_RUBYMASER               = "Energy Weapons";
-MERCH_TAG_RUBYMASER               = "Rubicon AEF-322c 'Ruby Maser' Microwave Laser";
+MERCH_TAG_RUBYMASER               = "Rubicon AEF-322c \"Ruby Maser\" Microwave Laser";
 MERCH_FLAVOR_RUBYMASER            = "It can even heat up leftover pizza! Once.";
 
 // Ruger1022
 MERCH_CAT_RUGER1022               = "Rifles";
 MERCH_TAG_RUGER1022               = "Buger M22 Target Rifle";
-MERCH_FLAVOR_RUGER1022            = "Gone from plinkin' beer cans to plinkin' babuins.";
+MERCH_FLAVOR_RUGER1022            = "Gone from plinkin\" beer cans to plinkin\" babuins.";
 
 // Savage 99
 MERCH_CAT_SAVAGE99                = "Rifles";
-MERCH_TAG_SAVAGE99                = "'Savage 99' .300 Savage Lever-Action Rifle";
-MERCH_FLAVOR_SAVAGE99             = "Goin' big game huntin'?";
+MERCH_TAG_SAVAGE99                = "\"Savage 99\" .300 Savage Lever-Action Rifle";
+MERCH_FLAVOR_SAVAGE99             = "Goin\" big game huntin\"?";
 
 // Sawed-off Slayer
 MERCH_CAT_SAWEDOFFSLAYER          = "Shotguns";
-MERCH_TAG_SAWEDOFFSLAYER          = "SL-41 'Slayer' 12ga Double-Barreled Shotgun";
+MERCH_TAG_SAWEDOFFSLAYER          = "Cavalry Arms SL-41 \"Slayer\" 12ga Double-Barreled Shotgun";
 MERCH_FLAVOR_SAWEDOFFSLAYER       = "Whole lotta buckshot right in yer pocket.";
 
 // Scoped Revolver
 MERCH_CAT_SCOPEDREVOLVER          = "Revolvers";
-MERCH_TAG_SCOPEDREVOLVER          = "Buger 'Deinonychus' .355 Masterball Revolver";
+MERCH_TAG_SCOPEDREVOLVER          = "Buger \"Deinonychus\" .355 Masterball Revolver";
 MERCH_FLAVOR_SCOPEDREVOLVER       = "Only a dark lord would.";
 
 // Scoped Slayer
 MERCH_CAT_SCOPEDSLAYER            = "Shotguns";
-MERCH_TAG_SCOPEDSLAYER            = "SL-41 'Slayer' 12ga Double-Barreled Shotgun";
+MERCH_TAG_SCOPEDSLAYER            = "Cavalry Arms SL-41 \"Slayer\" 12ga Double-Barreled Shotgun";
 MERCH_FLAVOR_SCOPEDSLAYER         = "Budget sniper rifle.";
 
 // Scorpion
 MERCH_CAT_SCORPION                = "Heavy Weapons";
-MERCH_TAG_SCORPION                = "AceCorp 'Scorpion' 35mm Sniper Cannon";
+MERCH_TAG_SCORPION                = "AceCorp \"Scorpion\" 35mm Sniper Cannon";
 MERCH_FLAVOR_SCORPION             = "Deletes just about anything.";
 
 // Sig-Cow
 MERCH_CAT_SIGCOW                  = "Carbines";
-MERCH_TAG_SIGCOW                  = "M-211 'Sig-Cow' 10mm Carbine";
+MERCH_TAG_SIGCOW                  = "M-211 \"Sig-Cow\" 10mm Carbine";
 MERCH_FLAVOR_SIGCOW               = "Don't have a Cow, man? Then buy yourself one of these!";
 
 // Single Action Revolver
 MERCH_CAT_SAREVOLVER              = "Revolvers";
-MERCH_TAG_SAREVOLVER              = "Buger 'Long Arm' .45 Long Colt Single-Action Revolver";
+MERCH_TAG_SAREVOLVER              = "Buger \"Long Arm\" .45 Long Colt Single-Action Revolver";
 MERCH_FLAVOR_SAREVOLVER           = "This thing probably belonged to one of your ancestors. Hope it still shoots well.";
 
 // Slayer
 MERCH_CAT_SLAYER                  = "Shotguns";
-MERCH_TAG_SLAYER                  = "SL-41 'Slayer' 12ga Double-Barreled Shotgun";
+MERCH_TAG_SLAYER                  = "Cavalry Arms SL-41 \"Slayer\" 12ga Double-Barreled Shotgun";
 MERCH_FLAVOR_SLAYER               = "The barrel grew back.";
 
 // Sledgehammer
@@ -596,7 +596,7 @@ MERCH_FLAVOR_SLEDGEHAMMER         = "A hefty master key for any locked doors (or
 
 // Six-12
 MERCH_CAT_SIX12                   = "Shotguns";
-MERCH_TAG_SIX12                   = "Icarus 'Six-12' 12ga Revolver Shotgun";
+MERCH_TAG_SIX12                   = "Icarus \"Six-12\" 12ga Revolver Shotgun";
 MERCH_FLAVOR_SIX12                = "The magazine! It spins!";
 
 // SMG
@@ -606,7 +606,7 @@ MERCH_FLAVOR_SMG                  = "Silent, but deadly... If you shoot it for l
 
 // Snubnose Revolver
 MERCH_CAT_SNUBNOSE                = "Revolvers";
-MERCH_TAG_SNUBNOSE                = "Buger 'Detective Special' .355 Masterball Snub-Nose Revolver";
+MERCH_TAG_SNUBNOSE                = "Buger \"Detective Special\" .355 Masterball Snub-Nose Revolver";
 MERCH_FLAVOR_SNUBNOSE             = "Hands up! Grab air, you babies! Or I'll squeeze this thing, and I don't mean maybe!";
 
 // Soul Cube
@@ -636,17 +636,17 @@ MERCH_FLAVOR_STREETSWEEPER        = "All fun and games until you need to reload.
 
 // Stun Gun
 MERCH_CAT_STUNGUN                 = "Melee Weapons";
-MERCH_TAG_STUNGUN                 = "'ShokStop' Stun Gun";
+MERCH_TAG_STUNGUN                 = "\"ShokStop\" Stun Gun";
 MERCH_FLAVOR_STUNGUN              = "Don't taze me, bro!";
 
 // Thunderbuster
 MERCH_CAT_THUNDERBUSTER           = "Energy Weapons";
-MERCH_TAG_THUNDERBUSTER           = "H&M 'Thunder Buster' Mk. XI Polaric Charge Projector";
+MERCH_TAG_THUNDERBUSTER           = "H&M Mk. XI \"Thunder Buster\" Polaric Charge Projector";
 MERCH_FLAVOR_THUNDERBUSTER        = "Zap zap BOOM!";
 
 // TRO-G
 MERCH_CAT_TROG                    = "Automatic Rifles";
-MERCH_TAG_TROG                    = "Volt AR-29 'TRO-G' 4.26mm Assault Rifle";
+MERCH_TAG_TROG                    = "Volt AR-29 \"TRO-G\" 4.26mm Assault Rifle";
 MERCH_FLAVOR_TROG                 = "Blast from the past.";
 
 // TT-33
@@ -676,17 +676,17 @@ MERCH_FLAVOR_USP45                = "When you want modern performance and MUH TW
 
 // Vera
 MERCH_CAT_VERA                    = "Heavy Weapons";
-MERCH_TAG_VERA                    = "Volt M764 'Vera' 4.26mm Squad Automatic Weapon";
+MERCH_TAG_VERA                    = "Volt M764 \"Vera\" 4.26mm Squad Automatic Weapon";
 MERCH_FLAVOR_VERA                 = "Diet Vulcanette.";
 
 // Viper
 MERCH_CAT_VIPER                   = "Handguns";
-MERCH_TAG_VIPER                   = "AceCorp 'Viper' .50 Action Mega Handgun";
+MERCH_TAG_VIPER                   = "AceCorp \"Viper\" .50 Action Mega Handgun";
 MERCH_FLAVOR_VIPER                = "Excellent for pretending to be the last action hero.";
 
 // Vulcanette
 MERCH_CAT_VULCANETTE              = "Heavy Weapons";
-MERCH_TAG_VULCANETTE              = "Volt 'Vulcanette' Mk. III 4.26mm Rotary Support Weapon";
+MERCH_TAG_VULCANETTE              = "Volt Mk. III \"Vulcanette\" 4.26mm Rotary Support Weapon";
 MERCH_FLAVOR_VULCANETTE           = "I hope you can feed this monster.";
 
 // Wiseau
@@ -696,7 +696,7 @@ MERCH_FLAVOR_WISEAU               = "You're going to tear me apart if you don't 
 
 // Worst Boss
 MERCH_CAT_WORSTBOSS               = "Boss Rifles";
-MERCH_TAG_WORSTBOSS               = "L&M 'Boss' Mk. IV 7.76mm Bolt-Action Rifle";
+MERCH_TAG_WORSTBOSS               = "L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Rifle";
 MERCH_FLAVOR_WORSTBOSS            = "WAAAAARRP SPEEEEEEEEEED.";
 
 // WSTE-M5
@@ -706,12 +706,12 @@ MERCH_FLAVOR_WSTEM5               = "I won't waste my time trying to explain the
 
 // Wyvern
 MERCH_CAT_WYVERN                  = "Rifles";
-MERCH_TAG_WYVERN                  = "AceCorp 'Wyvern' .50 OMG Double-Barreled Rifle";
+MERCH_TAG_WYVERN                  = "AceCorp \"Wyvern\" .50 OMG Double-Barreled Rifle";
 MERCH_FLAVOR_WYVERN               = "No more \"WIIW\".";
 
 // Yeyuze
 MERCH_CAT_YEYUZE                  = "Explosives";
-MERCH_TAG_YEYUZE                  = "VPF Arms 'Yeyuze' 40mm Pump-Action Grenade Launcher";
+MERCH_TAG_YEYUZE                  = "VPF Arms \"Yeyuze\" 40mm Pump-Action Grenade Launcher";
 MERCH_FLAVOR_YEYUZE               = "Yes, you CAN slam-fire this one!";
 
 // Yurei
@@ -726,12 +726,12 @@ MERCH_FLAVOR_ZM69                 = "For hunting very large, murderous, demonic 
 
 // ZM94
 MERCH_CAT_ZM94                    = "Rifles";
-MERCH_TAG_ZM94                    = "Volt ZM94 'Sabrewolf' .50 OMG Anti-Materiel Rifle";
+MERCH_TAG_ZM94                    = "Volt ZM94 \"Sabrewolf\" .50 OMG Anti-Materiel Rifle";
 MERCH_FLAVOR_ZM94                 = "Great for assassinating MBTs and other force-equilizers.";
 
 // Zorcher
 MERCH_CAT_ZORCHER                 = "Energy Weapons";
-MERCH_TAG_ZORCHER                 = "'Zorcher' Handheld Teleporter";
+MERCH_TAG_ZORCHER                 = "\"Zorcher\" Handheld Teleporter";
 MERCH_FLAVOR_ZORCHER              = "These don't come with a cereal box. Sorry.";
 
 
@@ -766,7 +766,7 @@ MERCH_FLAVOR_ADHESIVE             = "Hand-made poultice that slowly invigorates 
 
 // Ammo Box
 MERCH_CAT_AMMOBOX                 = "Supplies";
-MERCH_TAG_AMMOBOX                 = "UAC 'Quick Drop' Ammo Box";
+MERCH_TAG_AMMOBOX                 = "UAC \"Quick Drop\" Ammo Box";
 MERCH_FLAVOR_AMMOBOX              = "I take no responsibility if this explodes. Just don't open it in front of my face.";
 
 // Ammo Pouch
@@ -791,7 +791,7 @@ MERCH_FLAVOR_ARMOURPATCHKIT       = "Patch yerself up, soldier!";
 
 // Assault Pack
 MERCH_CAT_ASSAULTPACK             = "Storage";
-MERCH_TAG_ASSAULTPACK             = "UAC Specialist Assault Pack";
+MERCH_TAG_ASSAULTPACK             = "UAC Specialist Lightweight Backpack";
 MERCH_FLAVOR_ASSAULTPACK          = "May or may not contain anything useful inside.";
 
 // Backpack
@@ -806,7 +806,7 @@ MERCH_FLAVOR_BALLCRAFTER          = "Balls of steel.";
 
 // Berserk Pack
 MERCH_CAT_BERSERK                 = "Medical Supplies";
-MERCH_TAG_BERSERK                 = "UAC Specialist 'Berserk' Pack";
+MERCH_TAG_BERSERK                 = "UAC Specialist \"Berserk\" Pack";
 MERCH_FLAVOR_BERSERK              = "Do not overdose. Oh who am I kidding, of course you will.";
 
 // Blood Bag
@@ -911,7 +911,7 @@ MERCH_FLAVOR_HACKED7MMRELOADER    = "BRBRBRBRBRBRBRBR *clack* but faster.";
 
 // Half-Pack
 MERCH_CAT_HALFPACK                = "Storage";
-MERCH_TAG_HALFPACK                = "UAC Specialist Lightweight Backpack";
+MERCH_TAG_HALFPACK                = "UAC Standard Infantry Rucksack";
 MERCH_FLAVOR_HALFPACK             = "May or may not contain anything useful inside.";
 
 // HUD Helmet
@@ -926,7 +926,7 @@ MERCH_FLAVOR_JETPACK              = "Careful not to leave the atmosphere.";
 
 // Ladder Launcher
 MERCH_CAT_LADDERLAUNCHER          = "Equipment";
-MERCH_TAG_LADDERLAUNCHER          = "UAC Specialist Ladder Launcher";
+MERCH_TAG_LADDERLAUNCHER          = "UAC Specialist Remote Ladder Deployment Apparatus";
 MERCH_FLAVOR_LADDERLAUNCHER       = "Aim for the top.";
 
 // M249 Reloader
@@ -1011,7 +1011,7 @@ MERCH_FLAVOR_ROCKETASSEMBLER      = "Warning: Do not try at home.";
 
 // Roomba
 MERCH_CAT_ROOMBA                  = "Equipment";
-MERCH_TAG_ROOMBA                  = "Volt 'R.O.O.M.B.A.' Robot";
+MERCH_TAG_ROOMBA                  = "Volt \"R.O.O.M.B.A.\" Robot";
 MERCH_FLAVOR_ROOMBA               = "Stop breaking your back trying to pick up brass.";
 
 // Secret Finder
@@ -1026,8 +1026,8 @@ MERCH_FLAVOR_STIMPACK             = "AHHHH YEAH!";
 
 // Summoning Talisman
 MERCH_CAT_SUMMONINGTALISMAN       = "Anomalous Artifacts";
-MERCH_TAG_SUMMONINGTALISMAN       = "Strange Artifact";
-MERCH_FLAVOR_SUMMONINGTALISMAN    = "An anomalous set of dogtags...";
+MERCH_TAG_SUMMONINGTALISMAN       = "Strange Dogtags";
+MERCH_FLAVOR_SUMMONINGTALISMAN    = "Found these off some poor sod...";
 
 // Super Stimpack
 MERCH_CAT_SUPERSTIM               = "Medical Supplies";
@@ -1107,7 +1107,7 @@ MERCH_FLAVOR_45ACP                = "The stopping power on these is really incre
 // .45 LC
 MERCH_CAT_45LC                    = "Handgun Ammunition";
 MERCH_TAG_45LC                    = ".45 Long Colt Rounds";
-MERCH_FLAVOR_45LC                 = "Known as 'America's round'. They sure are a long way from home, though.";
+MERCH_FLAVOR_45LC                 = "Known as \"America's round\". They sure are a long way from home, though.";
 
 // .45 LC (Golden)
 MERCH_CAT_G45LC                   = "Handgun Ammunition";
@@ -1202,7 +1202,7 @@ MERCH_FLAVOR_7MM                  = "You don't need to face your enemies if you 
 // 8mm Electromagnetic Cartridges
 MERCH_CAT_8MMEC                   = "Rifle Ammunition";
 MERCH_TAG_8MMEC                   = "8x35mm Electromagnetic Cartridges";
-MERCH_FLAVOR_8MMEC                = "Fuckin' magnets, how do they work?";
+MERCH_FLAVOR_8MMEC                = "Fuckin\" magnets, how do they work?";
 
 // 9mm
 MERCH_CAT_9MM                     = "Handgun Ammunition";
@@ -1281,7 +1281,7 @@ MERCH_FLAVOR_GASTANK              = "Fire up the BBQ!";
 
 // Gas Grenade
 MERCH_CAT_GASGRENADE              = "Grenades";
-MERCH_TAG_GASGRENADE              = "'Roller' Toxic Gas Grenades";
+MERCH_TAG_GASGRENADE              = "\"Roller\" Toxic Gas Grenades";
 MERCH_FLAVOR_GASGRENADE           = "Smell that air! Couldn't you just drink it like booze?!";
 
 // H.E.A.T. Rocket
@@ -1341,7 +1341,7 @@ MERCH_FLAVOR_TORTOISEROCKET       = "It'll boom ya, it's the boomiest!";
 
 // White Phosphorus Grenade
 MERCH_CAT_WPGRENADE               = "Grenades";
-MERCH_TAG_WPGRENADE               = "'Willie Pete' White Phosphorus Grenades";
+MERCH_TAG_WPGRENADE               = "\"Willie Pete\" White Phosphorus Grenades";
 MERCH_FLAVOR_WPGRENADE            = "Enjoy in moderation!";
 
 
@@ -1427,4 +1427,4 @@ MERCH_FLAVOR_LEATHERARMOUR        = "See you, space cowboy.";
 // Sneaking Suit
 MERCH_CAT_SNEAKINGSUIT            = "Armor";
 MERCH_TAG_SNEAKINGSUIT            = "WAN Sneaking Suit";
-MERCH_FLAVOR_SNEAKINGSUIT         = "Won't even know what him 'em.";
+MERCH_FLAVOR_SNEAKINGSUIT         = "Won't even know what him \"em.";

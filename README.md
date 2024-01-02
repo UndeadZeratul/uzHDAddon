@@ -133,7 +133,7 @@ _Extended Mag addon: Sonik.O_
 The Blooper has been swapped out for a Break-Action Grenade Launcher by Sonik.O.
 
 ![blooper](./screenshots/blooper.png)  
-_Credits: TommyGalano5, Sonik.O_
+_Credits: Sonik.O_
 
 #### Brontornis
 The Brontornis Rifle has been swapped out for something with a bit better perspective, as well as fitting the overall aesthetic of the rest of the pack.
@@ -146,6 +146,12 @@ The BFG-9000 Has been swapped out for one that still feels like a BFG, but one t
 
 ![bfg-9000](./screenshots/bfg-9000.png)  
 _Credits: Sonik.O, 3D Realms_
+
+#### Altis O/U Shotgun
+The Altis O/U Shotgun has had its reloading frames swapped out with a fresh set made by TommyGalano5.
+
+![altis](./screenshots/altis.png)
+_Credits: TommyGalano5_
 
 #### 10mm Pistol
 _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
@@ -320,7 +326,8 @@ By way of the other replacements, the Squad Summoner has thus also been updated.
 _Credits:_  
 _Garrison Armor ([DRLA Credits](#DRLA-Credits)): SoloSpaghetti ([DRLA](https://forum.zdoom.org/viewtopic.php?t=37044))_  
 _Liberator: Matt & Combine Kegan_  
-_Shield Core: Sonik.O_
+_Shield Core: Sonik.O_  
+_Dogtags: TedTheDragon_
 
 #### HUD Helmet
 _Requires [Hideous Helmet](https://forum.zdoom.org/viewtopic.php?f=43&t=71950)_
