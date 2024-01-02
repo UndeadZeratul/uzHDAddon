@@ -757,8 +757,8 @@ PEPPER_PICKUP_NDM_BOX            = "Picked up some 9x25mm NDM rounds.";
 // Vanilla HDest
 PICKUP_9MMAG                     = "Picked up a 9x22mm Grokk 15 Magazine.";
 PICKUP_4MMAG                     = "Picked up a Volt 4.26mm Magazine.";
-PICKUP_9MMAG30                   = "Picked up a 9x22mm SMG magazine.";
-PICKUP_7MMAG                     = "Picked up a Volt 7.76mm magazine.";
+PICKUP_9MMAG30                   = "Picked up a 9x22mm SMG Magazine.";
+PICKUP_7MMAG                     = "Picked up a Volt 7.76mm Magazine.";
 PICKUP_BATTERY                   = "Picked up a Cell Battery.";
 
 // Hexadoken's Legacy, Continued
