@@ -16,7 +16,7 @@ MERCH_FLAVOR_ARCANUM              = "I don't understand a damn thing that's writ
 
 // Altis O/U Shotgun
 MERCH_CAT_ALTIS                   = "Shotguns";
-MERCH_TAG_ALTIS                   = "Altis Over-and-Under Shotgun";
+MERCH_TAG_ALTIS                   = "Altis \"Over-and-Under\" 12ga Shotgun";
 MERCH_FLAVOR_ALTIS                = "It's like the Slayer, but vertical.";
 
 // AT-4

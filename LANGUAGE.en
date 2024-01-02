@@ -60,6 +60,9 @@ TAG_SCORPION                     = "AceCorp \"Scorpion\" 35mm Sniper Cannon";
 TAG_VIPER                        = "AceCorp \"Viper\" .45 Action Mega Handgun";
 TAG_WYVERN                       = "AceCorp \"Wyvern\" .50 OMG Double-Barreled Rifle";
 
+// Altis O/U Shotgun
+TAG_ALTIS                        = "Altis \"Over-and-Under\" 12ga Shotgun";
+
 // Hexadoken's Legacy, Continued
 TAG_NSB                          = "L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Rifle";
 TAG_9MMBOSS                      = "L&M Mk. IV \"Boss\" 9x22mm Bolt-Action Rifle";
@@ -529,6 +532,9 @@ PICKUP_VIPERMAG_SUFFIX           = ".";
 PICKUP_WYVERN_PREFIX             = "Picked up a ";
 PICKUP_WYVERN_AUTOLOADER         = "";
 PICKUP_WYVERN_SUFFIX             = ".";
+
+// Altis O/U Shotgun
+PICKUP_ALTIS                     = "Picked up an Altis \"Over-and-Under\" 12ga Shotgun.";
 
 // Hexadoken's Legacy, Continued
 PICKUP_NSB                       = "Picked up a L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Rifle.";
