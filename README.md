@@ -75,12 +75,12 @@ The Arkoudi Revolver Shotgun's ironsights have been recolored.
 _Credits: AdianoTMO69_
 
 #### Hunter Shotgun
-The hunter has been swapped out with Complex Doom's Shotgun sprites, then recolored to match thematically.
+The hunter has been swapped out with a set that looks like the ones made by Daedalus' Complex Doom, yet still keep more of a vanilla feel to it, then recolored to match thematically.
 
 ![hunter](./screenshots/hunter.png)  
 _Credits:  
-HUD Sprites: Daedalus, Neoworm  
-Pickup Sprite: ZikShadow, Daedalus ([Complex Doom](https://forum.zdoom.org/viewtopic.php?t=58535))_
+HUD Sprites: Sonik.O, Neoworm  
+Pickup Sprite: Matt, Sonik.O_
 
 #### Slayers
 _Sawed-Off & Scoped Slayers require [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
