@@ -9,6 +9,12 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 
 ### Monster Sprite Changes
 
+#### Ghost Squadron
+
+When playing id Doom, the ghost squadron translation has been updated to match the rest of the reskin thematically.
+
+![ghost-squad](./screenshots/ghost-squad.png)
+
 #### Ninja Pirates
 
 When playing id Doom, the ninja pirate has been replaced with a recolored version of Hell-Forged's Brute, to match the anomalous nature of this beast's ability to phase in and out of visible perception.
