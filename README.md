@@ -9,7 +9,15 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 
 ### Monster Sprite Changes
 
+#### Ninja Pirates
+
+When playing id Doom, the ninja pirate has been replaced with a recolored version of Hell-Forged's Brute, to match the anomalous nature of this beast's ability to phase in and out of visible perception.
+
+![ninja-priate](./screenshots/ninja-pirate.png)  
+_Credits: Project Malice Team, Eriance/Amuscaria_
+
 #### Cacodemon
+
 When playing id Doom, the cacodemon's death animation has been replaced with one that feels much more electrifying, given their proclivity to emit sparks when dead.
 
 ![cacoDeath](./screenshots/cacodeath.gif)  
