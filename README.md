@@ -7,18 +7,33 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 ---
 ## Sprite Changes
 
-#### Fists
-The fists have been swapped out with a set that use plain Doomguy Gloves, simply for consistency.
+### Monster Sprite Changes
 
-_Credits: [UNKNOWN](#UNKNOWN-CREDITS)_
+#### Cacodemon
+When playing id Doom, the cacodemon's death animation has been replaced with one that feels much more electrifying, given their proclivity to emit sparks when dead.
 
-### Recolored Ironsights
+![cacoDeath](./screenshots/cacodeath.gif)  
+_Credits: Robo_Cola, id Software_
 
-#### Vanilla Hideous Destructor
+#### Melee Zombies
+_Requires [Radtech Zombies](https://github.com/swampyrad/RadTechZombies)_
+
+While playing id Doom, the melee zombie has been replaced with a more "fitting" id Doom Zombieman, with matching translations.
+
+![melee-zombies](./screenshots/melee-zombies.png)  
+_Credits: ShallowB, Solmyr, Metal_Spaghetti, OSJClatchford_
+
+---
+### Weapon Sprite Changes
+_Note: Some weapons included have the crosshair color "baked" into the sprite, and for those weapons I have taken the liberty of tweaking the in-game sprite to match my personal crosshair color.  If you would like your crosshair color to match, simply update the color in the main GZDoom options menu to `#673ab7`_
+
+#### Recolored Ironsights
+
+##### Vanilla Hideous Destructor
 - Default Hideous Destructor Front & Back Ironsights  
   _Credits: Matt_
 
-#### Peppergrinder
+##### Peppergrinder
 - HLAR 9mm AR Front Ironsight  
   _Credits: Ultra64_
 - BPX 9mm Carbine Rifle Back Ironsight  
@@ -28,9 +43,10 @@ _Credits: [UNKNOWN](#UNKNOWN-CREDITS)_
 - TRO-G AR Front Ironsight  
   _Credits: A1337Spy, HyperUltra64, Sledge, Chopblock223_
 
----
-### Weapon Sprite Changes
-_Note: Some weapons included have the crosshair color "baked" into the sprite, and for those weapons I have taken the liberty of tweaking the in-game sprite to match my personal crosshair color.  If you would like your crosshair color to match, simply update the color in the main GZDoom options menu to `#673ab7`_
+#### Fists
+The fists have been swapped out with a set that use plain Doomguy Gloves, simply for consistency.
+
+_Credits: [UNKNOWN](#UNKNOWN-CREDITS)_
 
 #### Pistols
 _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
@@ -408,21 +424,19 @@ _Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wa
 The Logistics Bag also always felt off to be carrying multiple "full-size" backpacks alongside the main backpack.  Instead, it has been swapped out with the original "Gunsmith Pouch" from the mod of the same name, so that it more closely resembles the Ammo Pouch.
 
 ![logistics-bag](./screenshots/logistics-bag.png)  
-_Credits: Skelegant ([Gunsmith Pouch](https://dastrukar.gitlab.io/hddons-list/#utilities:gunsmithpouch-mohl))_
+_Credits: Skelegant ([Gunsmith Pouch](https://dastrukar.gitlab.io/hddons-list/#utilities:gunsmithpouch-mohl))_  
+
+#### Merchant's Mercenary Bucks  
+
+The Mercenary Bucks icon has been swapped out with an actual dollar bill from Duke Nukem 3D.  
+_Credits: 3D Realms_  
 
 ---
-
 ### Other Changes
 
 #### Font Changes
 - BIGFONT has been replaced with Jimmy's StatusReport BigFont, which takes inspiration from ID Software's statusbar font.
 - SMALLFNT has been replaced with Jimmy's StatusReport Font, which takes inspiration from ID Software's statusbar font.
-
-#### Cacodemon
-When playing id Doom, the cacodemon's death animation has been replaced with one that feels much more electrifying, given their proclivity to emit sparks when dead.
-
-![cacoDeath](./screenshots/cacodeath.gif)  
-_Credits: Robo_Cola, id Software_
 
 #### HUD Helmet Backgrounds
 _Requires [Hideous Helmet Extended](https://github.com/UndeadZeratul/hideous-helmet-extended)_
@@ -440,11 +454,6 @@ _Credits: Saegiru, WildWeasel, 2800fps, DoomNukem_
 
 ![udv-alt-hud](./screenshots/udv-alt-hud.png)  
 _Credits: Saegiru, WildWeasel, 2800fps, Lightsource, DoomNukem_  
-
-#### Merchant's Mercenary Bucks
-
-The Mercenary Bucks icon has been swapped out with an actual dollar bill from Duke Nukem 3D.  
-_Credits: 3D Realms_
 
 ---
 ## Special Thanks
