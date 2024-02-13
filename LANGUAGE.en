@@ -365,6 +365,7 @@ TAG_AMMOBOX                      = "UAC \"Quick Drop\" Ammo Box";
 TAG_AMMOBOXDISARMED              = "UAC \"Quick Drop\" Ammo Box";
 TAG_KEYS                         = "Keys";
 TAG_MAPGIVER                     = "Local Area Map";
+TAG_CANDLE                       = "Candle";
 TAG_DOORBUSTER                   = "UAC Specialist Doorbuster";
 TAG_IEDKIT                       = "I.E.D. Kit";
 TAG_JETPACK                      = "UAC Specialist Jetpack";
@@ -835,6 +836,7 @@ PICKUP_ASSAULTPACK               = "Picked up a UAC Specialist Lightweight Backp
 //-------------------------------------
 
 // Vanilla HDest
+PICKUP_CANDLE                    = "Picked up a candle.";
 PICKUP_LITEAMP                   = "Picked up a pair of Night Vision Goggles.";
 PICKUP_RADSUIT                   = "Picked up a UAC Environmental Protection Suit.";
 
