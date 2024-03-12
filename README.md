@@ -9,6 +9,11 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 
 ### Monster Sprite Changes
 
+#### Imp Variants
+
+When playing id Doom, the three main imp variants (Fighter, Mage, and Healer) now have more distinct color palettes.  
+_Credits: Karla_  
+
 #### Ghost Squadron
 
 When playing id Doom, the ghost squadron translation has been updated to match the rest of the reskin thematically.
