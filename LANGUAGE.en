@@ -63,6 +63,9 @@ TAG_WYVERN                       = "AceCorp \"Wyvern\" .50 OMG Double-Barreled R
 // Altis O/U Shotgun
 TAG_ALTIS                        = "Altis \"Over-and-Under\" 12ga Shotgun";
 
+// Cross Pulse ThunderBuster
+TAG_XTB                          = "H&M Mk. XI \"Thunder Buster\" Polaric Charge Projector";
+
 // Hexadoken's Legacy, Continued
 TAG_NSB                          = "L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Rifle";
 TAG_9MMBOSS                      = "L&M Mk. IV \"Boss\" 9x22mm Bolt-Action Rifle";
@@ -391,6 +394,9 @@ TAG_TELEPORTER                   = "UAC Specialist Portable Teleporter";
 TAG_UNIVERSAL_RELOADER           = "AceCorp Universal Reloading Device";
 TAG_WEAPONCRATE                  = "UAC Standard Weapon Crate";
 
+// Cross Pulse ThunderBuster
+TAG_XTK                          = "\"Thunder Buster\" Cross-Pulse Modification Kit";
+
 // Radtech
 TAG_RADBOOTS                     = "UAC Environmental Protection Boots";
 
@@ -536,6 +542,9 @@ PICKUP_WYVERN_SUFFIX             = ".";
 
 // Altis O/U Shotgun
 PICKUP_ALTIS                     = "Picked up an Altis \"Over-and-Under\" 12ga Shotgun.";
+
+// Cross Pulse ThunderBuster
+PICKUP_XTB                       = "Picked up a H&M Mk. XI \"Thunder Buster\" Polaric Charge Projector";
 
 // Hexadoken's Legacy, Continued
 PICKUP_NSB                       = "Picked up a L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Rifle.";
@@ -792,7 +801,6 @@ PEPPER_PICKUP_YUREIMAG           = "Picked up a Yurei 9x22mm Magazine.";
 PEPPER_PICKUP_ZM94_MAG           = "Picked up a ZM94 .50 OMG Magazine.";
 
 // PB's Bangers & Mash
-
 PICKUP_KNIFE                     = "Picked up a Combat Knife.";
 PICKUP_FIREAXE                   = "Picked up a UAC Emergency Fire Axe.";
 PICKUP_SLEDGEHAMMER              = "Picked up a Sledgehammer.";
@@ -853,6 +861,9 @@ PICKUP_SECRETFINDER              = "Picked up a UAC Specialist Secret Finder. Go
 PICKUP_SUPERSTIM                 = "Picked up a UAC Specialist Emergency Stimpack.";
 PICKUP_SUPPLYBEACON              = "Picked up a UAC Standard Supply Beacon.";
 PICKUP_TELEPORTER                = "Picked up a UAC Specialist Portable Teleporter.";
+
+// Cross Pulse ThunderBuster
+PICKUP_XTK                       = "Picked up a "Thunder Buster" Cross-Pulse Modification Kit.";
 
 // Radtech
 PICKUP_ANTIRADBOOTS              = "Picked up a pair of UAC Environmental Protection Boots.";
@@ -996,6 +1007,9 @@ PICKUP_LESSLETHAL_BOX            = "Picked up a box of 12ga #1 Buck Rubber Shell
 
 // NVG Text
 LITEAMP_NOPOWER                  = "No power for Night-Vision Goggles. Need at least 1 battery on you.";
+
+// Cross Pulse Error Text
+XTK_NO_TB                        = "You need a standard H&M Mk. XI \"Thunder Buster\" Polaric Charge Projector.";
 
 // Weapon Help Text
 // WPHFIRE                          = "\c[UZ]Fire\c-";
