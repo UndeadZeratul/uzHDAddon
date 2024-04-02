@@ -29,12 +29,20 @@ _Credits: Project Malice Team, Eriance/Amuscaria_
 
 #### Hell Nobles
 
-When playing id Doom, the Hell Knight & Baron of Hell have been replaced with recolored versions to give them a darker, spookier appearance.
+When playing id Doom, the hell knight & baron of hell have been replaced with recolored versions to give them a darker, spookier appearance.
 
 ![nobles](./screenshots/nobles.png)
 _Credits:_  
 _Hell Knight: Project Malice Team, id Software_  
 _Baron of Hell: Gifty & Vdude (from Supercharge), Skulltag Team, id Software_
+
+#### Hell Squires
+_Requires [HDest Re-Enforcements](https://github.com/FDAapproved/HDest-Re-Enforcements)_
+
+When playing id Doom, the hell squire has been replaced with one that fits with the above reskins for the vanilla nobles, giving it a darker and more spooky appearance.
+
+![squire](./screenshots/squire.png)
+_Credits: Project Malice Team, DBThanatos, Zaneion, id Software_
 
 #### Cacodemon
 
