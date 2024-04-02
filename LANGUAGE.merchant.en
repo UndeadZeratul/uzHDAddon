@@ -502,7 +502,7 @@ MERCH_FLAVOR_PLASMAPISTOL         = "Don't overcharge it, this baby gets hot!";
 // PPSh-41
 MERCH_CAT_PPSH41                  = "SMGs";
 MERCH_TAG_PPSH41                  = "PPSh-41 \"Papasha\" 7.62mm Tokarev SMG";
-MERCH_FLAVOR_PPSH41               = "Give \"em some indigestion!";
+MERCH_FLAVOR_PPSH41               = "Give 'em some indigestion!";
 
 // PS20
 MERCH_CAT_PS20                    = "Disposables";
@@ -1427,4 +1427,4 @@ MERCH_FLAVOR_LEATHERARMOUR        = "See you, space cowboy.";
 // Sneaking Suit
 MERCH_CAT_SNEAKINGSUIT            = "Armor";
 MERCH_TAG_SNEAKINGSUIT            = "WAN Sneaking Suit";
-MERCH_FLAVOR_SNEAKINGSUIT         = "Won't even know what him \"em.";
+MERCH_FLAVOR_SNEAKINGSUIT         = "Won't even know what him 'em.";
