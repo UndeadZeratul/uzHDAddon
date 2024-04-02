@@ -27,6 +27,15 @@ When playing id Doom, the ninja pirate has been replaced with a recolored versio
 ![ninja-priate](./screenshots/ninja-pirate.png)  
 _Credits: Project Malice Team, Eriance/Amuscaria_
 
+#### Hell Nobles
+
+When playing id Doom, the Hell Knight & Baron of Hell have been replaced with recolored versions to give them a darker, spookier appearance.
+
+![nobles](./screenshots/nobles.png)
+_Credits:_  
+_Hell Knight: Project Malice Team, id Software_  
+_Baron of Hell: Gifty & Vdude (from Supercharge), Skulltag Team, id Software_
+
 #### Cacodemon
 
 When playing id Doom, the cacodemon's death animation has been replaced with one that feels much more electrifying, given their proclivity to emit sparks when dead.
