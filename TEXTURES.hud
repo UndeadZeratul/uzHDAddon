@@ -85,6 +85,72 @@ Graphic "STFULAUT", 58, 12
 	}
 }
 
+Graphic "STHPRAUT", 81, 19
+{
+	XScale 6.000
+	YScale 6.000
+	Patch "PRNDA0", 0, 0
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 0, 14
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 45, 14
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 15, 0
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 15, 14
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 60, 14
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 30, 0
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 30, 14
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 60, 0
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 45, 0
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 8, 7
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 53, 7
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 23, 7
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 68, 7
+	{
+		Rotate 90
+	}
+	Patch "PRNDA0", 38, 7
+	{
+		Rotate 90
+	}
+}
+
 Graphic "STRNDCMB", 35, 8
 {
 	XScale 8.000
