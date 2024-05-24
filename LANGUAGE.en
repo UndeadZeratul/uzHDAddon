@@ -127,12 +127,13 @@ PEPPER_TAG_ZORCHER               = "\"Zorcher\" Handheld Teleporter";
 
 // PB's Bangers & Mash
 TAG_93R                          = "Mouletta 97R \"Raffica\" 9x22mm Handgun";
-TAG_AT4                          = "RAT-84";
-TAG_AUTOMAG                      = "SP-50 Mega Class Magnum";
-TAG_BUGERM22                     = "Buger M22 Target Rifle";
+TAG_AT4                          = "RAT-84 Disposable Rocket Launcher";
+TAG_AUTOMAG                      = "SP-50 .50 AM Magnum Handgun";
+TAG_BUGERM22                     = "Buger M22 5x12mm Bumblebee Rimfire Rifle";
 TAG_CAWS                         = "H&M CROWS \"Presslufthämmer\" 12ga Automatic Shotgun";
-TAG_CGM25                        = "DLAaM ATCM-35";
+TAG_CGM25                        = "DLA&M ATCM-35 Homing Missile Launcher";
 TAG_COLTCOMMANDO                 = "Volt R0355 HPC \"Commando\" .355 Masterball SMG";
+TAG_CONCGRENADES                 = "";
 TAG_DEVINCENZIA                  = "Berlinghoff XM135 \"Devincenzia\" 35mm Anti-Materiel Rifle";
 TAG_EXTINGUISHER                 = "UAC Emergency Fire Extinguisher";
 TAG_FAL                          = "UN-AF L7A1 \"Defender\" 7.76mm Rifle";
@@ -140,24 +141,27 @@ TAG_FIREAXE                      = "UAC Emergency Fire Axe";
 TAG_G11                          = "H&M G26 4.26mm Assault Rifle";
 TAG_G11_NORMAL                   = "H&M G26 4.26mm Assault Rifle";
 TAG_G11_SCOPED                   = "H&M G26 4.26mm Assault Rifle";
-TAG_GASGRENADES                  = "\"Roller\" Toxic Gas Grenades";
+TAG_GASGRENADES                  = "\"Skunk\" Gas Grenades";
 TAG_KELENKEN                     = "MS-AT \"Kelenken\" 35mm Rotary Support Cannon";
 TAG_KHARON                       = "Kharon";
 TAG_KNIFE                        = "Combat Knife";
-TAG_LEVERGAT                     = "Sawyer LR355 \"Big Boy\" .355 Masterball Carbine";
+TAG_LEVERGAT                     = "Sawyer LR355 \"Big Boy\" .355 Masterball Lever-Action Rifle";
 TAG_M2HB                         = "Brownell AM-HMG50 \"MKII Stinger\" .50 OMG HMG";
-TAG_M5165C                       = "Arkoudi M5/165c";
+TAG_M5165C                       = "Arkoudi M5/165c 5x12mm Bumblebee Rimfire SMG";
 TAG_M60                          = "USGI M60E1 \"Hungry Hog\" 7.76mm HMG";
 TAG_M9S                          = "Minato M9S 9x22mm Machine Pistol";
 TAG_MAC10                        = "Raycob RAC-10/45 .45 ACP Machine Pistol";
 TAG_MK23                         = "H&M Mk23 \"SOCOM\" .45 ACP Handgun";
-TAG_PS20                         = "DLA&M PS-451";
-TAG_PSG1                         = "H&M PSG2A1 7.76mm Sniper Rifle";
+TAG_PS20                         = "DLA&M PS-451 Portable Balefire Dispenser";
+TAG_PSG1                         = "H&M PSG2A1 7.76mm Semi-Automatic Sniper Rifle";
 TAG_RAILGUN                      = "XM99 Experimental Railgun";
 TAG_RAILGUNDYNAMO                = "XM99 Railgun Dynamo";
 TAG_SLEDGEHAMMER                 = "Sledgehammer";
-TAG_SMARTGUN                     = "H&M HS76A1 SmartGun";
+TAG_SMARTGUN                     = "H&M HS76A1 7.76mm SmartGun";
+TAG_SMOKEGRENADES                = "Smoke Grenades";
+TAG_STEYR                        = "Austere M-Series 6x42mm Flechette Rifles";
 TAG_STEYRACR                     = "Austere M17 6x42mm Flechette Rifle";
+TAG_STEYRAICW                    = "Austere XM18 6x42mm Flechette Rifle";
 TAG_STREETSWEEPER                = "Raycob Urban Destroyer 12ga Automatic Shotgun";
 TAG_SURVIVALISTRIFLE_FNV         = "Sawyer R50 \"Grendel\" .50 AM Rifle";
 TAG_TERMINATOR                   = "Raycob Exterminator 12ga \"Shotgun\"";
@@ -282,6 +286,11 @@ TAG_BLACKHAWKBOLT_N              = "Nuclear Crossbow Bolt";
 // Icarus's Innovations, Improved
 TAG_GASTANK                      = "Fuel Tank";
 
+// PB's Bangers & Mash
+TAG_8MMEC                        = "8x35mm Electromagnetic Cartridge";
+TAG_CGM25_AMMO                   = "\"Honey Bee\" Missile Tube";
+TAG_NAPALM_TANK                  = "Napalm Tank";
+
 // Peppergrinder
 PEPPER_TAG_NDM                   = "9x25mm Nail Driver Maximum Round";
 
@@ -314,6 +323,22 @@ TAG_SIX12MAG_SHELL               = "Six-12 12ga 00 Buckshot Shell Cylinder";
 TAG_SIX12MAG_SLUG                = "Six-12 12ga Slug Cylinder";
 TAG_UMPMAG                       = "UMP .45 ACP Magazine";
 TAG_USPMAG                       = "USP .45 ACP Magazine";
+
+// PB's Bangers & Mash
+TAG_35MM_BELTBOX                 = "35mm Anti-Material Beltbox";
+TAG_50AM_MAG                     = ".50 AM Magazine";
+TAG_50OMG_BELTBOX                = ".50 OMG Belt Box";
+TAG_7MM_BELTBOX                  = "7.76mm MG Box";
+TAG_BUGERM22_MAG                 = "Buger M22 5x12mm Magazine";
+TAG_CAWSM_MAG                    = "H&M CAWS 12ga Magazine";
+TAG_DEVINCENZIA_MAG              = "XM135 \"Devincenzia\" 35mm Anti-Materiel Magazine";
+TAG_FAL_MAG                      = "L7A1 7.76mm Drum Magazine";
+TAG_G11_MAG                      = "G26 4.26mm Magazine";
+TAG_M5165C_MAG                   = "M5/165c 5x12mm Drum Magazine";
+TAG_MAC10_MAG                    = "RAC-10/45 .45 ACP Magazine";
+TAG_MK23_MAG                     = "Mk23 .45 ACP Magazine";
+TAG_PSG1_MAG                     = "H&M PSGA1 7.76mm Magazine";
+TAG_STEYR_MAG                    = "Austere 6x42mm Flechette Magazine";
 
 // Peppergrinder
 PEPPER_TAG_355MAG                = "\"Helzing\" .355 Masterball Magazine";
@@ -417,6 +442,7 @@ TAG_SLING                        = "Weapon Sling";
 TAG_BLURSPHERE                   = "Strange Vibrating Orb";
 TAG_POTION                       = "Strange Blue Potion";
 TAG_SHIELDCORE                   = "Strange Glowing Helmet";
+TAG_HDMAGICSHIELD                = "Strange Glowing Helmet";
 TAG_TALISMAN                     = "Strange Dogtags";
 
 // AceCorp: Engineering Department
@@ -556,40 +582,6 @@ PICKUP_OMGBOSS                   = "Picked up a L&M Mk. IV \"Boss\" .50 OMG Bolt
 PICKUP_WORSTBOSS                 = "Picked up a L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Rifle, but it's the worst.";
 PICKUP_GARAND                    = "Picked up a Mouletta M1 Garand .30-06 Rifle.";
 
-// Peppergrinder
-PEPPER_PICKUP_AUROCHS            = "Picked up a VPF Arms \"Aurochs\" .451 Single-Action Revolver.";
-PEPPER_PICKUP_AUTO5              = "Picked up a M&S LTD \"Baileya\" 12ga Slug Rifle.";
-PEPPER_PICKUP_BASTARD            = "Picked up a L&M \"Bastard Rifle\" 4.26mm LMG.";
-PEPPER_PICKUP_BOXCANNON_NORMAL   = "Picked up a L&M Box Cannon C24 9x22mm Pistol Carbine.";
-PEPPER_PICKUP_BPX                = "Picked up a LIG Mauer BPX 9x22mm carbine.";
-PEPPER_PICKUP_COYOTE             = "Picked up a VPF Arms \"Wild Coyote\" .451 Automag Handgun.";
-PEPPER_PICKUP_DMR                = "Picked up a PG667 4.26mm Designated Marksman Rifle.";
-PEPPER_PICKUP_FULGUR             = "Picked up a Fulgur Laser Machinegun.";
-PEPPER_PICKUP_GREELY             = "Picked up a Kabocha Arms Group \"Greely\" 12ga Pump-Action SuperShorty.";
-PEPPER_PICKUP_GUILLOTINE         = "Picked up a \"La Petite Guillotine\" 9x25mm NDM Pistol.";
-PEPPER_PICKUP_HELZING            = "Picked up a L&M \"Helzing\" .355 Masterball Handgun.";
-PEPPER_PICKUP_HLAR               = "Picked up a HLAR 9x22mm SMG.";
-PEPPER_PICKUP_ILIB               = "Picked up a H&M ZM7 \"Liberator\" 7.76mm Battle Rifle.";
-PEPPER_PICKUP_KILLER7            = "Picked up a VPF Arms \"Killer7\" .500 S&W Handgun.";
-PEPPER_PICKUP_LISA_NORMAL        = "Picked up a 0H1-MK \"Lisa\" Plasma DMR.";
-PEPPER_PICKUP_LOTUS_NORMAL       = "Picked up a Kabocha Arms Group \"Lotus\" 7.76mm Revolver Carbine.";
-PEPPER_PICKUP_MAULER             = "Picked up a DAIMAOU \"Mauler\" Gretchenfrage Cannon.";
-PEPPER_PICKUP_ODDBALL            = "Picked up a Cooper Energy Arms Oscilliating Dynamo Ballistic Alternative Laser Pistol.";
-PEPPER_PICKUP_OTIS               = "Picked up a KAG Otis-5 .500 S&W Revolver.";
-PEPPER_PICKUP_P90                = "Picked up a L&M BreakerTek P90 9x25mm NDM PDW.";
-PEPPER_PICKUP_PLASMAPISTOL       = "Picked up a Plasma Pistol.";
-PEPPER_PICKUP_RUBYMASER_NORMAL   = "Picked up a Rubicon AEF-322c \"Ruby Maser\" Microwave Laser.";
-PEPPER_PICKUP_SAWEDSHOTGUN       = "Picked up a Cavalry Arms SL-41 \"Slayer\" 12ga Double-Barreled Shotgun.";
-PEPPER_PICKUP_SCOPEDREVOLVER     = "Picked up a Buger \"Deinonychus\" .355 Masterball Revolver.";
-PEPPER_PICKUP_SCOPEDSLAYER       = "Picked up a Cavalry Arms SL-41 \"Slayer\" 12ga Double-Barreled Shotgun.";
-PEPPER_PICKUP_TROG               = "Picked up a Volt AR-29 Tactical Response Operation-Grenade 4.26mm Assault Rifle.";
-PEPPER_PICKUP_VERA_NORMAL        = "Picked up a Volt M764 \"Vera\" 4.26mm Squad Automatic Weapon.";
-PEPPER_PICKUP_WISEAU_NORMAL      = "Picked up a WF-60 Plasma Handgun.";
-PEPPER_PICKUP_YEYUZE             = "Picked up a VPF Arms \"Yeyuze\" 40mm Pump-Action Grenade Launcher.";
-PEPPER_PICKUP_YUREI              = "Picked up a Yurei 9x22mm High-Capacity SMG.";
-PEPPER_PICKUP_ZM94_NEW           = "Picked up a Volt ZM94 \"Sabrewolf\" .50 OMG Anti-Materiel Rifle.";
-PEPPER_PICKUP_ZORCHER            = "Picked up a \"Zorcher\" Handheld Teleporter.";
-
 // Icarus's Innovations, Improved
 PICKUP_BARRACUDA_PREFIX          = "Picked up a ";
 PICKUP_BARRACUDA_SUFFIX          = ".";
@@ -623,6 +615,82 @@ PICKUP_UMP_PREFIX                = "Picked up a ";
 PICKUP_UMP_SUFFIX                = ".";
 PICKUP_USP_PREFIX                = "Picked up a ";
 PICKUP_USP_SUFFIX                = ".";
+
+// PB's Bangers & Mash
+PICKUP_93R                       = "Picked up a Mouletta 97R \"Raffica\" 9x22mm Handgun.";
+PICKUP_AT4                       = "Picked up an EAT-17 Expendable Anti-Tank .";
+PICKUP_AUTOMAG                   = "Picked up a SP-50 .50 AM Magnum Handgun.";
+PICKUP_BUGERM22                  = "Picked up a Buger M22 5x12mm Bumblebee Rimfire Rifle.";
+PICKUP_CAWS                      = "Picked up a H&M CAWS 12ga Automatic Shotgun.";
+PICKUP_CGM25                     = "Picked up a DLA&M ATCM-35 Homing Missile Launcher.";
+PICKUP_COLTCOMMANDO              = "Picked up a Volt R0355 HPC \"Commando\" .355 Masterball SMG.";
+PICKUP_CONCGRENADES              = "";
+PICKUP_DEVINCENZIA               = "Picked up a Berlinghoff XM135 \"Devincenzia\" 35mm Anti-Materiel Rifle.";
+PICKUP_EXTINGUISHER              = "Picked up a UAC Emergency Fire Extinguisher.";
+PICKUP_FAL                       = "Picked up a UN-AF L7A1 \"Defender\" 7.76mm Rifle.";
+PICKUP_FIREAXE                   = "Picked up a UAC Emergency Fire Axe.";
+PICKUP_G11_NORMAL                = "Picked up a H&M G26 4.26mm Assault Rifle.";
+PICKUP_G11_SCOPED                = "Picked up a H&M G26 4.26mm Assault Rifle.";
+PICKUP_GASGRENADES               = "Picked up a \"Skunk\" Gas Grenade.";
+PICKUP_KELENKEN                  = "Picked up a MS-AT \"Kelenken\" 35mm Rotary Support Cannon.";
+PICKUP_KHARON                    = "Picked up a Kharon. That's some fine demon steel!";
+PICKUP_KNIFE                     = "Picked up a Combat Knife.";
+PICKUP_LEVERGAT                  = "Picked up a Sawyer LR355 \"Big Boy\" .355 Masterball Lever-Action Rifle.";
+PICKUP_M2HB                      = "Picked up a Brownell AM-HMG50 \"MKII Stinger\" .50 OMG HMG.";
+PICKUP_M5165C                    = "Picked up a Arkoudi M5/165c 5x12mm Bumblebee Rimfire SMG.";
+PICKUP_M60                       = "Picked up a USGI M60E1 \"Hungry Hog\" 7.76mm HMG.";
+PICKUP_M95                       = "Picked up a Minato M9S 9x22mm Machine Pistol.";
+PICKUP_MAC10                     = "Picked up a Raycob RAC-10/45 .45 ACP Machine Pistol.";
+PICKUP_MANCUBUSCANNON            = "Picked up a Mancubus Arm Cannon.";
+PICKUP_MK23                      = "Picked up a H&M Mk23 \"SOCOM\" .45 ACP Handgun";
+PICKUP_PS20                      = "Picked up a DLA&M PS-451 Portable Balefire Dispenser.";
+PICKUP_PSG1                      = "Picked up a H&M PSG2A1 7.76mm Semi-Automatic Sniper Rifle.";
+PICKUP_RAILGUN                   = "Picked up a XM99 Experimental Railgun.";
+PICKUP_RAILGUNDYNAMO             = "Picked up a XM99 Railgun's dynamo.";
+PICKUP_SLEDGEHAMMER              = "Picked up a Sledgehammer.";
+PICKUP_SMARTGUN                  = "Picked up a H&M HS76A1 7.76mm SmartGun.";
+PICKUP_SMOKEGRENADES             = "Picked up a Smoke Grenade.";
+PICKUP_STEYRACR                  = "Picked up an Austere M17 6x42mm Flechette Rifle.";
+PICKUP_STEYRAICW                 = "Picked up an Austere XM18 6x42mm Flechette Rifle.";
+PICKUP_STREETSWEEPER             = "Picked up a Raycob Urban Destroyer 12ga Automatic Shotgun.";
+PICKUP_SURVIVALISTRIFLE_FNV      = "Picked up a Sawyer R50 \"Grendel\" .50 AM Rifle";
+PICKUP_TERMINATOR                = "Picked up a Raycob Exterminator 12ga \"Shotgun\".";
+PICKUP_URAGAN5                   = "Picked up an Arkoudi M12/5 12ga Revolver Shotgun.";
+PICKUP_WPGRENADES                = "Picked up a M70 White Phosphorus Grenade.";
+
+// Peppergrinder
+PEPPER_PICKUP_AUROCHS            = "Picked up a VPF Arms \"Aurochs\" .451 Single-Action Revolver.";
+PEPPER_PICKUP_AUTO5              = "Picked up a M&S LTD \"Baileya\" 12ga Slug Rifle.";
+PEPPER_PICKUP_BASTARD            = "Picked up a L&M \"Bastard Rifle\" 4.26mm LMG.";
+PEPPER_PICKUP_BOXCANNON_NORMAL   = "Picked up a L&M Box Cannon C24 9x22mm Pistol Carbine.";
+PEPPER_PICKUP_BPX                = "Picked up a LIG Mauer BPX 9x22mm carbine.";
+PEPPER_PICKUP_COYOTE             = "Picked up a VPF Arms \"Wild Coyote\" .451 Automag Handgun.";
+PEPPER_PICKUP_DMR                = "Picked up a PG667 4.26mm Designated Marksman Rifle.";
+PEPPER_PICKUP_FULGUR             = "Picked up a Fulgur Laser Machinegun.";
+PEPPER_PICKUP_GREELY             = "Picked up a Kabocha Arms Group \"Greely\" 12ga Pump-Action SuperShorty.";
+PEPPER_PICKUP_GUILLOTINE         = "Picked up a \"La Petite Guillotine\" 9x25mm NDM Pistol.";
+PEPPER_PICKUP_HELZING            = "Picked up a L&M \"Helzing\" .355 Masterball Handgun.";
+PEPPER_PICKUP_HLAR               = "Picked up a HLAR 9x22mm SMG.";
+PEPPER_PICKUP_ILIB               = "Picked up a H&M ZM7 \"Liberator\" 7.76mm Battle Rifle.";
+PEPPER_PICKUP_KILLER7            = "Picked up a VPF Arms \"Killer7\" .500 S&W Handgun.";
+PEPPER_PICKUP_LISA_NORMAL        = "Picked up a 0H1-MK \"Lisa\" Plasma DMR.";
+PEPPER_PICKUP_LOTUS_NORMAL       = "Picked up a Kabocha Arms Group \"Lotus\" 7.76mm Revolver Carbine.";
+PEPPER_PICKUP_MAULER             = "Picked up a DAIMAOU \"Mauler\" Gretchenfrage Cannon.";
+PEPPER_PICKUP_ODDBALL            = "Picked up a Cooper Energy Arms Oscilliating Dynamo Ballistic Alternative Laser Pistol.";
+PEPPER_PICKUP_OTIS               = "Picked up a KAG Otis-5 .500 S&W Revolver.";
+PEPPER_PICKUP_P90                = "Picked up a L&M BreakerTek P90 9x25mm NDM PDW.";
+PEPPER_PICKUP_PLASMAPISTOL       = "Picked up a Plasma Pistol.";
+PEPPER_PICKUP_RUBYMASER_NORMAL   = "Picked up a Rubicon AEF-322c \"Ruby Maser\" Microwave Laser.";
+PEPPER_PICKUP_SAWEDSHOTGUN       = "Picked up a Cavalry Arms SL-41 \"Slayer\" 12ga Double-Barreled Shotgun.";
+PEPPER_PICKUP_SCOPEDREVOLVER     = "Picked up a Buger \"Deinonychus\" .355 Masterball Revolver.";
+PEPPER_PICKUP_SCOPEDSLAYER       = "Picked up a Cavalry Arms SL-41 \"Slayer\" 12ga Double-Barreled Shotgun.";
+PEPPER_PICKUP_TROG               = "Picked up a Volt AR-29 Tactical Response Operation-Grenade 4.26mm Assault Rifle.";
+PEPPER_PICKUP_VERA_NORMAL        = "Picked up a Volt M764 \"Vera\" 4.26mm Squad Automatic Weapon.";
+PEPPER_PICKUP_WISEAU_NORMAL      = "Picked up a WF-60 Plasma Handgun.";
+PEPPER_PICKUP_YEYUZE             = "Picked up a VPF Arms \"Yeyuze\" 40mm Pump-Action Grenade Launcher.";
+PEPPER_PICKUP_YUREI              = "Picked up a Yurei 9x22mm High-Capacity SMG.";
+PEPPER_PICKUP_ZM94_NEW           = "Picked up a Volt ZM94 \"Sabrewolf\" .50 OMG Anti-Materiel Rifle.";
+PEPPER_PICKUP_ZORCHER            = "Picked up a \"Zorcher\" Handheld Teleporter.";
 
 // Radtech
 PICKUP_10MMPISTOL                = "Picked up a Volt N1911 \"Delta Elite\" 10mm Pistol.";
@@ -756,6 +824,11 @@ PICKUP_420FREIBOX                = "Picked up a box of .451 Frei rounds.";
 PICKUP_069BORE                   = "Picked up a .410 000 Buckshot Shell.";
 PICKUP_069BOREBOX                = "Picked up a box of .410 000 Buckshot Shells.";
 
+// PB's Bangers & Mash
+PICKUP_8MMEC                     = "Picked up an 8mm Electromagnetic Cartridge.";
+PICKUP_CGM25_AMMO                = "Picked up a \"Honey Bee\" Missile Tube.";
+PICKUP_NAPALM_TANK               = "Picked up a Napalm Tank.";
+
 // Peppergrinder
 PEPPER_PICKUP_NDM                = "Picked up a 9x25mm NDM round.";
 PEPPER_PICKUP_NDM_BOX            = "Picked up some 9x25mm NDM rounds.";
@@ -789,6 +862,22 @@ PICKUP_UMPMAG_SUFFIX             = ".";
 PICKUP_USPMAG_PREFIX             = "Picked up a ";
 PICKUP_USPMAG_SUFFIX             = ".";
 
+// PB's Bangers & Mash
+PICKUP_35MM_BELTBOX              = "Picked up a 35mm Anti-Materiel Beltbox.";
+PICKUP_50AM_MAG                  = "Picked up a .50 AM Magazine.";
+PICKUP_50OMG_BELTBOX             = "Picked up a .50 OMG Beltbox.";
+PICKUP_7MM_BELTBOX               = "Picked up a 7.76mm Beltbox.";
+PICKUP_BUGERM22_MAG              = "Picked up a Buger M22 5x12mm Magazine.";
+PICKUP_CAWS_MAG                  = "Picked up a H&M CAWS 12ga Magazine.";
+PICKUP_DEVINCENZIA_MAG           = "Picked up a XM135 \"Devincenzia\" 35mm Anti-Materiel Magazine.";
+PICKUP_FAL_MAG                   = "Picked up a L7A1 7.76mm Drum Magazine.";
+PICKUP_G11_MAG                   = "Picked up a G26 4.26mm Magazine.";
+PICKUP_M5165C_MAG                = "Picked up a M5/165c 5x12mm Drum Magazine.";
+PICKUP_MAC10_MAG                 = "Picked up an RAC-10/45 .45 ACP Magazine.";
+PICKUP_MK23_MAG                  = "Picked up a Mk23 .45 ACP Magazine.";
+PICKUP_PSG1_MAG                  = "Picked up a PSG2A1 7.76mm Magazine.";
+PICKUP_STEYR_MAG                 = "Picked up a Austere 6x42mm Flechette Magazine.";
+
 // Peppergrinder
 PEPPER_PICKUP_9MCLIP             = "Picked up a 9x22mm Clip.";
 PEPPER_PICKUP_355MAG             = "Picked up a Helzing .355 Masterball Magazine.";
@@ -799,12 +888,6 @@ PEPPER_PICKUP_NDM_MAG            = "Picked up a Guillotine 9x25mm NDM Magazine."
 PEPPER_PICKUP_TROGMAG            = "Picked up a TRO-G 4.26mm magazine.";
 PEPPER_PICKUP_YUREIMAG           = "Picked up a Yurei 9x22mm Magazine.";
 PEPPER_PICKUP_ZM94_MAG           = "Picked up a ZM94 .50 OMG Magazine.";
-
-// PB's Bangers & Mash
-PICKUP_KNIFE                     = "Picked up a Combat Knife.";
-PICKUP_FIREAXE                   = "Picked up a UAC Emergency Fire Axe.";
-PICKUP_SLEDGEHAMMER              = "Picked up a Sledgehammer.";
-PICKUP_KHARON                    = "Picked up a Kharon Replica.";
 
 // Radtech
 PICKUP_10MAG25                   = "Picked up a 10mm Sig-Cow Magazine.";
