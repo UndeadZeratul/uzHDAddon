@@ -1,7 +1,7 @@
 DERPBot,HERPBot,UaS_EmptyMedikit,UaS_EmptyStimpack,UaS_EmptyZerkpack,UaS_EmptyRocketBox:TNT1:REPickup_White:0:1
 
 HDLoose7mm,HDLoose10mm,LooseSavage300,HDLoose762Tokarev:REPK:REPickup_Red:0,1,2,3:2
-HDSpent7mm,HDSpent10mm,SpentSavage300,HDSpent762Tokarev:REPK:REPickup_Orange:0,1,2,3:2
+HDSpent7mm,HDSpent10mm,SpentSavage300,HDSpent762Tokarev,SevenMilBrass,TenMilBrass,Savage300Brass,TokarevBrass:REPK:REPickup_Orange:0,1,2,3:2
 BaseCurrencyPickup:REPK:REPickup_Yellow:0,1,2,3:2
 
 HDBackpack,HHelmet,HDArmour:REPK:REPickup_LightBlue:0,1,2,3:2
