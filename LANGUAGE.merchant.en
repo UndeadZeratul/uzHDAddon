@@ -784,6 +784,11 @@ MERCH_CAT_ANTIRADBOOTS            = "Equipment";
 MERCH_TAG_ANTIRADBOOTS            = "Anti-Radiation Boots";
 MERCH_FLAVOR_ANTIRADBOOTS         = "When you don't want your feet getting irradiated.";
 
+// Area Map
+MERCH_CAT_ALLMAP                  = "Equipment";
+MERCH_TAG_ALLMAP                  = "Area map";
+MERCH_FLAVOR_ALLMAP               = "It won't treat your topographical cretinism, but you'll surely make it to the exit.";
+
 // Armour Patch Kit
 MERCH_CAT_ARMOURPATCHKIT          = "Equipment";
 MERCH_TAG_ARMOURPATCHKIT          = "UAC Specialist Armor Patch Kit";
@@ -809,6 +814,11 @@ MERCH_CAT_BERSERK                 = "Medical Supplies";
 MERCH_TAG_BERSERK                 = "UAC Specialist \"Berserk\" Pack";
 MERCH_FLAVOR_BERSERK              = "Do not overdose. Oh who am I kidding, of course you will.";
 
+// Binoculars
+MERCH_CAT_BINOCULARS              = "Equipment";
+MERCH_TAG_BINOCULARS              = "Binoculars";
+MERCH_FLAVOR_BINOCULARS           = "A pair of binoculars. Attuned so well that you can see yourself in the demon's eyes from a mile away.";
+
 // Blood Bag
 MERCH_CAT_BLOODBAG                = "Medical Supplies";
 MERCH_TAG_BLOODBAG                = "UAC Standard Synthetic Bloodpack";
@@ -817,7 +827,12 @@ MERCH_FLAVOR_BLOODBAG             = "'Tis but a scratch.";
 // Blue Potion
 MERCH_CAT_BLUEPOTION              = "Anomalous Artifacts";
 MERCH_TAG_BLUEPOTION              = "Strange Blue Potion";
-MERCH_FLAVOR_BLUEPOTION           = "For what ails you.";
+MERCH_FLAVOR_BLUEPOTION           = "Not sure what this stuff is, can't quite pin down the taste...";
+
+// Blue Sphere
+MERCH_CAT_BLUESPHERE              = "Anomalous Artifacts";
+MERCH_TAG_BLUESPHERE              = "Glowing Blue Orb";
+MERCH_FLAVOR_BLUESPHERE           = "Careful, this thing feels like it wants to be absorbed.";
 
 // Booster Jets
 MERCH_CAT_BOOSTERJETS             = "Equipment";
@@ -829,10 +844,15 @@ MERCH_CAT_BULLETASSEMBLER         = "Equipment";
 MERCH_TAG_BULLETASSEMBLER         = "Bullet Assembler";
 MERCH_FLAVOR_BULLETASSEMBLER      = "Will you create the regular ammo?";
 
-// Cacodemon Plush Doll
+// Cacodemon Plush Doll (Radtech)
 MERCH_CAT_CACOPLUSH               = "Anomalous Artifacts";
 MERCH_TAG_CACOPLUSH               = "Ominous Cacodemon Plush Doll";
 MERCH_FLAVOR_CACOPLUSH            = "I mean, at least it looks cute?";
+
+// Cacodemon Plushie (Kiri/SnekTek)
+MERCH_CAT_CACODEMONPLUSHIE        = "Anomalous Artifacts";
+MERCH_TAG_CACODEMONPLUSHIE        = "Ominous Cacodemon Plush Doll";
+MERCH_FLAVOR_CACODEMONPLUSHIE     = "Do you hear something?  It's like this thing's, alive?!";
 
 // Case Crafter
 MERCH_CAT_CASECRAFTER             = "Equipment";
@@ -844,6 +864,11 @@ MERCH_CAT_BARRICADE               = "Equipment";
 MERCH_TAG_BARRICADE               = "AceCorp Deployable Barricade";
 MERCH_FLAVOR_BARRICADE            = "Enjoy your safe space.";
 
+// Defence, Engagement, Reconnaissance and Patrol Robot
+MERCH_CAT_DERP                    = "Equipment";
+MERCH_TAG_DERP                    = "Volt D.E.R.P. Robot";
+MERCH_FLAVOR_DERP                 = "The H.E.R.P.'s lil' brother.";
+
 // Dimensional Storage Device
 MERCH_CAT_DSD                     = "Storage";
 MERCH_TAG_DSD                     = "UAC Specialist Dimensional Storage Device";
@@ -854,10 +879,25 @@ MERCH_CAT_DOORBUSTER              = "Equipment";
 MERCH_TAG_DOORBUSTER              = "UAC Specialist Doorbuster";
 MERCH_FLAVOR_DOORBUSTER           = "Breaching, breaching!";
 
+// Deployable Overcharging Robot for Killjoys
+MERCH_CAT_DORK                    = "Equipment";
+MERCH_TAG_DORK                    = "Volt D.O.R.K. Robot";
+MERCH_FLAVOR_DORK                 = "D.E.R.P., but it's flying and carrying a Thunder Buster. A truly diabolical creation.";
+
+// Experimental Configurable Teleportation Device
+MERCH_CAT_ECTD                    = "Equipment";
+MERCH_TAG_ECTD                    = "UAC Specialist E.C.T. Device";
+MERCH_FLAVOR_ECTD                 = "Be careful you don't get caught in a wall, who knows where you'll end up!";
+
 // Field Assembly Kit
 MERCH_CAT_FAK                     = "Equipment";
 MERCH_TAG_FAK                     = "UAC Standard Field Assembly Kit";
 MERCH_FLAVOR_FAK                  = "Armor almost gone? Shield generator giving out? Well go FAK yourself.";
+
+// Fanny Pack
+MERCH_CAT_FANNYPACK               = "Storage";
+MERCH_TAG_FANNYPACK               = "Fanny Pack";
+MERCH_FLAVOR_FANNYPACK            = "An extended version of your pockets.";
 
 // Field Medic Kit
 MERCH_CAT_FIELDMEDICKIT           = "Medical Supplies";
@@ -894,6 +934,11 @@ MERCH_CAT_GEARBOX                 = "Storage";
 MERCH_TAG_GEARBOX                 = "UAC Standard Infantry Gear Box";
 MERCH_FLAVOR_GEARBOX              = "A hoarder's best friend.";
 
+// Gretchen Counter
+MERCH_CAT_GRETCHENCOUNTER         = "Equipment";
+MERCH_TAG_GRETCHENCOUNTER         = "Gretchenfrag Counter";
+MERCH_FLAVOR_GRETCHENCOUNTER      = "This object clearly looks like it was recycled from a very old Geiger counter.";
+
 // Gunsmith Pouch
 MERCH_CAT_GUNSMITHPOUCH           = "Storage";
 MERCH_TAG_GUNSMITHPOUCH           = "Gunsmith Pouch";
@@ -914,25 +959,60 @@ MERCH_CAT_HALFPACK                = "Storage";
 MERCH_TAG_HALFPACK                = "UAC Standard Infantry Rucksack";
 MERCH_FLAVOR_HALFPACK             = "May or may not contain anything useful inside.";
 
+// Handcharge
+MERCH_CAT_HANDCHARGE              = "Equipment";
+MERCH_TAG_HANDCHARGE              = "Handcharge";
+MERCH_FLAVOR_HANDCHARGE           = "A compact and useful charger powered by your own hands.";
+
+// Heavy Engagement Rotary Platform Robot
+MERCH_CAT_HERP                    = "Equipment";
+MERCH_TAG_HERP                    = "Volt H.E.R.P. Robot";
+MERCH_FLAVOR_HERP                 = "An automatic 4mm rotary platform which will shoot bad guys for you.";
+
 // HUD Helmet
 MERCH_CAT_HHELMET                 = "Armor";
 MERCH_TAG_HHELMET                 = "UAC Standard Infantry Helmet";
 MERCH_FLAVOR_HHELMET              = "Does not protect from bicycle falls.";
+
+// Invulnerability Sphere
+MERCH_CAT_INVULNSPHERE            = "Anomalous Artifacts";
+MERCH_TAG_INVULNSPHERE            = "Strange Green Orb";
+MERCH_FLAVOR_INVULNSPHERE         = "Will set everything on fire, but you won't feel it.";
 
 // Jetpack
 MERCH_CAT_JETPACK                 = "Equipment";
 MERCH_TAG_JETPACK                 = "UAC Specialist Jetpack";
 MERCH_FLAVOR_JETPACK              = "Careful not to leave the atmosphere.";
 
+// Jumper Cables
+MERCH_CAT_JUMPERCABLES            = "Equipment";
+MERCH_TAG_JUMPERCABLES            = "Wiring Bypass Kit";
+MERCH_FLAVOR_JUMPERCABLES         = "Blew up the exit switch, did'ya?";
+
+// Portable Ladder
+MERCH_CAT_LADDER                  = "Equipment";
+MERCH_TAG_LADDER                  = "UAC Portable Ladder";
+MERCH_FLAVOR_LADDER               = "Don't fall and break a leg.";
+
 // Ladder Launcher
 MERCH_CAT_LADDERLAUNCHER          = "Equipment";
 MERCH_TAG_LADDERLAUNCHER          = "UAC Specialist Remote Ladder Deployment Apparatus";
 MERCH_FLAVOR_LADDERLAUNCHER       = "Aim for the top.";
 
+// Light AMP Goggles
+MERCH_CAT_LIGHTAMPGOGGLES         = "Equipment";
+MERCH_TAG_LIGHTAMPGOGGLES         = "UAC Standard Night Vision goggles";
+MERCH_FLAVOR_LIGHTAMPGOGGLES      = "Don't look directly at any light source with these!";
+
 // M249 Reloader
 MERCH_CAT_M249RELOADER            = "Equipment";
 MERCH_TAG_M249RELOADER            = "M249 Pouch Reloading Machine";
 MERCH_FLAVOR_M249RELOADER         = "Too tired to load?";
+
+// Megasphere
+MERCH_CAT_MEGASPHERE              = "Anomalous Artifacts";
+MERCH_TAG_MEGASPHERE              = "Strange Brown Orb";
+MERCH_FLAVOR_MEGASPHERE           = "It's like the blue one, but this one has an old helmet floating inside?";
 
 // Magazine Reloader
 MERCH_CAT_MRL                     = "Equipment";
@@ -947,27 +1027,32 @@ MERCH_FLAVOR_MEDICALSCANNER       = "Medikit without the medikit parts.";
 // Medikit
 MERCH_CAT_MEDIKIT                 = "Medical Supplies";
 MERCH_TAG_MEDIKIT                 = "UAC Standard Medical Kit";
-MERCH_FLAVOR_MEDIKIT              = "And all the king's horses and all the king's men couldn't staple Humpty Dumpty back together again.";
+MERCH_FLAVOR_MEDIKIT              = "And all the king's horses and all the king's men couldn't staple Humpty Dumpty together again.";
 
 // Mess Kit
 MERCH_CAT_MESSKIT                 = "Consumables";
 MERCH_TAG_MESSKIT                 = "UAC Standard Infantry Mess Kit";
 MERCH_FLAVOR_MESSKIT              = "Don't make a mess.";
 
+// Ole Rum
+MERCH_CAT_BLUERUM                 = "Consumables";
+MERCH_TAG_BLUERUM                 = "Ole Rum";
+MERCH_FLAVOR_BLUERUM              = "The alcohol amount would probably kill you if it wasn't watered down with a magical tonic. Drink up!";
+
 // Personal Shield Generator
 MERCH_CAT_PERSONALSHIELDGEN       = "Equipment";
 MERCH_TAG_PERSONALSHIELDGEN       = "Personal Shield Generator";
 MERCH_FLAVOR_PERSONALSHIELDGEN    = "Guaranteed to make rocket marines sad.";
 
-// Portable Ladder
-MERCH_CAT_LADDER                  = "Equipment";
-MERCH_TAG_LADDER                  = "UAC Portable Ladder";
-MERCH_FLAVOR_LADDER               = "Don't fall and break a leg.";
+// Pocket lamp/Pocket lamp selfcharging
+MERCH_CAT_POCKETLAMP              = "Equipment";
+MERCH_TAG_POCKETLAMP              = "Pocket lamp";
+MERCH_FLAVOR_POCKETLAMP           = "Brother, I require l a m p.";
 
-// Portable Radar
-MERCH_CAT_ZRADAR                  = "Equipment";
-MERCH_TAG_ZRADAR                  = "AceCorp Portable Radar";
-MERCH_FLAVOR_ZRADAR               = "They're coming out of the god damn walls!";
+// Portable Cleanser
+MERCH_CAT_PORTABLECLEANSER        = "Medical Supplies";
+MERCH_TAG_PORTABLECLEANSER        = "UAC Specialist Portable Cleanser";
+MERCH_FLAVOR_PORTABLECLEANSER     = "Cleanser packs help clear ALL drugs out of your system.";
 
 // Portable Teleporter
 MERCH_CAT_PORTABLETELEPORTER      = "Equipment";
@@ -1004,6 +1089,11 @@ MERCH_CAT_RESPIRATOR              = "Equipment";
 MERCH_TAG_RESPIRATOR              = "UAC Standard Respirator";
 MERCH_FLAVOR_RESPIRATOR           = "Blub blub blub.";
 
+// The Remote InterFerence Controller hacking device
+MERCH_CAT_RIFC                    = "Equipment";
+MERCH_TAG_RIFC                    = "UAC Specialist R.I.F.C Device";
+MERCH_FLAVOR_RIFC                 = "Be a true robot emperor with this little Nintendo thingy, as long as you got batteries.";
+
 // Rocket Assembler
 MERCH_CAT_ROCKETASSEMBLER         = "Equipment";
 MERCH_TAG_ROCKETASSEMBLER         = "Rocket Assembler";
@@ -1018,6 +1108,11 @@ MERCH_FLAVOR_ROOMBA               = "Stop breaking your back trying to pick up b
 MERCH_CAT_SECRETFINDER            = "Equipment";
 MERCH_TAG_SECRETFINDER            = "UAC Specialist Secret Finder";
 MERCH_FLAVOR_SECRETFINDER         = "Do you hear that? It's the sound of a hidden BFG.";
+
+// Spray Can
+MERCH_CAT_SPRAYCAN                = "Equipment";
+MERCH_TAG_SPRAYCAN                = "Spraypaint Can";
+MERCH_FLAVOR_SPRAYCAN             = "Spreading acceptance, one act of defiance at a time.";
 
 // Stimpack
 MERCH_CAT_STIMPACK                = "Medical Supplies";
@@ -1068,6 +1163,11 @@ MERCH_FLAVOR_WEAPONSLING          = "For when you need that third arm.";
 MERCH_CAT_WEAPONCRATE             = "Supplies";
 MERCH_TAG_WEAPONCRATE             = "UAC Standard Weapon Crate";
 MERCH_FLAVOR_WEAPONCRATE          = "Ammo sold separately.";
+
+// Portable Radar
+MERCH_CAT_ZRADAR                  = "Equipment";
+MERCH_TAG_ZRADAR                  = "AceCorp Portable Radar";
+MERCH_FLAVOR_ZRADAR               = "They're coming out of the god damn walls!";
 
 
 // ------------------
@@ -1399,9 +1499,19 @@ MERCH_FLAVOR_RAWSTEEL             = "Tore this one off a Spider demon!";
 // ARMOUR
 // ------------------
 
+// Armor Plate
+MERCH_CAT_ARMORPLATE              = "Armor";
+MERCH_TAG_ARMORPLATE              = "UAC Standard Ceramic Armor Plate";
+MERCH_FLAVOR_ARMORPLATE           = "When you want even more protection. Only fits in UAC Standard Armor";
+
+// Riot Shield
+MERCH_CAT_RIOTSHIELD              = "Armor";
+MERCH_TAG_RIOTSHIELD              = "Riot Shield";
+MERCH_FLAVOR_RIOTSHIELD           = "Lookin' to quell some insurrection?";
+
 // Battle Armour
 MERCH_CAT_BATTLEARMOUR            = "Armor";
-MERCH_TAG_BATTLEARMOUR            = "UAC Specialist Battle Armor";
+MERCH_TAG_BATTLEARMOUR            = "UAC Standard Battle Armor";
 MERCH_FLAVOR_BATTLEARMOUR         = "You'll be unstoppable with this.";
 
 // Corporate Armour
@@ -1416,7 +1526,7 @@ MERCH_FLAVOR_GARRISONARMOUR       = "Should last long enough for me to see you a
 
 // HEV Armour
 MERCH_CAT_HEVARMOUR               = "Armor";
-MERCH_TAG_HEVARMOUR               = "Hazardous Environment Armor";
+MERCH_TAG_HEVARMOUR               = "UAC Specialist Hazardous Environment Armor";
 MERCH_FLAVOR_HEVARMOUR            = "Why does it have Greek letters all over it?";
 
 // Leather Armour
