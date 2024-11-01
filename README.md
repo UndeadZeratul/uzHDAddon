@@ -139,7 +139,7 @@ The Arkoudi Revolver Shotgun's ironsights have been recolored.
 _Credits: AdianoTMO69_
 
 #### Hunter Shotgun
-The hunter has been swapped out with a set that looks like the ones made by Daedalus' Complex Doom, yet still keep more of a vanilla feel to it, then recolored to match thematically.
+The hunter has been swapped out with a set made by Sonik.O, simply for the pure quality of the spritework, then had its sights recolored to match thematically.
 
 ![hunter](./screenshots/hunter.png)  
 _Credits:  
