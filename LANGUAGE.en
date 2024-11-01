@@ -28,7 +28,7 @@ MNU_EPRANGE                      = "\c[White]Firing Range";
 // Vanilla HDest
 TAG_FIST                         = "Unarmed";
 TAG_SPRINTING                    = "Sprinting";
-TAG_CHAINSAW                     = "\"Lumberjack\" Chainsaw";
+TAG_CHAINSAW                     = "Volt BEV-93 \"Eager Beaver\" Chainsaw";
 TAG_PISTOL                       = "Grokk 15 9x22mm Pistol";
 TAG_REVOLVER                     = "Buger \"Deinonychus\" .355 Masterball Revolver";
 TAG_SMG                          = "H&M MP-46 9x22mm Heavy Automatic Pistol";
@@ -501,7 +501,7 @@ TAG_HHELMETSPARE                 = "UAC Standard Infantry Helmet (spare)";
 //-------------------------------------
 
 // Vanilla HDest
-PICKUP_CHAINSAW                  = "Picked up a \"Lumberjack\" chainsaw. Go find some meat!";
+PICKUP_CHAINSAW                  = "Picked up a Volt BEV-93 \"Eager Beaver\" chainsaw.";
 PICKUP_PISTOL                    = "Picked up a Grokk 15 Pistol.";
 PICKUP_REVOLVER                  = "Picked up a Buger \"Deinonychus\" .355 Masterball Revolver.";
 PICKUP_SMG                       = "Picked up a MP-46 SMG.";

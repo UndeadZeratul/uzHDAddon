@@ -84,6 +84,15 @@ The fists have been swapped out with a set that use plain Doomguy Gloves, simply
 
 _Credits: [UNKNOWN](#UNKNOWN-CREDITS)_
 
+#### Chainsaw
+The chainsaw has been swapped out with a set made by Sonik.O, simply for the quality of the spritework as well as coming with an olive color palette that matches the other UAC Utily Tool color palettes, like the Fire Axe in [Potetobloke's Bangers & Mash](https://github.com/Potetobloke/PB_HDAddon_Bangers-And-Mash.git)
+
+![chainsaw](./screenshots/chainsaw.png)
+
+_Credits:  
+HUD Sprites: Sonik.O
+Pickup Sprites: id Software_
+
 #### Pistols
 _Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
 
