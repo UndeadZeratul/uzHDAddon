@@ -138,21 +138,4 @@ Graphic "SHIELDD0", 15, 17
 	Patch "BON2D0", 0, 0
 }
 
-Graphic "BUXCNTR0", 72, 21
-{
-	XScale 4.000
-	YScale 4.000
-	Patch "MBCKA0", 0, 0
-}
-
-Graphic "BUXCNTR1", 72, 21
-{
-	XScale 4.000
-	YScale 4.000
-	Patch "BUXCNTR0", 0, 0
-	{
-		Translation "0:255=%[0.00,0.00,0.00]:[0.30,0.14,0.00]"
-	}
-}
-
 // End of texture definitions
