@@ -203,6 +203,14 @@ TAG_STEN                         = "STEN Mk.2(S) Suppressed 9x22mm SMG";
 TAG_STUNGUN                      = "\"ShokStop\" Stun Gun";
 TAG_TT33                         = "TT-33 7.62mm Tokarev Pistol";
 
+// RRRR Weapons
+TAG_BRONTOBUDDY                  = "Freeley Mk. VII \"Brontornis\" Ultralight Cannon";
+TAG_KHLEB                        = "DiFranco SPOS-E33 \"Khleb\" 12ga Pump-Action Shotgun";
+TAG_REAPER                       = "Satichon \"Reaper\" 12ga Automatic Combat Shotgun";
+TAG_REAPER_GL                    = "Satichon \"Reaper\" 12ga Automatic Combat Shotgun";
+TAG_REAPER_ZM                    = "Satichon \"Reaper\" 12ga Automatic Combat Shotgun";
+TAG_THOMPSON                     = "Volt Thompson 9x22mm Submachine Gun";
+
 // Ugly as Sin
 UAS_BANDAGING_TAG                = "Improvised Bandaging";
 
@@ -356,6 +364,11 @@ TAG_10PISMAG                     = "Volt N1911 10mm Magazine";
 TAG_SCWMAG                       = "M-211 \"Sig-Cow\" 10mm Magazine";
 TAG_MICROCELL                    = "Micro-Cell Battery";
 TAG_CM7                          = "Duketha N1911 .45 ACP Magazine";
+
+// RRRR Weapons
+TAG_REAPER_MAG                   = "Reaper 12ga 00 Buckshot Magazine";
+TAG_REAPER_DRUMMAG               = "Reaper 12ga 00 Buckshot Drum Magazine";
+TAG_THOMPSON_DRUMMAG             = "Thompson 9x22mm Drum Magazine";
 
 // WAN Industries
 WAN_TAG_MA75BCLIP                = "WAN MA-75B 7.76mm Magazine";
@@ -732,6 +745,14 @@ PICKUP_STENMK2                   = "Picked up a Sten Mk.2(S) Suppressed 9x22mm S
 PICKUP_STUNGUN                   = "Picked up a \"ShokStop\" Stun Gun.";
 PICKUP_TT33                      = "Picked up a TT-33 7.62mm Tokarev Pistol.";
 
+// RRRR Weapons
+PICKUP_BRONTOBUDDY               = "Picked up a Freeley Mk. VII \"Brontornis\" Ultralight Cannon. It's got a neat bolt rack!";
+PICKUP_KHLEB                     = "Picked up a DiFranco SPOS-E33 \"Khleb\" 12ga Pump-Action Shotgun.";
+PICKUP_REAPER                    = "Picked up a Satichon \"Reaper\" 12ga Automatic Combat Shotgun.";
+PICKUP_REAPER_GL                 = "Picked up a Satichon \"Reaper\" 12ga Automatic Combat Shotgun.";
+PICKUP_REAPER_ZM                 = "Picked up a Satichon \"Reaper\" 12ga Automatic Combat Shotgun.";
+PICKUP_THOMPSON                  = "Picked up a Volt Thompson 9x22mm SMG.";
+
 // WAN Industries
 WAN_PICK_MA75B                   = "Picked up a WAN MA-75B 7.76mm Battle Rifle.";
 WAN_PICK_MA76C                   = "Picked up a WAN MA-76C 4.26mm Assault Rifle.";
@@ -898,6 +919,11 @@ PICKUP_MICROCELL                 = "Picked up a Micro-Cell Battery.";
 PICKUP_PPSH41MAG35               = "Picked up a PPSh-41 7.62mm Tokarev Magazine.";
 PICKUP_PPSH41MAG71               = "Picked up a PPSh-41 7.62mm Tokarev Drum Magazine.";
 PICKUP_TT33MAG                   = "Picked up a TT-33 7.62mm Tokarev Magazine.";
+
+// RRRR Weapons
+PICKUP_REAPER_MAG                = "Picked up a Reaper 12ga Magazine.";
+PICKUP_REAPER_DRUMMAG            = "Picked up a Reaper 12ga Drum Magazine.";
+PICKUP_THOMPSON_DRUMMAG          = "Picked up a Thompson 9x22mm Drum magazine.";
 
 // WAN Industries
 WAN_PICK_MA75BCLIP               = "Picked up a MA-75B 7.76mm Magazine.";
