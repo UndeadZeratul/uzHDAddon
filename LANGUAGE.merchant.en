@@ -134,6 +134,11 @@ MERCH_CAT_BRONTO                  = "Heavy Weapons";
 MERCH_TAG_BRONTO                  = "Freeley Mk. VII \"Brontornis\" 35mm Ultralight Cannon";
 MERCH_FLAVOR_BRONTO               = "And now I will show you a magic trick. Watch as this Hell Noble disappears.";
 
+// Bronto-Buddy
+MERCH_CAT_BRONTOBUDDY             = "Heavy Weapons";
+MERCH_TAG_BRONTOBUDDY             = "Freeley Mk. VII \"Brontornis\" 35mm Ultralight Cannon";
+MERCH_FLAVOR_BRONTOBUDDY          = "It's a buddy, for your Bronto.";
+
 // Cawsgun
 MERCH_CAT_CAWSGUN                 = "Shotguns";
 MERCH_TAG_CAWSGUN                 = "H&M CROWS \"Presslufthammer\" Shotgun";
@@ -339,6 +344,11 @@ MERCH_CAT_KHARON                  = "Melee Weapons";
 MERCH_TAG_KHARON                  = "Replica Kharon";
 MERCH_FLAVOR_KHARON               = "Filled with a history of violence and anguish... except this one's a replica. Still effective.";
 
+// Khleb
+MERCH_CAT_KHLEB                   = "Shotguns";
+MERCH_TAG_KHLEB                   = "DiFranco SPOS-33 \"Khleb\" Pump-Action Shotgun";
+MERCH_FLAVOR_KHLEB                = "It's Khlebberin' time!";
+
 // Less-Lethal Shotgun
 MERCH_CAT_LLHUNTER                = "Shotguns";
 MERCH_TAG_LLHUNTER                = "Bernoulli M1053 12ga Pump-Action Shotgun";
@@ -524,6 +534,11 @@ MERCH_CAT_RAILGUNDYNAMO           = "Heavy Weapons";
 MERCH_TAG_RAILGUNDYNAMO           = "XM99 Experimental Railgun Dynamo";
 MERCH_FLAVOR_RAILGUNDYNAMO        = "A recharging device for the XM99. Required for continued operation of the weapon.";
 
+// Reaper
+MERCH_CAT_REAPER                  = "Shotguns";
+MERCH_TAG_REAPER                  = "Satichon \"Reaper\" 12ga Automatic Combat Shotgun";
+MERCH_FLAVOR_REAPER               = "Don't fear the reaper?  Oh, they will.";
+
 // Redline
 MERCH_CAT_REDLINE                 = "Energy Weapons";
 MERCH_TAG_REDLINE                 = "AceCorp RDL-N3 \"Redline\" Thermal Lance";
@@ -638,6 +653,11 @@ MERCH_FLAVOR_STREETSWEEPER        = "All fun and games until you need to reload.
 MERCH_CAT_STUNGUN                 = "Melee Weapons";
 MERCH_TAG_STUNGUN                 = "\"ShokStop\" Stun Gun";
 MERCH_FLAVOR_STUNGUN              = "Don't taze me, bro!";
+
+// Thompson
+MERCH_CAT_THOMPSON                = "SMGs";
+MERCH_TAG_THOMPSON                = "Volt Thompson 9x22mm Submachine Gun";
+MERCH_FLAVOR_THOMPSON             = "Merry Christmas, ya filthy animal.";
 
 // Thunderbuster
 MERCH_CAT_THUNDERBUSTER           = "Energy Weapons";
