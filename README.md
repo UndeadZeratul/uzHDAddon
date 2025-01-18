@@ -448,33 +448,12 @@ The HEV Armor has been replaced to make it less of a simple recolor.
 _Credits: Lightsource ([Pandemonia](https://forum.zdoom.org/viewtopic.php?t=60984) )_
 
 #### Field Assembly Kit
-_Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)_
+_Requires [AceCorp: Engineering Department](https://github.com/HDest-Community/ace-corp-extended)_
 
 The Field Assembly Kit crate has been replaced to preserve the UAC logo, rather than Ace's personal logo.
 
 ![field-assembly-kit](./screenshots/field-assembly-kit.png)  
 _Credits: Yholl, id Software_
-
-#### Medical Bag
-_Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)_
-
-The Medical Bag always felt off to be carrying multiple "full-size" backpacks alongside the main backpack.  Instead, it has been swapped out with one that more closely resembles the Ammo Pouch.
-
-![medical-bag](./screenshots/medical-bag.png)  
-_Credits: Zrrion_
-
-#### Logistics Bag
-_Requires [Cozi's Offworld Wares](https://github.com/Deadondev/Cozis-Offworld-Wares)_
-
-The Logistics Bag also always felt off to be carrying multiple "full-size" backpacks alongside the main backpack.  Instead, it has been swapped out with the original "Gunsmith Pouch" from the mod of the same name, so that it more closely resembles the Ammo Pouch.
-
-![logistics-bag](./screenshots/logistics-bag.png)  
-_Credits: Skelegant ([Gunsmith Pouch](https://dastrukar.gitlab.io/hddons-list/#utilities:gunsmithpouch-mohl))_  
-
-#### Merchant's Mercenary Bucks  
-
-The Mercenary Bucks icon has been swapped out with an actual dollar bill from Duke Nukem 3D.  
-_Credits: 3D Realms_  
 
 ---
 ### Other Changes
