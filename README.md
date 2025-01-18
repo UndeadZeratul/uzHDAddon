@@ -347,6 +347,18 @@ Pickup Sprites: TommyGalano5, Sonik.O_
 
 ### Item Sprite Changes
 
+#### Medical Supplies
+
+The various medical supplies have been replaced with more thematically consistent sprites, including a nice set of cloth satchels for the Medikits (white) and Field Medical Kits (green), a nice medical tin for the Stimpacks, a similar yet still visually distinct container for the Berserk Pack, and a specialty First-Aid/Surgery Kit for the Trauma Kit which even has its own graphic for the HUD to display all the tools it comes with!
+
+![medical-supplies](./screenshots/medical-supplies.png)
+_Credits:_  
+_Berserk Packs: NMN_  
+_Field Medical Kits (Requires [Radtech Items Pack](https://github.com/swampyrad/RadTechItemPack)): NMN_  
+_Medikits: NMN_  
+_Stimpacks: NMN_  
+_Trauma Kits (Requires [Ugly as Sin](https://github.com/HDest-Community/Ugly-As-Sin)): CyberMonday_  
+
 #### Keys
 
 The keys have all had their pickup sprites replaced with a set that gives them both variety as well as a fresh new look!
