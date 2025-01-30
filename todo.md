@@ -22,7 +22,7 @@
 
 ### Peppergrinder
 - ~~Bastard Rifle~~
-- Pistol Carbine Rifle
+- BPX Pistol Carbine Rifle Magazines
 - VERA
 - ~~TRO-G front sight~~
 - ~~ZM94 "Saberwolf" Sniper Rifle~~
@@ -35,7 +35,8 @@
 - ~~10mm Pistol front sight~~
 - ~~Detective Special Revolver~~ Not sure if I need to do this?  It seems fine
 - ~~Hush Puppy Silenced Pistol~~
-- Juan Pistol (Glock with horseshoe mag?)
+- ~~Juan Pistol (Glock with horseshoe mag?)~~ Juan can stay Mouletta
+- Hush Puppy Return to Mouletta, reskin upcoming PG Silenced Pistol
 
 ---
 ## Resprites
@@ -59,14 +60,14 @@
 - ~~Use new sprites to allow Explosive Shotgun to use TSF's "Six12"~~
 
 ### PD-42
-- Thinking of using the M41A Pulse Rifle, but not sure how to adjust with only 2 HUD frames, unless...
+- ~~Thinking of using the M41A Pulse Rifle, but not sure how to adjust with only 2 HUD frames, unless...~~ Existing PD-42 Sprites are fine
 
 ---
 ## LANGUAGE Changes?
 
-- Fix tags that are all lowercase (fist, pump action shotgun, side by side shotgun, etc.)
-- Pistol renamed to Glock 15?
-- Unify Naming Convention? (Similar to how Ted had theirs with Brand/Model, then 'Nickname', then descriptive phrase?)
+- ~~Fix tags that are all lowercase (fist, pump action shotgun, side by side shotgun, etc.)~~
+- ~~Pistol renamed to Glock 15?~~
+- ~~Unify Naming Convention? (Similar to how Ted had theirs with Brand/Model, then 'Nickname', then descriptive phrase?)~~
 
 ---
 ## ~~Spawn Adjustments~~
