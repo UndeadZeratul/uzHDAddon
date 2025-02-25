@@ -209,7 +209,8 @@ TAG_KHLEB                        = "DiFranco SPOS-E33 \"Khleb\" 12ga Pump-Action
 TAG_REAPER                       = "Satichon \"Reaper\" 12ga Automatic Combat Shotgun";
 TAG_REAPER_GL                    = "Satichon \"Reaper\" 12ga Automatic Combat Shotgun";
 TAG_REAPER_ZM                    = "Satichon \"Reaper\" 12ga Automatic Combat Shotgun";
-TAG_THOMPSON                     = "Volt Thompson 9x22mm Submachine Gun";
+TAG_THOMPSON                     = "Volt Thompson .45 ACP Submachine Gun";
+TAG_THOMPSON_NINEMIL             = "Volt Thompson 9x22mm Submachine Gun";
 
 // Ugly as Sin
 UAS_BANDAGING_TAG                = "Improvised Bandaging";
@@ -369,6 +370,8 @@ TAG_CM7                          = "Duketha N1911 .45 ACP Magazine";
 TAG_REAPER_MAG                   = "Reaper 12ga 00 Buckshot Magazine";
 TAG_REAPER_DRUMMAG               = "Reaper 12ga 00 Buckshot Drum Magazine";
 TAG_THOMPSON_DRUMMAG             = "Thompson 9x22mm Drum Magazine";
+TAG_THOMPSON_45ACPDRUMMAG        = "Thompson .45 ACP Drum Magazine";
+TAG_THOMPSON_45ACPBOXMAG         = "Thompson .45 ACP Magazine";
 
 // WAN Industries
 WAN_TAG_MA75BCLIP                = "WAN MA-75B 7.76mm Magazine";
@@ -751,7 +754,8 @@ PICKUP_KHLEB                     = "Picked up a DiFranco SPOS-E33 \"Khleb\" 12ga
 PICKUP_REAPER                    = "Picked up a Satichon \"Reaper\" 12ga Automatic Combat Shotgun.";
 PICKUP_REAPER_GL                 = "Picked up a Satichon \"Reaper\" 12ga Automatic Combat Shotgun.";
 PICKUP_REAPER_ZM                 = "Picked up a Satichon \"Reaper\" 12ga Automatic Combat Shotgun.";
-PICKUP_THOMPSON                  = "Picked up a Volt Thompson 9x22mm SMG.";
+PICKUP_THOMPSON                  = "Picked up a Volt Thompson .45 ACP SMG.";
+PICKUP_THOMPSON_NINEMIL          = "Picked up a Volt Thompson 9x22mm SMG.";
 
 // WAN Industries
 WAN_PICK_MA75B                   = "Picked up a WAN MA-75B 7.76mm Battle Rifle.";
@@ -924,6 +928,8 @@ PICKUP_TT33MAG                   = "Picked up a TT-33 7.62mm Tokarev Magazine.";
 PICKUP_REAPER_MAG                = "Picked up a Reaper 12ga Magazine.";
 PICKUP_REAPER_DRUMMAG            = "Picked up a Reaper 12ga Drum Magazine.";
 PICKUP_THOMPSON_DRUMMAG          = "Picked up a Thompson 9x22mm Drum magazine.";
+PICKUP_THOMPSON_45ACPDRUMMAG     = "Picked up a Thompson .45 ACP Drum magazine.";
+PICKUP_THOMPSON_45ACPBOXMAG      = "Picked up a Thompson .45 ACP magazine.";
 
 // WAN Industries
 WAN_PICK_MA75BCLIP               = "Picked up a MA-75B 7.76mm Magazine.";
