@@ -45,7 +45,7 @@ TAG_LIB_CLASSIC                  = "H&M ZM7 \"Liberator\" 7.76mm Battle Rifle";
 TAG_LIB_CLASSICNOGL              = "H&M ZM7 \"Liberator\" 7.76mm Battle Rifle";
 TAG_BRONTO                       = "Freeley Mk. VII \"Brontornis\" 35mm Ultralight Cannon";
 TAG_BOSS                         = "L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Rifle";
-TAG_GREFRAG                      = "M67.1A Fragmentation Grenade";
+TAG_GREFRAG                      = "M67.1A Fragmentation Grenades";
 TAG_BFG9000                      = "Botis Field Glyph v9.0";
 
 // AceCorp: Engineering Department
@@ -128,21 +128,21 @@ PEPPER_TAG_ZORCHER               = "\"Zorcher\" Handheld Teleporter";
 // PB's Bangers & Mash
 TAG_93R                          = "Mouletta 97R \"Raffica\" 9x22mm Handgun";
 TAG_AT4                          = "RAT-84 Disposable Rocket Launcher";
-TAG_AUTOMAG                      = "SP-50 .50 AM Magnum Handgun";
+TAG_AUTOMAG                      = "SP-50 .50 Action Mega Handgun";
 TAG_BUGERM22                     = "Buger M22 5x12mm Bumblebee Rimfire Rifle";
 TAG_CAWS                         = "H&M CROWS \"Presslufthämmer\" 12ga Automatic Shotgun";
 TAG_CGM25                        = "DLA&M ATCM-35 Homing Missile Launcher";
-TAG_COLTCOMMANDO                 = "Volt R0355 HPC \"Commando\" .355 Masterball SMG";
+TAG_COLTCOMMANDO                 = "Volt R0355 \"Commando\" .355 Masterball SMG";
 TAG_CONCGRENADES                 = "";
-TAG_DEVINCENZIA                  = "Berlinghoff XM135 \"Devincenzia\" 35mm Anti-Materiel Rifle";
+TAG_DEVINCENZIA                  = "Berlinghoff XM135 \"Devincenzia\" 35mm Cannon";
 TAG_EXTINGUISHER                 = "UAC Emergency Fire Extinguisher";
 TAG_FAL                          = "UN-AF L7A1 \"Defender\" 7.76mm Rifle";
 TAG_FIREAXE                      = "UAC Emergency Fire Axe";
 TAG_G11                          = "H&M G26 4.26mm Assault Rifle";
-TAG_G11_NORMAL                   = "H&M G26 4.26mm Assault Rifle";
-TAG_G11_SCOPED                   = "H&M G26 4.26mm Assault Rifle";
+TAG_G11_NORMAL                   = "H&M G26A1 4.26mm Assault Rifle";
+TAG_G11_SCOPED                   = "H&M G26SD 4.26mm Assault Rifle";
 TAG_GASGRENADES                  = "\"Skunk\" Gas Grenades";
-TAG_KELENKEN                     = "MS-AT \"Kelenken\" 35mm Rotary Support Cannon";
+TAG_KELENKEN                     = "M5-AT \"Kelenken\" 35mm Autocannon";
 TAG_KHARON                       = "Kharon";
 TAG_KNIFE                        = "Combat Knife";
 TAG_LEVERGAT                     = "Sawyer LR355 \"Big Boy\" .355 Masterball Lever-Action Rifle";
@@ -155,7 +155,7 @@ TAG_MK23                         = "H&M Mk23 \"SOCOM\" .45 ACP Handgun";
 TAG_PS20                         = "DLA&M PS-451 Portable Balefire Dispenser";
 TAG_PSG1                         = "H&M PSG2A1 7.76mm Semi-Automatic Sniper Rifle";
 TAG_RAILGUN                      = "XM99 Experimental Railgun";
-TAG_RAILGUNDYNAMO                = "XM99 Railgun Dynamo";
+TAG_RAILGUNDYNAMO                = "XM99 Experimental Railgun Dynamo";
 TAG_SLEDGEHAMMER                 = "Sledgehammer";
 TAG_SMARTGUN                     = "H&M HS76A1 7.76mm SmartGun";
 TAG_SMOKEGRENADES                = "Smoke Grenades";
@@ -181,6 +181,7 @@ TAG_EXPLOSIVESHOTGUN             = "DiFranco SPOS-E44 \"Gatherer\" 12ga Pump-Act
 TAG_FLAREGUN                     = "Flare Gun";
 TAG_FP45                         = "FP-45 \"Liberator\" .45 ACP Pistol";
 TAG_FRAGCANNON                   = "\"Frag Cannon\" Frag Grenade Launcher";
+TAG_GOLDSINGLEACTION             = "Buger \"Golden Gun\" .45 Long Colt Single-Action Revolver";
 TAG_HACKEDZM                     = "Volt ZM66 4.26mm Assault Rifle";
 TAG_HPUPPY                       = "Suppressed Grokk 15 9x22mm Pistol";
 TAG_HZMIRREGULAR                 = "Volt ZM66 4.26mm Assault Rifle";
@@ -204,7 +205,7 @@ TAG_STUNGUN                      = "\"ShokStop\" Stun Gun";
 TAG_TT33                         = "TT-33 7.62mm Tokarev Pistol";
 
 // RRRR Weapons
-TAG_BRONTOBUDDY                  = "Freeley Mk. VII \"Brontornis\" Ultralight Cannon";
+TAG_BRONTOBUDDY                  = "Freeley Mk. VII \"Brontornis\" 35mm Ultralight Cannon";
 TAG_KHLEB                        = "DiFranco SPOS-E33 \"Khleb\" 12ga Pump-Action Shotgun";
 TAG_REAPER                       = "Satichon \"Reaper\" 12ga Automatic Combat Shotgun";
 TAG_REAPER_GL                    = "Satichon \"Reaper\" 12ga Automatic Combat Shotgun";
@@ -214,6 +215,16 @@ TAG_THOMPSON_NINEMIL             = "Volt Thompson 9x22mm Submachine Gun";
 
 // Ugly as Sin
 UAS_BANDAGING_TAG                = "Improvised Bandaging";
+
+// UZ's HDest Weapons
+TAG_BHG                          = "Zero-Point Singularity Generator";
+TAG_CLAYMORE                     = "Claymore Mines";
+TAG_CLAYMORE_BOX                 = "Box of Claymore Mines";
+TAG_LANDMINE                     = "Land Mines";
+TAG_LANDMINE_BOX                 = "Box of Land Mines";
+TAG_LASER_TRIPBOMB               = "Laser Trip-Bombs";
+TAG_PIPEBOMB                     = "Pipe Bombs";
+TAG_PIPEBOMB_DETONATOR           = "Detonator";
 
 // WAN Industries
 WAN_TAG_MA75B                    = "WAN MA-75B 7.76mm Battle Rifle";
@@ -326,6 +337,8 @@ TAG_VIPERMAG                     = "\"Viper\" .50 Action Mega Magazine";
 TAG_50OMGCLIP                    = ".50 OMG Clip";
 
 // Icarus's Innovations, Improved
+TAG_MBRMAGHEAVY                  = "MBR .500 S&W Heavy Magazine";
+TAG_MBRMAGLIGHT                  = "MBR .500 S&W Light Magazine";
 TAG_NYXMAG                       = "Nyx .355 Masterball Magazine";
 TAG_PD42MAG                      = "PD-42 4.26mm Magazine";
 TAG_SIX12MAG_SHELL               = "Six-12 12ga 00 Buckshot Shell Cylinder";
@@ -335,15 +348,16 @@ TAG_USPMAG                       = "USP .45 ACP Magazine";
 
 // PB's Bangers & Mash
 TAG_35MM_BELTBOX                 = "35mm Anti-Material Beltbox";
-TAG_50AM_MAG                     = ".50 AM Magazine";
+TAG_50AM_MAG                     = "SP-50 .50 Aaction Mega Magazine";
 TAG_50OMG_BELTBOX                = ".50 OMG Belt Box";
-TAG_7MM_BELTBOX                  = "7.76mm MG Box";
-TAG_BUGERM22_MAG                 = "Buger M22 5x12mm Magazine";
+TAG_7MM_BELTBOX                  = "7.76mm Belt Box";
+TAG_BUGERM22_MAG                 = "Buger M22 5x12mm BR Magazine";
 TAG_CAWS_MAG                     = "H&M CAWS 12ga Magazine";
+TAG_COLTCOMMANDOMAG              = "Volt R0355 \"Commando\" .355 Masterball Magazine";
 TAG_DEVINCENZIA_MAG              = "XM135 \"Devincenzia\" 35mm Anti-Materiel Magazine";
 TAG_FAL_MAG                      = "L7A1 7.76mm Drum Magazine";
-TAG_G11_MAG                      = "G26 4.26mm Magazine";
-TAG_M5165C_MAG                   = "M5/165c 5x12mm Drum Magazine";
+TAG_G11_MAG                      = "G26 Series 4.26mm Magazine";
+TAG_M5165C_MAG                   = "M5/165c 5x12mm BR Drum Magazine";
 TAG_MAC10_MAG                    = "RAC-10/45 .45 ACP Magazine";
 TAG_MK23_MAG                     = "Mk23 .45 ACP Magazine";
 TAG_PSG1_MAG                     = "H&M PSGA1 7.76mm Magazine";
@@ -353,7 +367,7 @@ TAG_STEYR_MAG                    = "Austere 6x42mm Flechette Magazine";
 PEPPER_TAG_355MAG                = "\"Helzing\" .355 Masterball Magazine";
 PEPPER_TAG_9MCLIP                = "9x22mm Clip";
 PEPPER_TAG_BIGNDMMAG             = "BreakerTek 9x25mm NDM Magazine";
-PEPPER_TAG_COYOTEMAG             = "\"Wild Coyote\" .451 Magazine";
+PEPPER_TAG_COYOTEMAG             = "\"Wild Coyote\" .451 Frei Magazine";
 PEPPER_TAG_KILLER7MAG            = "\"Killer7\" .500 Magazine";
 PEPPER_TAG_NDM_MAG               = "9x25mm NDM Magazine";
 PEPPER_TAG_TROGMAG               = "Volt AR-29 4.26mm magazine";
@@ -362,9 +376,12 @@ PEPPER_TAG_ZM94_MAG              = "Volt ZM94 .50 OMG Magazine";
 
 // Radtech
 TAG_10PISMAG                     = "Volt N1911 10mm Magazine";
-TAG_SCWMAG                       = "M-211 \"Sig-Cow\" 10mm Magazine";
-TAG_MICROCELL                    = "Micro-Cell Battery";
 TAG_CM7                          = "Duketha N1911 .45 ACP Magazine";
+TAG_MICROCELL                    = "Micro-Cell Battery";
+TAG_PPSH41MAG35                  = "PPSh-41 7.62mm Tokarev Magazine";
+TAG_PPSH41MAG71                  = "PPSh-41 7.62mm Tokarev Drum Magazine";
+TAG_SCWMAG                       = "M-211 \"Sig-Cow\" 10mm Magazine";
+TAG_TT33MAG                      = "TT-33 7.62mm Tokarev Magazine";
 
 // RRRR Weapons
 TAG_REAPER_MAG                   = "Reaper 12ga 00 Buckshot Magazine";
@@ -414,7 +431,6 @@ TAG_DOORBUSTER                   = "UAC Specialist Doorbuster";
 TAG_IEDKIT                       = "I.E.D. Kit";
 TAG_JETPACK                      = "UAC Specialist Jetpack";
 TAG_LADDER                       = "UAC Portable Ladder";
-TAG_RELOADER                     = "7.76mm Reloading Device";
 
 // AceCorp: Engineering Department
 TAG_ARMORPATCHKIT                = "UAC Specialist Armor Patch Kit";
@@ -422,10 +438,9 @@ TAG_ASSEMBLYCORE                 = "UAC Standard Field Assembly Core";
 TAG_BOOSTERJETS                  = "UAC Specialist Booster Jets";
 TAG_DEPLOYABLEBARRICADE          = "AceCorp Deployable Barricade";
 TAG_FAK                          = "UAC Standard Field Assembly Kit";
-TAG_HACKEDRELOADER               = "7.76mm Reloading Device";
 TAG_LADDERLAUNCHER               = "UAC Specialist Remote Ladder Deployment Apparatus";
 TAG_MAGAZINERELOADER             = "AceCorp Magazine Reloading Device";
-TAG_PSG                          = "AceCorp Personal Shield Generator";
+TAG_PSH                          = "AceCorp Personal Shield Generator";
 TAG_REARVIEWMIRROR               = "Rearview Mirror";
 TAG_ROOMBA                       = "Volt \"R.M.B.A.\" Robot";
 TAG_SECRETFINDER                 = "UAC Specialist Secret Finder";
@@ -438,17 +453,36 @@ TAG_WEAPONCRATE                  = "UAC Standard Weapon Crate";
 // Cross Pulse ThunderBuster
 TAG_XTK                          = "\"Thunder Buster\" Cross-Pulse Modification Kit";
 
+// Handcharge
+TAG_HANDCHARGE                   = "CRNK-M Battery Charger";
+
 // Radtech
+TAG_GRAVBOOTS                    = "UAC Experimental Anti-Gravity Boots";
 TAG_RADBOOTS                     = "UAC Environmental Protection Boots";
+
+// Spicy Air
+TAG_GASMASK                      = "UAC Specialist Gas Mask";
+TAG_GASMASKFILTER                = "Gas Mask Air Filter";
 
 // Ugly as Sin
 TAG_FLARE                        = "UAC Standard Emergency Flare";
 TAG_GLOWSTICK                    = "Glowstick";
 TAG_GYROSTABILIZER               = "UAC Specialist Gyroscopic Stabilizer";
-TAG_LLM                          = "Light/Laser module";
+TAG_LLM                          = "UAC Standard Infantry Light/Laser Module";
 TAG_RESPIRATOR                   = "UAC Emergency Respirator";
 TAG_SLING                        = "Weapon Sling";
 
+
+//-------------------------------------
+// Ammo Conversion Pickup Messages
+//-------------------------------------
+
+TAG_10RELOADER                   = "10mm Reloading Device";
+TAG_7MMSPEEDLOADER               = "7.76mm Reloading Device";
+TAG_HACKEDRELOADER               = "7.76mm Reloading Device";
+TAG_RELOADER                     = "7.76mm Reloading Device";
+TAG_S300RELOADER                 = ".300 Savage Reloading Device";
+TAG_TOKRELOADER                  = "7.62mm Tokarev Reloading Device";
 
 //-------------------------------------
 // Anomalous Item Tags
@@ -479,10 +513,13 @@ TAG_MANCUBUSCANNON               = "Mancubus Arm Cannon";
 // Vanilla HDest
 TAG_BANDAGES                     = "Improvised Bandages";
 TAG_STIMPACK                     = "UAC Standard Emergency Stimpack";
-TAG_MEDIKIT                      = "UAC Standard Medikit";
+TAG_MEDIKIT                      = "UAC Standard Medical Kit";
 TAG_2NDFLESHAPP                  = "UAC Standard \"Second Flesh\" Applicator";
 TAG_BLOODPACK                    = "UAC Standard Synthetic Bloodpack";
 TAG_ZERKPACK                     = "UAC Specialist \"Berserk\" Pack";
+
+// Hexadoken
+TAG_DMS                          = "UAC Standard Emergency Medical Scanner";
 
 // Radtech
 TAG_FIELDMEDICKIT                = "UAC Standard Field Medical Kit";
@@ -500,7 +537,7 @@ TAG_2FCARTRIDGE                  = "UAC Standard \"Second Flesh\" Auto-Suture Ca
 TAG_ARMOUR                       = "Armor";
 TAG_GARRISONARMOUR               = "UAC Standard Infantry Armor";
 TAG_BATTLEARMOUR                 = "UAC Specialist Battle Armor";
-TAG_HEVARMOUR                    = "Hazardous Environment Armor";
+TAG_HEVARMOUR                    = "UAC Specialist Hazardous Environment Armor";
 TAG_JACKET                       = "Leather Jacket";
 TAG_HHELMET                      = "UAC Standard Infantry Helmet";
 
@@ -510,6 +547,9 @@ TAG_BATTLEARMOUR_SPARE           = "UAC Specialist Battle Armor (spare)";
 TAG_HEVARMOURSPARE               = "Hazardous Environment Armor (spare)";
 TAG_JACKETSPARE                  = "Leather Jacket (spare)";
 TAG_HHELMETSPARE                 = "UAC Standard Infantry Helmet (spare)";
+
+// PB's Armor Plates
+TAG_ARMORPLATE                   = "UAC Standard Ceramic Armor Plate";
 
 
 //-------------------------------------
@@ -639,7 +679,7 @@ PICKUP_AUTOMAG                   = "Picked up a SP-50 .50 AM Magnum Handgun.";
 PICKUP_BUGERM22                  = "Picked up a Buger M22 5x12mm Bumblebee Rimfire Rifle.";
 PICKUP_CAWS                      = "Picked up a H&M CAWS 12ga Automatic Shotgun.";
 PICKUP_CGM25                     = "Picked up a DLA&M ATCM-35 Homing Missile Launcher.";
-PICKUP_COLTCOMMANDO              = "Picked up a Volt R0355 HPC \"Commando\" .355 Masterball SMG.";
+PICKUP_COLTCOMMANDO              = "Picked up a Volt R0355 \"Commando\" .355 Masterball SMG.";
 PICKUP_CONCGRENADES              = "";
 PICKUP_DEVINCENZIA               = "Picked up a Berlinghoff XM135 \"Devincenzia\" 35mm Anti-Materiel Rifle.";
 PICKUP_EXTINGUISHER              = "Picked up a UAC Emergency Fire Extinguisher.";
@@ -756,6 +796,18 @@ PICKUP_REAPER_GL                 = "Picked up a Satichon \"Reaper\" 12ga Automat
 PICKUP_REAPER_ZM                 = "Picked up a Satichon \"Reaper\" 12ga Automatic Combat Shotgun.";
 PICKUP_THOMPSON                  = "Picked up a Volt Thompson .45 ACP SMG.";
 PICKUP_THOMPSON_NINEMIL          = "Picked up a Volt Thompson 9x22mm SMG.";
+
+// UZ's HDest Weapons
+PICKUP_BHG                       = "Picked up a Black Hole Generator.";
+PICKUP_CLAYMORE                  = "Picked up a claymore mine.";
+PICKUP_CLAYMORE_BOX              = "Picked up a box of claymore mines.";
+PICKUP_LANDMINE                  = "Picked up a land mine.";
+PICKUP_LANDMINE_BOX              = "Picked up a box of land mines.";
+PICKUP_LANDMINE_DEACTIVATE       = "Picked up (and deactivated) a land mine.";
+PICKUP_LASER_TRIPBOMB            = "Picked up a laser trip-bomb.";
+PICKUP_PIPEBOMB                  = "Picked up a pipe bomb.";
+PICKUP_PIPEBOMB_DEACTIVATE       = "Picked up (and deactivated) a pipe bomb.";
+PICKUP_PIPEBOMB_DETONATOR        = "Picked up a detonator.";
 
 // WAN Industries
 WAN_PICK_MA75B                   = "Picked up a WAN MA-75B 7.76mm Battle Rifle.";
@@ -875,6 +927,8 @@ PICKUP_50OMGCLIP                 = "Picked up a .50 OMG Clip.";
 // Icarus's Innovations, Improved
 PICKUP_GASTANK_PREFIX            = "Picked up a ";
 PICKUP_GASTANK_SUFFIX            = ".";
+PICKUP_MBRMAGHEAVY               = "Picked up a MBR .500 S&W Heavy Magazine.";
+PICKUP_MBRMAGLIGHT               = "Picked up a MBR .500 S&W Light Magazine.";
 PICKUP_NYXMAG                    = "Picked up a Nyx .355 Masterball Magazine.";
 PICKUP_PD42MAG_PREFIX            = "Picked up a ";
 PICKUP_PD42MAG_SUFFIX            = ".";
@@ -894,6 +948,7 @@ PICKUP_50OMG_BELTBOX             = "Picked up a .50 OMG Beltbox.";
 PICKUP_7MM_BELTBOX               = "Picked up a 7.76mm Beltbox.";
 PICKUP_BUGERM22_MAG              = "Picked up a Buger M22 5x12mm Magazine.";
 PICKUP_CAWS_MAG                  = "Picked up a H&M CAWS 12ga Magazine.";
+PICKUP_COLTCOMMANDOMAG           = "Picked up a Volt R0355 \"Commando\" .355 Masterball Magazine.";
 PICKUP_DEVINCENZIA_MAG           = "Picked up a XM135 \"Devincenzia\" 35mm Anti-Materiel Magazine.";
 PICKUP_FAL_MAG                   = "Picked up a L7A1 7.76mm Drum Magazine.";
 PICKUP_G11_MAG                   = "Picked up a G26 4.26mm Magazine.";
@@ -980,8 +1035,15 @@ PICKUP_TELEPORTER                = "Picked up a UAC Specialist Portable Teleport
 // Cross Pulse ThunderBuster
 PICKUP_XTK                       = "Picked up a "Thunder Buster" Cross-Pulse Modification Kit.";
 
+// Handcharge
+PICKUP_HANDCHARGE                = "Picked up a CRNK-M battery charger.";
+
 // Radtech
 PICKUP_ANTIRADBOOTS              = "Picked up a pair of UAC Environmental Protection Boots.";
+
+// Spicy Air
+PICKUP_GASMASK                   = "Picked up a UAC Specialist gas mask.";
+PICKUP_GASMASKFILTER             = "Picked up a gas mask air filter.";
 
 // Ugly as Sin
 PICKUP_2FCARTRIDGE               = "Picked up a UAC Standard \"Second Flesh\" Auto-Suture Cartridge.";
@@ -1046,20 +1108,21 @@ PICKUP_BATTLEARMOUR              = "Picked up a suit of battle armor.";
 PICKUP_HEVARMOUR                 = "Picked up a suit of H.E.V. armor.";
 PICKUP_JACKET                    = "Picked up a leather jacket.";
 PICKUP_HHELMET                   = "Picked up a UAC standard infantry helmet";
+PICKUP_ARMORPLATE                = "Picked up an armor plate.";
 
 
 //-------------------------------------
 // Reusable Ammo Box Tags
 //-------------------------------------
 
-TAG_9MM_BOX                      = "9x22mm Ammo Box";
+TAG_9MM_BOX                      = "9x22mm Parampudicum Ammo Box";
 TAG_SHELL_BOX                    = "12ga 00 Buckshot Shell Box";
 TAG_7MM_BOX                      = "7.76mm Ammo Box";
 TAG_355_BOX                      = ".355 Masterball Ammo Box";
 TAG_RPG_BOX                      = "40mm Rocket Grenade Box";
 TAG_4G_SHELL_BOX                 = "4ga 00 Buckshot Shell Box";
 TAG_4G_SLUG_BOX                  = "4ga Saboted Slug Box";
-TAG_5MM_BOX                      = "5x12mm Ammo Box";
+TAG_5MM_BOX                      = "5x12mm Bumblebee Rimfire Ammo Box";
 TAG_6MM_BOX                      = "6x42mm Flechette Ammo Box";
 TAG_10MM_BOX                     = "10mm Ammo Box";
 TAG_45ACP_BOX                    = ".45 ACP Ammo Box";
@@ -1067,6 +1130,7 @@ TAG_45LC_BOX                     = ".45 Long Colt Ammo Box";
 TAG_50AE_BOX                     = ".50 Action Express Ammo Box";
 TAG_50AM_BOX                     = ".50 Action Mega Ammo Box";
 TAG_50OMG_BOX                    = ".50 OMG Ammo Box";
+TAG_20MM_BOX                     = "20mm Grenade Box";
 TAG_500_HEAVY_BOX                = ".500 S&W Heavy Ammo Box";
 TAG_500_LIGHT_BOX                = ".500 S&W Light Ammo Box";
 TAG_762TOKAREV_BOX               = "7.62mm Tokarev Ammo Box";
@@ -1076,21 +1140,22 @@ TAG_300SAVAGE_BOX                = ".300 Savage Ammo Box";
 TAG_420_BOX                      = ".451 Frei Ammo Box";
 TAG_FLARE_BOX                    = "12ga Flare Shell Box";
 TAG_LESSLETHAL_BOX               = "12ga #1 Buck Rubber Shell Box";
-TAG_BIRDSHOT_BOX                 = "20ga Birdshot Shell Box";
+TAG_BIRDSHOT_BOX                 = "20ga #3 Birdshot Shell Box";
 TAG_SLUG_BOX                     = "12ga Slug Box";
 TAG_EXPLOSIVE_SHELL_BOX          = "12ga HE-Slug Box";
+TAG_NDM_BOX                      = "9x25mm Nail Driver Maximum Ammo Box";
 
 
 //-------------------------------------
 // Reusable Ammo Box Pickup Messages
 //-------------------------------------
 
-PICKUP_9MM_BOX                   = "Picked up a box of 9x22mm rounds.";
-PICKUP_SHELL_BOX                 = "Picked up a box of 12ga 00 buckshot Shells.";
+PICKUP_9MM_BOX                   = "Picked up a box of 9x22mm Parampudicum rounds.";
+PICKUP_SHELL_BOX                 = "Picked up a box of 12ga 00 buckshot shells.";
 PICKUP_7MM_BOX                   = "Picked up a box of 7.76mm rounds.";
 PICKUP_355_BOX                   = "Picked up a box of .355 Masterball rounds.";
 PICKUP_RPG_BOX                   = "Picked up a box of 40mm Rocket Grenades.";
-PICKUP_4G_SHELL_BOX              = "Picked up a box of 4ga 00 Buckshot Shells.";
+PICKUP_4G_SHELL_BOX              = "Picked up a box of 4ga 00 Buckshot shells.";
 PICKUP_4G_SLUG_BOX               = "Picked up a box of 4ga Saboted Slugs.";
 PICKUP_5MM_BOX                   = "Picked up a box of 5x12mm Bumblebee Rimfire rounds.";
 PICKUP_SLUG_BOX                  = "Picked up a box of 12ga Slugs.";
@@ -1102,16 +1167,17 @@ PICKUP_45LC_BOX                  = "Picked up a box of .45 Long Colt rounds.";
 PICKUP_50AE_BOX                  = "Picked up a box of .50 Action Express rounds.";
 PICKUP_50AM_BOX                  = "Picked up a box of .50 Action Mega rounds.";
 PICKUP_50OMG_BOX                 = "Picked up a box of .50 OMG rounds.";
+PICKUP_20MM_BOX                  = "Picked up a box of 20mm Grenades.";
 PICKUP_500_HEAVY_BOX             = "Picked up a box of .500 S&W Heavy rounds.";
 PICKUP_500_LIGHT_BOX             = "Picked up a box of .500 S&W Light rounds.";
 PICKUP_762TOKAREV_BOX            = "Picked up a box of 7.62mm Tokarev rounds.";
-PICKUP_069_BOX                   = "Picked up a box of .410 000 Buckshot Shells.";
+PICKUP_069_BOX                   = "Picked up a box of .410 000 Buckshot shells.";
 PICKUP_3006_BOX                  = "Picked up a box of .30-06 rounds.";
 PICKUP_300SAVAGE_BOX             = "Picked up a box of .300 Savage rounds.";
 PICKUP_420_BOX                   = "Picked up a box of .451 Frei rounds.";
-PICKUP_BIRDSHOT_BOX              = "Picked up a box of 20ga #3 Birdshot Shells.";
-PICKUP_FLARE_BOX                 = "Picked up a box of 12ga Flare Shells.";
-PICKUP_LESSLETHAL_BOX            = "Picked up a box of 12ga #1 Buck Rubber Shells.";
+PICKUP_BIRDSHOT_BOX              = "Picked up a box of 20ga #3 Birdshot shells.";
+PICKUP_FLARE_BOX                 = "Picked up a box of 12ga Flare shells.";
+PICKUP_LESSLETHAL_BOX            = "Picked up a box of 12ga #1 Buck Rubber shells.";
 
 
 
