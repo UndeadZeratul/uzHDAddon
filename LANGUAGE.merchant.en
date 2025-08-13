@@ -616,12 +616,12 @@ MERCH_TAG_AMMOPOUCH               = "$$TAG_AMMOPOUCH";
 MERCH_FLAVOR_AMMOPOUCH            = "I swear I had some ammo in here somewhere.";
 
 // Area Map
-MERCH_CAT_ALLMAP                  = "$$$$MERCH_CAT_ITEM_EQUIPMENT";
+MERCH_CAT_ALLMAP                  = "$$MERCH_CAT_ITEM_EQUIPMENT";
 MERCH_TAG_ALLMAP                  = "$$TAG_MAPGIVER";
 MERCH_FLAVOR_ALLMAP               = "It won't treat your topographical cretinism, but you'll surely make it to the exit.";
 
 // Armour Patch Kit
-MERCH_CAT_ARMOURPATCHKIT          = "$$$$MERCH_CAT_ITEM_EQUIPMENT";
+MERCH_CAT_ARMOURPATCHKIT          = "$$MERCH_CAT_ITEM_EQUIPMENT";
 MERCH_TAG_ARMOURPATCHKIT          = "$$TAG_ARMORPATCHKIT";
 MERCH_FLAVOR_ARMOURPATCHKIT       = "Patch yerself up, soldier!";
 
@@ -641,7 +641,7 @@ MERCH_TAG_BERSERK                 = "$$TAG_ZERKPACK";
 MERCH_FLAVOR_BERSERK              = "Do not overdose. Oh who am I kidding, of course you will.";
 
 // Binoculars
-MERCH_CAT_BINOCULARS              = "$$$$MERCH_CAT_ITEM_EQUIPMENT";
+MERCH_CAT_BINOCULARS              = "$$MERCH_CAT_ITEM_EQUIPMENT";
 MERCH_TAG_BINOCULARS              = "Binoculars";
 MERCH_FLAVOR_BINOCULARS           = "A pair of binoculars. Attuned so well that you can see yourself in the demon's eyes from a mile away.";
 
@@ -651,12 +651,12 @@ MERCH_TAG_BLOODBAG                = "$$TAG_BLOODPACK";
 MERCH_FLAVOR_BLOODBAG             = "'Tis but a scratch.";
 
 // Booster Jets
-MERCH_CAT_BOOSTERJETS             = "$$$$MERCH_CAT_ITEM_EQUIPMENT";
+MERCH_CAT_BOOSTERJETS             = "$$MERCH_CAT_ITEM_EQUIPMENT";
 MERCH_TAG_BOOSTERJETS             = "$$TAG_BOOSTERJETS";
 MERCH_FLAVOR_BOOSTERJETS          = "Wheeeeeeeeeeeee!";
 
 // Cross-Pulse Thunder Buster Modification Kit
-MERCH_CAT_CROSSPULSEMODKIT        = "$$$$MERCH_CAT_ITEM_EQUIPMENT";
+MERCH_CAT_CROSSPULSEMODKIT        = "$$MERCH_CAT_ITEM_EQUIPMENT";
 MERCH_TAG_CROSSPULSEMODKIT        = "$$TAG_XTK";
 MERCH_FLAVOR_CROSSPULSEMODKIT     = "Take your plasmagun to the next level of hideous destruction.";
 
