@@ -48,6 +48,22 @@ TAG_BOSS                         = "L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Rifle
 TAG_GREFRAG                      = "M67.1A Fragmentation Grenades";
 TAG_BFG9000                      = "Botis Field Glyph v9.0";
 
+// 1337Weps
+TAG_AA12                         = "AA-12 12ga Automatic Assault Shotgun";
+TAG_AURY                         = "VPF Arms \"Aurochs\" .451 Single-Action Revolver";
+TAG_AUTO5                        = "M&S LTD \"Baileya\" 12ga Slug Rifle";
+TAG_BPX	                         = "LIG Mauer BPX 9x22mm Carbine";
+TAG_CBT                          = "Concussive Blast Transmitter";
+TAG_COYOTE                       = "VPF Arms \"Wild Coyote\" .451 Automag Handgun";
+TAG_DMR                          = "PG667 4.26mm Designated Marksman Rifle";
+TAG_KIL7                         = "VPF Arms \"Killer7\" .500 S&W Handgun";
+TAG_NSB                          = "L&M Mk. IV \"Boss\" 7.76mm Bolt-Action Rifle";
+TAG_QUADSHOT                     = "\"Deliverer\" 12ga Quad-Barreled Shotgun";
+TAG_SHAK12                       = "\"Brahmastra\" .500 S&W Rifle";
+TAG_SILENCEDPISTOL               = "Suppressed Grokk 15 9x22mm Pistol";
+TAG_SILENCEDPISTOL_AUTO          = "Suppressed Grokk 15 9x22mm Pistol";
+TAG_YEYU                         = "VPF Arms \"Yeyuze\" 40mm Pump-Action Grenade Launcher";
+
 // AceCorp: Engineering Department
 TAG_BLACKHAWK                    = "AceCorp \"Blackhawk\" Hi-Tech Crossbow";
 TAG_BLACKJACK                    = "AceCorp \"Blackjack\" .355 Masterball Rifle";
@@ -59,6 +75,10 @@ TAG_REDLINE                      = "AceCorp RDL-N3 \"Redline\" Thermal Lance";
 TAG_SCORPION                     = "AceCorp \"Scorpion\" 35mm Sniper Cannon";
 TAG_VIPER                        = "AceCorp \"Viper\" .50 Action Mega Handgun";
 TAG_WYVERN                       = "AceCorp \"Wyvern\" .50 OMG Double-Barreled Rifle";
+
+// AceCorp: ReInvigorated
+TAG_GREENLINE                    = "AceCorp GNL-N3 \"Greenline\" Thermal Lance";
+TAG_MODEST                       = "AceCorp \"Modest\" .500 S&W Railgun";
 
 // Altis O/U Shotgun
 TAG_ALTIS                        = "Altis \"Over-and-Under\" 12ga Shotgun";
@@ -327,11 +347,22 @@ TAG_7MMAG                        = "Volt 7.76mm Magazine";
 TAG_7MCLIP                       = "7.76mm Clip";
 TAG_BATTERY                      = "Cell Battery";
 
+// 1337Weps
+TAG_A12SHL                       = "AA-12 12ga Drum Magazine";
+TAG_A12SLU                       = "AA-12 12ga Slug Magazine";
+TAG_COYMAG                       = "\"Wild Coyote\" .451 Frei Magazine";
+TAG_KL7MAG                       = "\"Killer7\" .500 S&W Magazine";
+TAG_SHAKMAG                      = "\"Brahmastra\" .500 S&W Magazine";
+TAG_SLUSPED                      = "\"Baileya\" 12ga Slug Speedloader";
+
 // AceCorp: Engineering Department
 TAG_BLACKJACKMAG_355             = "\"Blackjack\" .355 Masterball Magazine";
 TAG_BLACKJACKMAG_SHELL           = "\"Blackjack\" 12ga 00 Buckshot Shell Magazine";
 TAG_MAJESTICMAG                  = "\"Majestic\" .500 S&W Cylinder";
 TAG_VIPERMAG                     = "\"Viper\" .50 Action Mega Magazine";
+
+// AceCorp: ReInvigorated
+TAG_MODESTMAG                    = "\"Modest\" .500 S&W Cylinder";
 
 // Hexadoken's Legacy, Continued
 TAG_50OMGCLIP                    = ".50 OMG Clip";
@@ -368,7 +399,7 @@ PEPPER_TAG_355MAG                = "\"Helzing\" .355 Masterball Magazine";
 PEPPER_TAG_9MCLIP                = "9x22mm Clip";
 PEPPER_TAG_BIGNDMMAG             = "BreakerTek 9x25mm NDM Magazine";
 PEPPER_TAG_COYOTEMAG             = "\"Wild Coyote\" .451 Frei Magazine";
-PEPPER_TAG_KILLER7MAG            = "\"Killer7\" .500 Magazine";
+PEPPER_TAG_KILLER7MAG            = "\"Killer7\" .500 S&W Magazine";
 PEPPER_TAG_NDM_MAG               = "9x25mm NDM Magazine";
 PEPPER_TAG_TROGMAG               = "Volt AR-29 4.26mm magazine";
 PEPPER_TAG_YUREIMAG              = "Yurei 9x22mm Magazine";
@@ -449,6 +480,10 @@ TAG_SUPPLYBEACON                 = "UAC Standard Supply Beacon";
 TAG_TELEPORTER                   = "UAC Specialist Portable Teleporter";
 TAG_UNIVERSAL_RELOADER           = "AceCorp Universal Reloading Device";
 TAG_WEAPONCRATE                  = "UAC Standard Weapon Crate";
+
+// AceCorp: ReInvigorated
+TAG_PZG                          = "AceCorp Perzonal Zhield Ghenerator";
+TAG_REARWARDMIRROR               = "Hindsight Mirror";
 
 // Cross Pulse ThunderBuster
 TAG_XTK                          = "\"Thunder Buster\" Cross-Pulse Modification Kit";
@@ -575,6 +610,19 @@ PICKUP_BOSSRIFLE                 = "Picked up a L&M Mk. IV \"Boss\" Bolt-Action 
 PICKUP_GRENADE                   = "Picked up a M67.1A Fragmentation Grenade.";
 PICKUP_BFG9000                   = "Picked up a Botis Field Glyph v9.0";
 
+// 1337Weps
+PICKUP_WEPGENERICSTR             = "Picked up a ";
+PICKUP_WEPGENERICEND             = ".";
+
+PICKUP_AURORCHS                  = "Picked up a VPF Arms \"Aurochs\" .451 Single-Action Revolver.";
+PICKUP_AUTO5                     = "Picked up a M&S LTD \"Baileya\" 12ga Slug Rifle.";
+PICKUP_BPX                       = "Picked up a LIG Mauer BPX 9x22mm Carbine.";
+PICKUP_COYOTE                    = "Picked up a VPF Arms \"Wild Coyote\" .451 Automag Handgun.";
+PICKUP_DMR                       = "Picked up a PG667 4.26mm Designated Marksman Rifle.";
+PICKUP_KILLER7                   = "Picked up a VPF Arms \"Killer7\" .500 S&W Handgun.";
+PICKUP_SHAK12                    = "Picked up a \"Brahmastra\" .500 S&W Rifle.";
+PICKUP_YEYU                      = "Picked up a VPF Arms \"Yeyuze\" 40mm Pump-Action Grenade Launcher.";
+
 // AceCorp: Engineering Department
 PICKUP_BLACKHAWK_PREFIX          = "Picked up a ";
 PICKUP_BLACKHAWK_SUFFIX          = ".";
@@ -588,10 +636,6 @@ PICKUP_BLACKHAWKBOLT_N_PREFIX    = "Picked up a ";
 PICKUP_BLACKHAWKBOLT_N_SUFFIX    = ".";
 PICKUP_BLACKJACK_PREFIX          = "Picked up a ";
 PICKUP_BLACKJACK_SUFFIX          = ".";
-PICKUP_BLACKJACKMAG_355_PREFIX   = "Picked up a ";
-PICKUP_BLACKJACKMAG_355_SUFFIX   = ".";
-PICKUP_BLACKJACKMAG_SHELL_PREFIX = "Picked up a ";
-PICKUP_BLACKJACKMAG_SHELL_SUFFIX = ".";
 PICKUP_GUNGNIR_PREFIX            = "Picked up a ";
 PICKUP_GUNGNIR_ACCELERATOR       = "";
 PICKUP_GUNGNIR_CAPACITOR         = "";
@@ -605,8 +649,6 @@ PICKUP_JACKDAW_SUFFIX            = ".";
 PICKUP_MAJESTIC_PREFIX           = "Picked up a ";
 PICKUP_MAJESTIC_ACCELERATOR      = "";
 PICKUP_MAJESTIC_SUFFIX           = ".";
-PICKUP_MAJESTICMAG_PREFIX        = "Picked up a ";
-PICKUP_MAJESTICMAG_SUFFIX        = ".";
 PICKUP_REDLINE_PREFIX            = "Picked up a ";
 PICKUP_REDLINE_LOCKON            = "";
 PICKUP_REDLINE_SUFFIX            = ".";
@@ -616,8 +658,6 @@ PICKUP_VIPER_PREFIX              = "Picked up a ";
 PICKUP_VIPER_HEAVYFRAME          = "";
 PICKUP_VIPER_EXTENDEDBARREL      = "";
 PICKUP_VIPER_SUFFIX              = ".";
-PICKUP_VIPERMAG_PREFIX           = "Picked up a ";
-PICKUP_VIPERMAG_SUFFIX           = ".";
 PICKUP_WYVERN_PREFIX             = "Picked up a ";
 PICKUP_WYVERN_AUTOLOADER         = "";
 PICKUP_WYVERN_SUFFIX             = ".";
@@ -890,7 +930,7 @@ PICKUP_45ACPBOX                  = "Picked up a box of .45 ACP rounds.";
 PICKUP_4GS                       = "Picked up a 4ga Saboted Slug.";
 PICKUP_MUSKETBALL                = "Picked up a Lead Ball.";
 PICKUP_500SWL                    = "Picked up a .500 S&W Light round.";
-PICKUP_500SWLBOX                 = "Picked up a box of .500 S&W rounds.";
+PICKUP_500SWLBOX                 = "Picked up a box of .500 S&W Light rounds.";
 PICKUP_500SWH                    = "Picked up a .500 Heavy round.";
 PICKUP_500SWHBOX                 = "Picked up a box of .500 S&W Heavy rounds.";
 PICKUP_SLUG                      = "Picked up a 12ga Slug.";
@@ -920,6 +960,21 @@ PICKUP_4MMAG                     = "Picked up a Volt 4.26mm Magazine.";
 PICKUP_9MMAG30                   = "Picked up a 9x22mm SMG Magazine.";
 PICKUP_7MMAG                     = "Picked up a Volt 7.76mm Magazine.";
 PICKUP_BATTERY                   = "Picked up a Cell Battery.";
+
+// 1337Weps
+PICKUP_COYOTEMAG                 = "Picked up a \"Wild Coyote\" .451 Magazine.";
+PICKUP_KILLER7MAG                = "Picked up a \"Killer7\" .500 S&W Magazine.";
+PICKUP_SLUGLOADER                = "Picked up a 12ga Slug Speedloader.";
+
+// AceCorp: Engineering Department
+PICKUP_BLACKJACKMAG_355_PREFIX   = "Picked up a ";
+PICKUP_BLACKJACKMAG_355_SUFFIX   = ".";
+PICKUP_BLACKJACKMAG_SHELL_PREFIX = "Picked up a ";
+PICKUP_BLACKJACKMAG_SHELL_SUFFIX = ".";
+PICKUP_MAJESTICMAG_PREFIX        = "Picked up a ";
+PICKUP_MAJESTICMAG_SUFFIX        = ".";
+PICKUP_VIPERMAG_PREFIX           = "Picked up a ";
+PICKUP_VIPERMAG_SUFFIX           = ".";
 
 // Hexadoken's Legacy, Continued
 PICKUP_50OMGCLIP                 = "Picked up a .50 OMG Clip.";
@@ -962,7 +1017,7 @@ PICKUP_STEYR_MAG                 = "Picked up a Austere 6x42mm Flechette Magazin
 PEPPER_PICKUP_9MCLIP             = "Picked up a 9x22mm Clip.";
 PEPPER_PICKUP_355MAG             = "Picked up a Helzing .355 Masterball Magazine.";
 PEPPER_PICKUP_BIGNDMMAG          = "Picked up a P90 9x25mm NDM Magazine.";
-PEPPER_PICKUP_COYOTEMAG          = "Picked up a Coyote .451 Magazine.";
+PEPPER_PICKUP_COYOTEMAG          = "Picked up a \"Wild Coyote\" .451 Magazine.";
 PEPPER_PICKUP_KILLER7MAG         = "Picked up a Killer7 .500 S&W Magazine.";
 PEPPER_PICKUP_NDM_MAG            = "Picked up a Guillotine 9x25mm NDM Magazine.";
 PEPPER_PICKUP_TROGMAG            = "Picked up a TRO-G 4.26mm magazine.";

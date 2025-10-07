@@ -580,6 +580,44 @@ MERCH_FLAVOR_WPGRENADE            = "So good, Geneva had a convention for them!"
 // ITEMS
 // -------------------
 
+
+// 1337Weps
+LEETCAT                           = "1337weps";
+
+LEETFLAVOR_AUROCHS                = "A revolver that loads both .451 Frei rounds and .066 Bore shells. Single action only.";
+LEETFLAVOR_AUTO5                  = "A semi-auto only hunting shotgun chambered in slugs, can mount a scope instead of irons.";
+LEETFLAVOR_BPX                    = "A pistol caliber carbine chambered in 9mm, can mount a scope/reflex sight.";
+LEETFLAVOR_DMR                    = "A 4.26 designated marksman rifle. Uses UAC Standard magazines, be wary of stoppages.";
+LEETFLAVOR_YEYUZE                 = "A pump action grenade launcher. Simple as.";
+LEETFLAVOR_CBT                    = "A plasma blaster with a shield busting slug and flesh destroying spread mode.";
+LEETFLAVOR_KIL7                   = "A massive handcannon in .500 Magnum. Comes with an integrally mounted scope.";
+LEETFLAVOR_COYOTE                 = "A magnum pistol that loads .451 Frei. Includes a built in UBSG/20mm UBGL.";
+LEETFLAVOR_SHAK                   = "A CQB rifle chambered in .500 Wildcats. Mind the failures to feed.";
+LEETFLAVOR_NSB                    = "A boss rifle with no scope. Yup.";
+LEETFLAVOR_AAS                    = "A fully automatic assault shotgun with shell loading drum mags/slug loading box mags.";
+LEETFLAVOR_QUD                    = "A quadruple barreled shotgun with three firemodes. Be wary of firing four slugs at once.";
+LEETFLAVOR_SPI                    = "A pistol with a mounted suppressor and threaded barrel.";
+
+// Mags
+LEETFLAVOR_KIL7MAG                = "A seven round steel magazine loaded with .500 Magnum";
+LEETFLAVOR_COYMAG                 = "A seven round magazine loaded with .451 Frei.";
+LEETFLAVOR_AA12MAG                = "A massive drum magazine with 32 buckshot shells.";
+LEETFLAVOR_AA12MAGSLUG            = "A box magazine loaded with 8 slugs.";
+LEETFLAVOR_SHAKMAG                = "A 10 round bakelite magazine loaded with .500 Wildcat.";
+
+
+// AceCorp: ReInvigorated
+ACRIV_CAT                         = "AceCorp";
+
+ACRIVFLAVOR_GREENLINE             = "A mean, green, legally distinct killing machine! That's also not green! Despite the name!";
+ACRIVFLAVOR_MODEST                = "Still hits hard, despite its age! May not be as virile as the old days though.";
+
+ACRIVFLAVOR_PZG                   = "Don't look too hard at the label. Still works perfectly fine. I hope.";
+ACRIVFLAVOR_HINDSIGHT             = "Forethought not included.";
+
+ACRIVFLAVOR_MODESTMAG             = "Not so Majestic now, aye?";
+
+
 // 10mm Reloading Device
 MERCH_CAT_10MMRELOADER            = "$$MERCH_CAT_ITEM_AMMOCONVERT";
 MERCH_TAG_10MMRELOADER            = "$$TAG_10RELOADER";
@@ -865,6 +903,11 @@ MERCH_CAT_ROCKETASSEMBLER         = "$$MERCH_CAT_ITEM_EQUIPMENT";
 MERCH_TAG_ROCKETASSEMBLER         = "Rocket Assembler";
 MERCH_FLAVOR_ROCKETASSEMBLER      = "Warning: Do not try at home.";
 
+//Sabre Sheath
+MERCH_CAT_SABRESHEATH             = "$$MERCH_CAT_ITEM_EQUIPMENT";
+MERCH_TAG_SABRESHEATH             = "Cavalry Sabre Sheath";
+MERCH_FLAVOR_SABRESHEATH          = "Um..you do have the sword already, right?";
+
 // Secret Finder
 MERCH_CAT_SECRETFINDER            = "$$MERCH_CAT_ITEM_EQUIPMENT";
 MERCH_TAG_SECRETFINDER            = "$$TAG_SECRETFINDER";
@@ -929,6 +972,11 @@ MERCH_FLAVOR_ZRADAR               = "They're coming out of the god damn walls!";
 MERCH_CAT_4MMMAG                  = "$$MERCH_CAT_MAG_RIFLE";
 MERCH_TAG_4MMMAG                  = "$$TAG_4MMAG";
 MERCH_FLAVOR_4MMMAG               = "Luckily for you, these magazines come with the DRM intact.";
+
+// .50 OMG Clip
+MERCH_CAT_50OMGCLIP               = "$$MERCH_CAT_MAG_CLIP";
+MERCH_TAG_50OMGCLIP               = "$$TAG_50OMGCLIP";
+MERCH_FLAVOR_50OMGCLIP            = "";
 
 // 7mm Belt Box
 MERCH_CAT_7MMBELTBOX              = "Bangers & Mash";
@@ -1785,6 +1833,11 @@ MERCH_CAT_RUGER1022               = "$$MERCH_CAT_WEAPON_RIFLE";
 MERCH_TAG_RUGER1022               = "$$TAG_BUGERM22";
 MERCH_FLAVOR_RUGER1022            = "Gone from plinkin\" beer cans to plinkin\" babuins.";
 
+//Sabre
+MERCH_CAT_SABRE                   = "$$MERCH_CAT_WEAPON_MELEE";
+MERCH_TAG_SABRE                   = "Cavalry Sabre";
+MERCH_FLAVOR_SABRE                = "Sheath not included. trust me, you might want one.";
+
 // Savage 99
 MERCH_CAT_SAVAGE99                = "$$MERCH_CAT_WEAPON_RIFLE";
 MERCH_TAG_SAVAGE99                = "$$TAG_S99";
@@ -1974,3 +2027,58 @@ MERCH_FLAVOR_ZM94                 = "Great for assassinating MBTs and other forc
 MERCH_CAT_ZORCHER                 = "$$MERCH_CAT_WEAPON_ENERGY";
 MERCH_TAG_ZORCHER                 = "$$PEPPER_TAG_ZORCHER";
 MERCH_FLAVOR_ZORCHER              = "These don't come with a cereal box. Sorry.";
+
+
+// -------------------
+// MONGOOSE POWERSUIT PARTS
+// -------------------
+
+// Mongoose Powersuit
+MERCH_CAT_POWERSUIT               = "\"Mongoose\" Powersuit";
+MERCH_TAG_POWERSUIT               = "\"Mongoose\" Powersuit";
+MERCH_FLAVOR_POWERSUIT            = "Your personal powermech which doesn't even require a class M driver's license. Yay!";
+
+// Mongoose Powersuit Core
+MERCH_CAT_POWERSUITCORE           = "\"Mongoose\" Powersuit";
+MERCH_TAG_POWERSUITCORE           = "\"Mongoose\" Powersuit Core";
+MERCH_FLAVOR_POWERSUITCORE        = "You can't even hide in there.";
+
+// Mongoose Powersuit Arms
+MERCH_CAT_POWERSUITARMS           = "\"Mongoose\" Powersuit";
+MERCH_TAG_POWERSUITARMS           = "\"Mongoose\" Powersuit Arms";
+MERCH_FLAVOR_POWERSUITARMS        = "Ruki-zagrebuki.";
+
+// Mongoose Powersuit Legs
+MERCH_CAT_POWERSUITLEGS           = "\"Mongoose\" Powersuit";
+MERCH_TAG_POWERSUITLEGS           = "\"Mongoose\" Powersuit Legs";
+MERCH_FLAVOR_POWERSUITLEGS        = "Left! Right! Left! Right!";
+
+
+// -------------------
+// MONGOOSE POWERSUIT WEAPONS
+// -------------------
+
+// "Athena" Light Cannon
+MERCH_CAT_ATHENALIGHTCANNON       = "\"Mongoose\" Weapons";
+MERCH_TAG_ATHENALIGHTCANNON       = "\"Athena\" light cannon";
+MERCH_FLAVOR_ATHENALIGHTCANNON    = "You wanna fight a cyberdemon 1 on 1? Well, this is for you.";
+
+// "Calinicus" Automatic Grenade Launcher
+MERCH_CAT_CALINICUSAUTOLAUNCHER   = "\"Mongoose\" Weapons";
+MERCH_TAG_CALINICUSAUTOLAUNCHER   = "\"Calinicus\" automatic grenade launcher";
+MERCH_FLAVOR_CALINICUSAUTOLAUNCHER= "For when a crowd of zombies stands in your way.";
+
+// "Jackripper" Hybrid Machine Gun
+MERCH_CAT_JACKRIPPERHYBRIDMG      = "\"Mongoose\" Weapons";
+MERCH_TAG_JACKRIPPERHYBRIDMG      = "\"Jackripper\" hybrid machine gun";
+MERCH_FLAVOR_JACKRIPPERHYBRIDMG   = "Can't choose between 12 gauge and 9mm? Then why not both?";
+
+// "Leonidas" Light Machine Gun
+MERCH_CAT_LEONIDASLIGHTMG         = "\"Mongoose\" Weapons";
+MERCH_TAG_LEONIDASLIGHTMG         = "\"Leonidas\" light machine gun";
+MERCH_FLAVOR_LEONIDASLIGHTMG      = "Basically the Vulcanette. Almost.";
+
+// ZMG33 Light Machine Gun
+MERCH_CAT_ZMG33                   = "\"Mongoose\" Weapons";
+MERCH_TAG_ZMG33                   = "ZMG33 light machine gun";
+MERCH_FLAVOR_ZMG33                = "Liberator on steroids.";
