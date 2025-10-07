@@ -361,7 +361,7 @@ MERCH_TAG_PERSONALSHIELDGEN       = "$$TAG_PSH";
 MERCH_FLAVOR_PERSONALSHIELDGEN    = "Guaranteed to make rocket marines sad.";
 
 // Radsuit
-MERCH_CAT_RADSUIT                 = "MERCH_CAT_ARMOR_BODY";
+MERCH_CAT_RADSUIT                 = "$$MERCH_CAT_ARMOR_BODY";
 MERCH_TAG_RADSUIT                 = "$$TAG_RADSUIT";
 MERCH_FLAVOR_RADSUIT              = "It smells funny inside.";
 
@@ -644,7 +644,7 @@ MERCH_TAG_ADHESIVE                = "Velvet Adhesive";
 MERCH_FLAVOR_ADHESIVE             = "Hand-made poultice that slowly invigorates you.";
 
 // Ammo Box
-MERCH_CAT_AMMOBOX                 = "$$MERCH_CAT_WEAPON_SUPPLIES";
+MERCH_CAT_AMMOBOX                 = "$$MERCH_CAT_ITEM_SUPPLIES";
 MERCH_TAG_AMMOBOX                 = "$$TAG_AMMOBOX";
 MERCH_FLAVOR_AMMOBOX              = "I take no responsibility if this explodes. Just don't open it in front of my face.";
 
@@ -884,7 +884,7 @@ MERCH_TAG_REARVIEWMIRROR          = "$$TAG_REARVIEWMIRROR";
 MERCH_FLAVOR_REARVIEWMIRROR       = "They came from... BEHIND!";
 
 // Requisition Kit
-MERCH_CAT_REQUISITIONKIT          = "$$MERCH_CAT_WEAPON_SUPPLIES";
+MERCH_CAT_REQUISITIONKIT          = "$$MERCH_CAT_ITEM_SUPPLIES";
 MERCH_TAG_REQUISITIONKIT          = "UAC Standard Requisition Kit";
 MERCH_FLAVOR_REQUISITIONKIT       = "What's in the box? What's in the booooooooox!?";
 
@@ -929,7 +929,7 @@ MERCH_TAG_SUPERSTIM               = "$$TAG_SUPERSTIM";
 MERCH_FLAVOR_SUPERSTIM            = "I don't think that's the right dosage, doc.";
 
 // Supply Beacon
-MERCH_CAT_SUPPLYBEACON            = "$$MERCH_CAT_WEAPON_SUPPLIES";
+MERCH_CAT_SUPPLYBEACON            = "$$MERCH_CAT_ITEM_SUPPLIES";
 MERCH_TAG_SUPPLYBEACON            = "$$TAG_SUPPLYBEACON";
 MERCH_FLAVOR_SUPPLYBEACON         = "Intergalactic resupply.";
 
@@ -954,7 +954,7 @@ MERCH_TAG_WEAPONSLING             = "$$TAG_SLING";
 MERCH_FLAVOR_WEAPONSLING          = "For when you need that third arm.";
 
 // Weapon Crate
-MERCH_CAT_WEAPONCRATE             = "$$MERCH_CAT_WEAPON_SUPPLIES";
+MERCH_CAT_WEAPONCRATE             = "$$MERCH_CAT_ITEM_SUPPLIES";
 MERCH_TAG_WEAPONCRATE             = "$$TAG_WEAPONCRATE";
 MERCH_FLAVOR_WEAPONCRATE          = "Ammo sold separately.";
 
