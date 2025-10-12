@@ -1450,7 +1450,7 @@ MERCH_FLAVOR_CROSSPULSETB         = "Za-BOOM!";
 
 // DM-93 Plasmabuster
 MERCH_CAT_D93                     = "$$MERCH_CAT_WEAPON_ENERGY";
-MERCH_TAG_D93                     = "##TAG_DM93PLASMA";
+MERCH_TAG_D93                     = "$$TAG_DM93PLASMA";
 MERCH_FLAVOR_D93                  = "Melting demons like it's 1993!";
 
 // DMR
