@@ -131,21 +131,21 @@ _Requires [HDest Re-Enforcements](https://github.com/FDAapproved/HDest-Re-Enforc
 
 The hell squire has been replaced with one that fits with the above reskins for the vanilla nobles, giving it a darker and more spooky appearance.
 
-![hell-squire](../../screenshots/squire.png)
+![hell-squire](../../screenshots/squire.png)  
 _Credits: Project Malice Team, DBThanatos, Zaneion, id Software_
 
 #### Arachnotron
 
 The arachnotron has been replaced with one that gives more of a dark and hellish appearance.
 
-![arachnotron](../../screenshots/arachnotron.png)
+![arachnotron](../../screenshots/arachnotron.png)  
 _Credits: Project Malice Team, Amuscaria/Eriance_
 
 #### Lost Soul
 
 The Lost Soul has been replaced with one that gives it more of a ghostly, spookier appearance.
 
-![Lost Soul](../../screenshots/lost-soul.png)
+![Lost Soul](../../screenshots/lost-soul.png)  
 _Credits: DerTimmy_
 
 #### Cacodemon
@@ -159,7 +159,7 @@ _Credits: Robo\_Cola, id Software_
 
 The spider mastermind has been replaced with one that gives more of a consistent, yet dark and hellish appearance.
 
-![spider-mastermind](../../screenshots/spider-mastermind.png)
+![spider-mastermind](../../screenshots/spider-mastermind.png)  
 _Credits: Project Malice Team, Amuscaria/Eriance_
 
 #### Flemoids
@@ -167,5 +167,5 @@ _Requires [HDFlemoids](https://codeberg.org/ExpiredPopsicle/HDFlemoids)_
 
 Replaces the Chex Quest Flemoid sprites with a more fitting "id Doom" flavored Slime Monster.
 
-![flemoid](../../screenshots/flemoid.png)
+![flemoid](../../screenshots/flemoid.png)  
 _Credits: Carbine Dioxide_
