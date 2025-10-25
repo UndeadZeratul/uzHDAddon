@@ -69,15 +69,19 @@ _Note: Some weapons included have the crosshair color "baked" into the sprite, a
 - Default Hideous Destructor Front & Back Ironsights  
   _Credits: Matt_
 
+##### 1337Weps
+- BPX 9mm Carbine Rifle Back Ironsight  
+  _Credits: A1337Spy_
+
 ##### Peppergrinder
 - HLAR 9mm AR Front Ironsight  
   _Credits: Ultra64_
-- BPX 9mm Carbine Rifle Back Ironsight  
-  _Credits: A1337Spy_
-- Sig-Cow 10mm Carbine Rifle Back Ironsight  
-  _Credits: Swampyrad_
 - TRO-G AR Front Ironsight  
   _Credits: A1337Spy, HyperUltra64, Sledge, Chopblock223_
+
+##### Radtech Weapons Pack
+- Sig-Cow 10mm Carbine Rifle Back Ironsight  
+  _Credits: Swampyrad_
 
 #### Fists
 The fists have been swapped out with a set that use plain Doomguy Gloves, simply for consistency.
@@ -85,29 +89,30 @@ The fists have been swapped out with a set that use plain Doomguy Gloves, simply
 _Credits: [UNKNOWN](#UNKNOWN-CREDITS)_
 
 #### Chainsaw
-The chainsaw has been swapped out with a set made by Sonik.O, simply for the quality of the spritework as well as coming with an olive color palette that matches the other UAC Utily Tool color palettes, like the Fire Axe in [Potetobloke's Bangers & Mash](https://github.com/Potetobloke/PB_HDAddon_Bangers-And-Mash.git)
+The chainsaw has been swapped out with a set made by Sonik.O, simply for the quality of the spritework as well as coming with an olive color palette that matches the other UAC Utily Tool color palettes, like the Fire Axe in [Potetobloke's Bangers & Mash](https://github.com/Potetobloke/PB_HDAddon_Bangers-And-Mash)
 
 ![chainsaw](./screenshots/chainsaw.png)
 
-_Credits:  
-HUD Sprites: Sonik.O
-Pickup Sprites: id Software_
+_Credits:_  
+_HUD Sprites: Sonik.O_  
+_Pickup Sprites: id Software_
 
 #### Pistols
-_Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
+_Hush Puppy Requires [Radtech Weapons Pack](https://git.gay/swampyrad/RadTechWeaponsPack)_
+_Silenced Pistol Requires [1337Weps](https://gitlab.com/a1337spy/1337weps)_
 
 The pistol has been swapped out with Glock18 sprites, then recolored to match thematically.  The "Quick Swap" set of sprites have the pistol correctly flipped, as well.
 
 ![pistol](./screenshots/pistol.png)  
-_Credits:  
-HUD Sprites: TommyGalano5, JoeyTD & Minigunner ([Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18))  
-Pickup Sprites: TommyGalano5  
-Fireselect Graphic: Combine Kegan_  
+_Credits:_  
+_HUD Sprites: TommyGalano5, JoeyTD & Minigunner ([Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18))_  
+_Pickup Sprites: TommyGalano5_  
+_Fireselect Graphic: Combine Kegan_  
 
 ![hush-puppy](./screenshots/hush-puppy.png)  
-_Credits:  
-HUD Sprites: TommyGalano5, JoeyTD & Minigunner ([Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18))  
-Pickup Sprites: TommyGalano5_  
+_Credits:_  
+_HUD Sprites: TommyGalano5, JoeyTD & Minigunner ([Realm667](https://www.realm667.com/en/armory-mainmenu-157-97317/doom-style-mainmenu-158-94349/996-glock-18))_  
+_Pickup Sprites: TommyGalano5_  
 
 #### Revolvers
 _Scoped Revolver requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
@@ -116,9 +121,9 @@ The Revolver's main body and Ironsights have been recolored, which also applies 
 
 ![revolver](./screenshots/revolver.png)  
 ![scoped-revolver](./screenshots/scoped-revolver.png)  
-_Credits:  
-Revolver Base: Scuba Steve  
-Scope: PrettyFist, Sonik.O_
+_Credits:_  
+_Revolver Base: Scuba Steve_  
+_Scope: PrettyFist, Sonik.O_
 
 #### SMG
 
@@ -126,12 +131,12 @@ The SMG has been swapped out with something a bit more modern and sleek, as well
 
 ![smg](./screenshots/smg.png)  
 ![smg-reflex](./screenshots/smg-reflex.png)  
-_Credits:  
-HUD Sprites: vitriolicv, ZikShadow, Jeimuzu, DoomNukem  
-Pickup Sprites: vitriolicv, ZikShadow, DoomNukem_
+_Credits:_  
+_HUD Sprites: vitriolicv, ZikShadow, Jeimuzu, DoomNukem_  
+_Pickup Sprites: vitriolicv, ZikShadow, DoomNukem_
 
 #### Arkoudi Revolver Shotgun
-_Arkoudi Revolver Shotgun requires [Potetobloke's Bangers & Mash](https://github.com/Potetobloke/PB_HDAddon_Bangers-And-Mash.git)_
+_Arkoudi Revolver Shotgun requires [Potetobloke's Bangers & Mash](https://github.com/Potetobloke/PB_HDAddon_Bangers-And-Mash)_
 
 The Arkoudi Revolver Shotgun's ironsights have been recolored.
 
@@ -142,9 +147,9 @@ _Credits: AdianoTMO69_
 The hunter has been swapped out with a set made by Sonik.O, simply for the pure quality of the spritework, then had its sights recolored to match thematically.
 
 ![hunter](./screenshots/hunter.png)  
-_Credits:  
-HUD Sprites: Sonik.O, Neoworm  
-Pickup Sprite: Matt, Sonik.O_
+_Credits:_  
+_HUD Sprites: Sonik.O, Neoworm_  
+_Pickup Sprite: Matt, Sonik.O_
 
 #### Slayers
 _Sawed-Off & Scoped Slayers require [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder)_
@@ -164,9 +169,9 @@ _Credits: TommyGalano5, id Software, CardboardMarty, JoeyTD, Neoworm, YukesVonFa
 The ZM-66 has been swapped out with an older version of its HUD & pickup sprites, then had its scope lens recolored to match thematically.
 
 ![zm66](./screenshots/zm66.png)  
-_Credits:  
-HUD & Pickup Sprites: Matt  
-Fireselect Graphic: Combine Kegan_
+_Credits:_  
+_HUD & Pickup Sprites: Matt_  
+_Fireselect Graphic: Combine Kegan_
 
 #### Vulcanette
 The Vulcanette has been swapped out to give it a much more fitting, hefty minigun feeling.
@@ -181,9 +186,9 @@ H.E.R.P. Changes
 The Liberator has been swapped out with an older version of its HUD & pickup sprites, then had its scope lens recolored to match thematically.
 
 ![liberator](./screenshots/liberator.png)  
-_Credits:  
-HUD & Pickup Sprites: Matt  
-Fireselect Graphic: Combine Kegan_
+_Credits:_  
+_HUD & Pickup Sprites: Matt_  
+_Fireselect Graphic: Combine Kegan_
 
 #### Rocket Launcher
 The Rocket Launcher has been swapped out with something a recoil-less rifle in the form of the Direct Hit, which has been adjusted to account for the extended mag option.
@@ -218,17 +223,17 @@ The Altis O/U Shotgun has had its reloading frames swapped out with a fresh set 
 _Credits: TommyGalano5_
 
 #### 10mm Pistol
-_Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
+_Requires [Radtech Weapons Pack](https://git.gay/swampyrad/RadTechWeaponsPack)_
 
 The 10mm Pistol's rear Ironsight dots have been recolored to match the default Sight sprites.
 
 ![10mm-pistol](./screenshots/10mm-pistol.png)  
-_Credits:  
-HUD & Pkcup Sprites: Chopblock223, [Freedoom](https://freedoom.github.io/)  
-Fireselect Graphic: Combine Kegan_
+_Credits:_  
+_HUD & Pkcup Sprites: Chopblock223, [Freedoom](https://freedoom.github.io/)_  
+_Fireselect Graphic: Combine Kegan_
 
 #### Phazer
-_Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
+_Requires [Radtech Weapons Pack](https://git.gay/swampyrad/RadTechWeaponsPack)_
 
 The Phazer has been swapped out with a more fitting D-93 Plasma Pistol.
 
@@ -236,7 +241,7 @@ The Phazer has been swapped out with a more fitting D-93 Plasma Pistol.
 _Credits: [UNKNOWN](#UNKNOWN-CREDITS)_
 
 #### Obrozz Pistol
-_Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
+_Requires [Radtech Weapons Pack](https://git.gay/swampyrad/RadTechWeaponsPack)_
 
 The Obrozz Pistol's scope lens has been recolored to differentiate it from the base Boss as well as match thematically.
 
@@ -249,12 +254,12 @@ _Requires [Peppergrinder](https://gitlab.com/hdiscord-saltmines/hd-peppergrinder
 The Greely's main body has been recolored ~~so Player 2 can have a turn~~ to match thematically.
 
 ![greely12](./screenshots/greely12.png)  
-_Credits:  
-HUD Sprites: AdianoTMO69, PrettyFist  
-Pickup Sprites: PrettyFist_
+_Credits:_  
+_HUD Sprites: AdianoTMO69, PrettyFist_  
+_Pickup Sprites: PrettyFist_
 
 #### Combat Shotgun
-_Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
+_Requires [Radtech Weapons Pack](https://git.gay/swampyrad/RadTechWeaponsPack)_
 
 The Combat Shotgun has been swapped out with the Duke3D Shotgun, which as then had its ironsights recolored to match the reticle colors.
 
@@ -302,7 +307,7 @@ The ZM94 has been swapped out with the [ZM69](https://forum.zdoom.org/viewtopic.
 _Credits: Tartlman, Matt_
 
 #### Iron Sights Boss Rifle
-_Requires [Hexadoken's Legacy Continued](https://github.com/HDest-Community/HexaDoken-Legacy-Continued)_
+_Requires [Hexadoken's Legacy Continued](https://github.com/HDest-Community/HexaDoken-Legacy-Continued) or [1337Weps](https://gitlab.com/a1337spy/1337weps)_
 
 The Scopeless Boss Rifle has had its Ironsight dots recolored to match the reticle sight sprites.
 
@@ -315,7 +320,7 @@ _Requires [Icarus Innovations Improved](https://github.com/HDest-Community/icaru
 The PD-42's body has been recolored to give better visual contrast between it and the player's gloves, as well match thematically.  The Ironsight dot has also been updated to match the crosshair color.
 
 ![pd-42](./screenshots/pd-42.png)  
-_Credits: Icarus, Railgunner_
+_Credits: D2Icarus, Railgunner_
 
 #### Six-12 Shotgun
 _Requires [Icarus Innovations Improved](https://github.com/HDest-Community/icarus-innovations-improved)_
@@ -331,9 +336,9 @@ _Requires [Icarus Innovations Improved](https://github.com/HDest-Community/icaru
 The USP-45 has been replaced with Project Brutality's own .45 ACP Pistol, with a more fitting pickup sprite and recolored to match thematically.
 
 ![usp-45](./screenshots/usp-45.png)
-_Credits:  
-HUD Sprites: DoomNukem, Sergeant Mark IV, Moa Dixon  
-Pickup Sprites: Carbine Dioxide_
+_Credits:_  
+_HUD Sprites: DoomNukem, Sergeant Mark IV, Moa Dixon_  
+_Pickup Sprites: Carbine Dioxide_
 
 #### UMS Automag
 _Requires [UMS Automag](https://dastrukar.gitlab.io/hddons-list/#weapons:umsautomag-zikshadow)_
@@ -341,9 +346,14 @@ _Requires [UMS Automag](https://dastrukar.gitlab.io/hddons-list/#weapons:umsauto
 The UMS Automag has been replaced with something that also visually has the mag in front of the player's hand, but also fits a bit more cohesively, visually speaking.
 
 ![automag](./screenshots/automag.png)  
-_Credits:  
-HUD Sprites: Tapor, Sonik.O  
-Pickup Sprites: TommyGalano5, Sonik.O_
+_Credits:_  
+_HUD Sprites: Tapor, Sonik.O_  
+_Pickup Sprites: TommyGalano5, Sonik.O_
+
+#### Arcanum Tome
+The Right Hand has been swapped out with a matching set that use plain Doomguy Gloves, simply for consistency.
+
+_Credits: [UNKNOWN](#UNKNOWN-CREDITS)_
 
 ### Item Sprite Changes
 
@@ -354,7 +364,7 @@ The various medical supplies have been replaced with more thematically consisten
 ![medical-supplies](./screenshots/medical-supplies.png)
 _Credits:_  
 _Berserk Packs: NMN_  
-_Field Medical Kits (Requires [Radtech Items Pack](https://github.com/swampyrad/RadTechItemPack)): NMN_  
+_Field Medical Kits (Requires [Radtech Items Pack](https://git.gay/swampyrad/RadTechItemPack)): NMN_  
 _Medikits: NMN_  
 _Stimpacks: NMN_  
 _Trauma Kits (Requires [Ugly as Sin](https://github.com/HDest-Community/Ugly-As-Sin)): CyberMonday_  
@@ -414,7 +424,7 @@ The HUD Helmet has been replaced to match the mugshots provided by HUD Helmet.
 _Credits: Mephresfire_
 
 #### Micro-Cell
-_Requires [Radtech Weapons Pack](https://github.com/swampyrad/RadTechWeaponsPack)_
+_Requires [Radtech Weapons Pack](https://git.gay/swampyrad/RadTechWeaponsPack)_
 
 The Micro-cell has been replaced to feel more like a conventional cylindrical battery
 
@@ -428,7 +438,7 @@ The Garrison Armor has been replaced to give it a more "all-purpose" feel.
 _[DRLA Credits](#DRLA-Credits): SoloSpaghetti ([DRLA](https://forum.zdoom.org/viewtopic.php?t=37044))_
 
 #### Leather Jacket
-_Requires [Radtech Items Pack](https://github.com/swampyrad/RadTechItemPack)_
+_Requires [Radtech Items Pack](https://git.gay/swampyrad/RadTechItemPack)_
 
 The Leather Jacket has been replaced to feel more "Space Cowboy".
 
@@ -452,7 +462,7 @@ The UAC Corporate Armor has been replaced to give it a more "tech-armor" feel.
 _Credits: Ghastly Dragon ([Pandemonia](https://forum.zdoom.org/viewtopic.php?t=60984) )_
 
 #### HEV Armor
-_Requires [HEV Armor](https://gitlab.com/icarus-innovations/hdest-addons/hev-armor)_
+_Requires [Icarus Innovations Improved](https://github.com/HDest-Community/icarus-innovations-improved)_
 
 The HEV Armor has been replaced to make it less of a simple recolor.
 
@@ -500,8 +510,8 @@ _Credits: Saegiru, WildWeasel, 2800fps, Lightsource, DoomNukem_
 	- Image credits have been listed under their respective screenshots
 
 ### DRLA Credits
-_Assets used from [DRLA](https://forum.zdoom.org/viewtopic.php?t=37044) have been done so with permission.  
-**PERMISSION FROM DRLA AUTHORS IS REQUIRED TO RE-USE THEM**_
+_Assets used from [DRLA](https://forum.zdoom.org/viewtopic.php?t=37044) have been done so with permission._  
+_**PERMISSION FROM DRLA AUTHORS IS REQUIRED TO RE-USE THEM**_
 
 - **SoloSpaghetti**, for the Bulletproof Vest sprite (Sneaking Suit), the Tactical Armor sprite (Garrison Armor), and the Western Armor sprite (Leather Jacket)  
 
