@@ -7,57 +7,9 @@ This is my personal collection of recolor/resprite/resound assets for the GZDoom
 ---
 ## Sprite Changes
 
-### Monster Sprite Changes
+### id Doom Specific Changes
 
-#### Imp Variants
-
-When playing id Doom, the three main imp variants (Fighter, Mage, and Healer) now have more distinct color palettes.  
-_Credits: Karla_  
-
-#### Ghost Squadron
-
-When playing id Doom, the ghost squadron translation has been updated to match the rest of the reskin thematically.
-
-![ghost-squad](./screenshots/ghost-squad.png)
-
-#### Ninja Pirates
-
-When playing id Doom, the ninja pirate has been replaced with a recolored version of Hell-Forged's Brute, to match the anomalous nature of this beast's ability to phase in and out of visible perception.
-
-![ninja-priate](./screenshots/ninja-pirate.png)  
-_Credits: Project Malice Team, Eriance/Amuscaria_
-
-#### Hell Nobles
-
-When playing id Doom, the hell knight & baron of hell have been replaced with recolored versions to give them a darker, spookier appearance.
-
-![nobles](./screenshots/nobles.png)
-_Credits:_  
-_Hell Knight: Project Malice Team, id Software_  
-_Baron of Hell: Gifty & Vdude (from Supercharge), Skulltag Team, id Software_
-
-#### Hell Squires
-_Requires [HDest Re-Enforcements](https://github.com/FDAapproved/HDest-Re-Enforcements)_
-
-When playing id Doom, the hell squire has been replaced with one that fits with the above reskins for the vanilla nobles, giving it a darker and more spooky appearance.
-
-![squire](./screenshots/squire.png)
-_Credits: Project Malice Team, DBThanatos, Zaneion, id Software_
-
-#### Cacodemon
-
-When playing id Doom, the cacodemon's death animation has been replaced with one that feels much more electrifying, given their proclivity to emit sparks when dead.
-
-![cacoDeath](./screenshots/cacodeath.gif)  
-_Credits: Robo_Cola, id Software_
-
-#### Melee Zombies
-_Requires [Radtech Zombies](https://github.com/swampyrad/RadTechZombies)_
-
-While playing id Doom, the melee zombie has been replaced with a more "fitting" id Doom Zombieman, with matching translations.
-
-![melee-zombies](./screenshots/melee-zombies.png)  
-_Credits: ShallowB, Solmyr, Metal_Spaghetti, OSJClatchford_
+When playing id Doom, various sprites get replaced.  To see all the changes and their credits, check its own [Readme File](./filter/doom.id/README.md).  
 
 ---
 ### Weapon Sprite Changes
