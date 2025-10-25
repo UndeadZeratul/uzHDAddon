@@ -17,7 +17,7 @@ SKILL_NIGHTMARE                  = "\c[White]b e a u t i f u l";
 // Vanilla HDest Entries
 //-------------------------------------
 
-MNU_HDOPTIONS                    = "\c[White]HD Options";
+MNU_HDOPTIONS                    = "\c[White]HDest Options";
 MNU_EPRANGE                      = "\c[White]Firing Range";
 
 
