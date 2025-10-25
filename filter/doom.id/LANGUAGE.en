@@ -1,0 +1,7 @@
+[enu default]
+
+TAG_FLEMOID       = "Nukage Monster";
+TAG_FLEMOID_BLOOD = "Blood Monster";
+TAG_FLEMOID_LAVA  = "Lava Monster";
+TAG_FLEMOID_SLIME = "Mud Monster";
+TAG_FLEMOID_WATER = "\"Water\" Monster";
