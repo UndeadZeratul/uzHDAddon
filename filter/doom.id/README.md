@@ -30,7 +30,7 @@ The ZM-66 Zombieman has been replaced with a recolored version to give them a da
 _Credits: Project Malice Team, id Software_
 
 ##### ZM-66 Jackboot
-_Requires [Melodica's Visual Zombies](https://dastrukar.gitlab.io/hddons-list/#visualzombies-melodica)
+_Requires [Melodica's Visual Zombies](https://dastrukar.gitlab.io/hddons-list/#visualzombies-melodica)_
 
 The ZM-66 Jackboot has been replaced with a recolored version to give them a darker, spookier appearance.
 
@@ -92,7 +92,7 @@ The Wolfenstein SS Zombieman has been replaced with a recolored version to give 
 _Credits: Project Malice Team, id Software_
 
 #### Imp Variants
-_Requires [Melodica's Visual Zombies](https://dastrukar.gitlab.io/hddons-list/#visualzombies-melodica)_
+_Requires [Melodica's Visual Zombies](https://dastrukar.gitlab.io/hddons-list/#visualzombies-melodica)_  
 _NOTE: If Visual Zombies is not loaded, the Fighter Imp will be used for all three to varying degree of success_  
 
 The three main imp variants (Fighter, Mage, and Healer) now have more distinct appearances.  
