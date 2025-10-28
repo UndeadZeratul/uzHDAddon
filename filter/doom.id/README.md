@@ -148,6 +148,14 @@ The Lost Soul has been replaced with one that gives it more of a ghostly, spooki
 ![Lost Soul](../../screenshots/lost-soul.png)  
 _Credits: DerTimmy_
 
+#### Ghoul
+_Requires [HDest Critters](https://github.com/HDest-Community/HDest-Critters)_
+
+The Ghoul has been replaced with one that fits better than the Alpha Lost Soul, now that the Lost Soul has also been replaced.  This also fits more along the lines of it being a mini-caco, similar to the Hatchling it's a carbon-copy of.
+
+![ghoul](../../screenshots/ghoul.png)  
+_Credits: Burgish\_Nilwert_
+
 #### Cacodemon
 
 The cacodemon's death animation has been replaced with one that feels much more electrifying, given their proclivity to emit sparks when dead.
