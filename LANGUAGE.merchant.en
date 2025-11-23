@@ -1063,6 +1063,11 @@ MERCH_CAT_COYOTEMAG               = "$$MERCH_CAT_MAG_HANDGUN";
 MERCH_TAG_COYOTEMAG               = "$$PEPPER_TAG_COYOTEMAG";
 MERCH_FLAVOR_COYOTEMAG            = "";
 
+// Desert Eagle Mk.XIX Mag
+MERCH_CAT_DEAGLEMAG               = "$$MERCH_CAT_MAG_HANDGUN";
+MERCH_TAG_DEAGLEMAG               = "$$TAG_DEAGLEMAG";
+MERCH_FLAVOR_DEAGLEMAG            = "";
+
 // FNFAL Mag
 MERCH_CAT_FNFALMAG                = "$$MERCH_CAT_MAG_RIFLE";
 MERCH_TAG_FNFALMAG                = "$$TAG_FAL_MAG";
@@ -1447,6 +1452,11 @@ MERCH_FLAVOR_COYOTE               = "";
 MERCH_CAT_CROSSPULSETB            = "$$MERCH_CAT_WEAPON_ENERGY";
 MERCH_TAG_CROSSPULSETB            = "$$TAG_XTB";
 MERCH_FLAVOR_CROSSPULSETB         = "Za-BOOM!";
+
+// Desert Eagle Mk.XIX
+MERCH_CAT_DEAGLE                  = "$$MERCH_CAT_WEAPON_HANDGUN";
+MERCH_TAG_DEAGLE                  = "$$TAG_DEAGLE";
+MERCH_FLAVOR_DEAGLE               = "Blast 'em.";
 
 // DM-93 Plasmabuster
 MERCH_CAT_D93                     = "$$MERCH_CAT_WEAPON_ENERGY";

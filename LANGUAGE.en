@@ -99,6 +99,7 @@ TAG_GARAND                       = "Mouletta M1 Garand .30-06 Rifle";
 // Icarus's Innovations, Improved
 TAG_BARRACUDA                    = "Icarus \"Barracuda\" 12ga Double-Barreled Revolver Shotgun";
 TAG_BITCH                        = "Icarus \"Bitch\" 4.26mm LMG";
+TAG_DEAGLE                       = "Icarus Desert Eagle Mk.XIX .355 Masterball Handgun";
 TAG_FENRIS                       = "Icarus CFL-21 \"Fenris\" Cold Fusion Laser";
 TAG_FLAMENWERFER77               = "Icarus FT-77 \"Flamenwerfer\" Flamethrower";
 TAG_FRONTIERSMAN                 = "Icarus \"Frontiersman\" 7.76mm Lever-Action Rifle";
@@ -368,6 +369,7 @@ TAG_MODESTMAG                    = "\"Modest\" .500 S&W Cylinder";
 TAG_50OMGCLIP                    = ".50 OMG Clip";
 
 // Icarus's Innovations, Improved
+TAG_DEAGLEMAG                    = "Desert Eagle Mk.XIX .355 Magazine";
 TAG_MBRMAGHEAVY                  = "MBR .500 S&W Heavy Magazine";
 TAG_MBRMAGLIGHT                  = "MBR .500 S&W Light Magazine";
 TAG_NYXMAG                       = "Nyx .355 Masterball Magazine";
@@ -685,6 +687,11 @@ PICKUP_BITCH_PREFIX              = "Picked up a ";
 PICKUP_BITCH_RAPID               = "";
 PICKUP_BITCH_GL                  = "";
 PICKUP_BITCH_SUFFIX              = ".";
+PICKUP_DEAGLE_PREFIX             = "Picked up a ";
+PICKUP_DEAGLE_FRAME              = "";
+PICKUP_DEAGLE_BARREL             = "";
+PICKUP_DEAGLE_TRIGGER            = "";
+PICKUP_DEAGLE_SUFFIX             = ".";
 PICKUP_FENRIS_PREFIX             = "Picked up a ";
 PICKUP_FENRIS_POLYFRAME          = "";
 PICKUP_FENRIS_PLATINUM           = "";
@@ -980,6 +987,7 @@ PICKUP_VIPERMAG_SUFFIX           = ".";
 PICKUP_50OMGCLIP                 = "Picked up a .50 OMG Clip.";
 
 // Icarus's Innovations, Improved
+PICKUP_DEAGLEMAG                 = "Picked up a Desert Eagle Mk.XIX .355 magazine.";
 PICKUP_GASTANK_PREFIX            = "Picked up a ";
 PICKUP_GASTANK_SUFFIX            = ".";
 PICKUP_MBRMAGHEAVY               = "Picked up a MBR .500 S&W Heavy Magazine.";
