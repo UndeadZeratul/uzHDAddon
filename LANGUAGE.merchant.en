@@ -979,7 +979,7 @@ MERCH_TAG_50OMGCLIP               = "$$TAG_50OMGCLIP";
 MERCH_FLAVOR_50OMGCLIP            = "";
 
 // 7mm Belt Box
-MERCH_CAT_7MMBELTBOX              = "Bangers & Mash";
+MERCH_CAT_7MMBELTBOX              = "$$MERCH_CAT_MAG_HEAVY";
 MERCH_TAG_7MMBELTBOX              = "$$TAG_7MM_BELTBOX";
 MERCH_FLAVOR_7MMBELTBOX           = "";
 
