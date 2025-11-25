@@ -11,15 +11,15 @@ SquadGhost        = "0:255=%[0,0,0]:[0.81,0.46,1.44]"
 
 // MISCMONS TRANSLATIONS
 
-FlamerImp      = "" //"100:150=#[200,10,200]"
+FlamerImp         = "" //"100:150=#[200,10,200]"
 
 // RADTECH TRANSLATIONS
 
 // Mele Zombies
-Zombie_RedSuit    = "112:127=%[0,0,0]:[0.7,0.4,0.2]" // Brown Armour
-Zombie_YellowSuit = "112:127=%[0,0,0]:[1.5,1.5,1.5]" // White Armour
-Zombie_OrangeSuit = "112:127=128:143" // Tan Armour
-Zombie_BlueSuit   = "112:127=%[0,0,0]:[0.5,0.7,0.3]" // Olive Armour
+Zombie_RedSuit    = "112:127=%[0,0,0]:[0.7,0.4,0.2]"    // Brown Armour
+Zombie_YellowSuit = "112:127=%[0,0,0]:[1.5,1.5,1.5]"    // White Armour
+Zombie_OrangeSuit = "112:127=128:143"                   // Tan Armour
+Zombie_BlueSuit   = "112:127=%[0,0,0]:[0.5,0.7,0.3]"    // Olive Armour
 Zombie_PinkSuit   = "112:127=%[0,0,0]:[0.81,0.46,1.44]" // Purple Armour
 
 // Flemoids
