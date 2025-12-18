@@ -515,6 +515,11 @@ MERCH_CAT_CLAYMORE                = "$$MERCH_CAT_EXPLOSIVE_MINE";
 MERCH_TAG_CLAYMORE                = "$$TAG_CLAYMORE";
 MERCH_FLAVOR_CLAYMORE             = "Point it towards the enemy.";
 
+// CO-2 Grenades
+MERCH_CAT_CO2NADE                 = "$$MERCH_CAT_EXPLOSIVE_GRENADE";
+MERCH_TAG_CO2NADE                 = "$$CO2NADE_TAG";
+MERCH_FLAVOR_CO2NADE              = "For when the BBQ got a bit out of hand.";
+
 // Door Buster
 MERCH_CAT_DOORBUSTER              = "$$MERCH_CAT_EXPLOSIVE_MISC";
 MERCH_TAG_DOORBUSTER              = "$$TAG_DOORBUSTER";
