@@ -1,0 +1,239 @@
+brightmap sprite BOSSA1C1 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSA1C1.png"
+}
+
+brightmap sprite BOSSA2C8 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSA2C8.png"
+}
+
+brightmap sprite BOSSA3C7 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSA3C7.png"
+}
+
+brightmap sprite BOSSA4C6 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSA4C6.png"
+}
+
+brightmap sprite BOSSA5C5 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSA5C5.png"
+}
+
+brightmap sprite BOSSA6C4 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSA6C4.png"
+}
+
+brightmap sprite BOSSA7C3 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSA7C3.png"
+}
+
+brightmap sprite BOSSA8C2 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSA8C2.png"
+}
+
+brightmap sprite BOSSA1C1 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSA1C1.png"
+}
+
+brightmap sprite BOSSB2D8 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB2D8.png"
+}
+
+brightmap sprite BOSSB3D7 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB3D7.png"
+}
+
+brightmap sprite BOSSB4D6 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB4D6.png"
+}
+
+brightmap sprite BOSSB5D5 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB5D5.png"
+}
+
+brightmap sprite BOSSB6D4 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB6D4.png"
+}
+
+brightmap sprite BOSSB7D3 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB7D3.png"
+}
+
+brightmap sprite BOSSB8D2 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB8D2.png"
+}
+
+brightmap sprite BOSSB1D1 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB1D1.png"
+}
+
+brightmap sprite BOSSB2D8 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB2D8.png"
+}
+
+brightmap sprite BOSSB3D7 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB3D7.png"
+}
+
+brightmap sprite BOSSB4D6 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB4D6.png"
+}
+
+brightmap sprite BOSSB5D5 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB5D5.png"
+}
+
+brightmap sprite BOSSB6D4 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB6D4.png"
+}
+
+brightmap sprite BOSSB7D3 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB7D3.png"
+}
+
+brightmap sprite BOSSB8D2 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSB8D2.png"
+}
+
+brightmap sprite BOSSE1 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSE1.png"
+}
+
+brightmap sprite BOSSE2 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSE2.png"
+}
+
+brightmap sprite BOSSE3 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSE3.png"
+}
+
+brightmap sprite BOSSE4 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSE4.png"
+}
+
+brightmap sprite BOSSE5 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSE5.png"
+}
+
+brightmap sprite BOSSE6 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSE6.png"
+}
+
+brightmap sprite BOSSE7 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSE7.png"
+}
+
+brightmap sprite BOSSE8 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSE8.png"
+}
+
+brightmap sprite BOSSF1 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSF1.png"
+}
+
+brightmap sprite BOSSF2 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSF2.png"
+}
+
+brightmap sprite BOSSF3 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSF3.png"
+}
+
+brightmap sprite BOSSF4 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSF4.png"
+}
+
+brightmap sprite BOSSF5 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSF5.png"
+}
+
+brightmap sprite BOSSF6 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSF6.png"
+}
+
+brightmap sprite BOSSF7 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSF7.png"
+}
+
+brightmap sprite BOSSF8 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSF8.png"
+}
+
+brightmap sprite BOSSG1 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSG1.png"
+}
+
+brightmap sprite BOSSG2 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSG2.png"
+}
+
+brightmap sprite BOSSG3 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSG3.png"
+}
+
+brightmap sprite BOSSG4 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSG4.png"
+}
+
+brightmap sprite BOSSG5 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSG5.png"
+}
+
+brightmap sprite BOSSG6 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSG6.png"
+}
+
+brightmap sprite BOSSG7 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSG7.png"
+}
+
+brightmap sprite BOSSG8 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSG8.png"
+}
+
+brightmap sprite BOSSH1 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSH1.png"
+}
+
+brightmap sprite BOSSH2 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSH2.png"
+}
+
+brightmap sprite BOSSH3 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSH3.png"
+}
+
+brightmap sprite BOSSH4 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSH4.png"
+}
+
+brightmap sprite BOSSH5 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSH5.png"
+}
+
+brightmap sprite BOSSH6 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSH6.png"
+}
+
+brightmap sprite BOSSH7 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSH7.png"
+}
+
+brightmap sprite BOSSH8 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSH8.png"
+}
+
+brightmap sprite BOSSI0 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSI0.png"
+}
+
+brightmap sprite BOSSJ0 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSJ0.png"
+}
+
+brightmap sprite BOSSK0 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSK0.png"
+}
+
+brightmap sprite BOSSL0 {
+  map "brightmaps/Monsters/Baron of Hell/BOSSL0.png"
+}

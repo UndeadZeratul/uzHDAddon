@@ -1,0 +1,171 @@
+brightmap sprite TROOA1 {
+  map "brightmaps/Monsters/Fighter Imp/TROOA1.png"
+}
+
+brightmap sprite TROOA2A8 {
+  map "brightmaps/Monsters/Fighter Imp/TROOA2A8.png"
+}
+
+brightmap sprite TROOA3A7 {
+  map "brightmaps/Monsters/Fighter Imp/TROOA3A7.png"
+}
+
+brightmap sprite TROOA4A6 {
+  map "brightmaps/Monsters/Fighter Imp/TROOA4A6.png"
+}
+
+brightmap sprite TROOA5 {
+  map "brightmaps/Monsters/Fighter Imp/TROOA5.png"
+}
+
+brightmap sprite TROOB1 {
+  map "brightmaps/Monsters/Fighter Imp/TROOB1.png"
+}
+
+brightmap sprite TROOB2B8 {
+  map "brightmaps/Monsters/Fighter Imp/TROOB2B8.png"
+}
+
+brightmap sprite TROOB3B7 {
+  map "brightmaps/Monsters/Fighter Imp/TROOB3B7.png"
+}
+
+brightmap sprite TROOB4B6 {
+  map "brightmaps/Monsters/Fighter Imp/TROOB4B6.png"
+}
+
+brightmap sprite TROOB5 {
+  map "brightmaps/Monsters/Fighter Imp/TROOB5.png"
+}
+
+brightmap sprite TROOC1 {
+  map "brightmaps/Monsters/Fighter Imp/TROOC1.png"
+}
+
+brightmap sprite TROOC2C8 {
+  map "brightmaps/Monsters/Fighter Imp/TROOC2C8.png"
+}
+
+brightmap sprite TROOC3C7 {
+  map "brightmaps/Monsters/Fighter Imp/TROOC3C7.png"
+}
+
+brightmap sprite TROOC4C6 {
+  map "brightmaps/Monsters/Fighter Imp/TROOC4C6.png"
+}
+
+brightmap sprite TROOC5 {
+  map "brightmaps/Monsters/Fighter Imp/TROOC5.png"
+}
+
+brightmap sprite TROOD1 {
+  map "brightmaps/Monsters/Fighter Imp/TROOD1.png"
+}
+
+brightmap sprite TROOD2D8 {
+  map "brightmaps/Monsters/Fighter Imp/TROOD2D8.png"
+}
+
+brightmap sprite TROOD3D7 {
+  map "brightmaps/Monsters/Fighter Imp/TROOD3D7.png"
+}
+
+brightmap sprite TROOD4D6 {
+  map "brightmaps/Monsters/Fighter Imp/TROOD4D6.png"
+}
+
+brightmap sprite TROOD5 {
+  map "brightmaps/Monsters/Fighter Imp/TROOD5.png"
+}
+
+brightmap sprite TROOE1 {
+  map "brightmaps/Monsters/Fighter Imp/TROOE1.png"
+}
+
+brightmap sprite TROOE2E8 {
+  map "brightmaps/Monsters/Fighter Imp/TROOE2E8.png"
+}
+
+brightmap sprite TROOE3E7 {
+  map "brightmaps/Monsters/Fighter Imp/TROOE3E7.png"
+}
+
+brightmap sprite TROOE4E6 {
+  map "brightmaps/Monsters/Fighter Imp/TROOE4E6.png"
+}
+
+brightmap sprite TROOE5 {
+  map "brightmaps/Monsters/Fighter Imp/TROOE5.png"
+}
+
+brightmap sprite TROOF1 {
+  map "brightmaps/Monsters/Fighter Imp/TROOF1.png"
+}
+
+brightmap sprite TROOF2F8 {
+  map "brightmaps/Monsters/Fighter Imp/TROOF2F8.png"
+}
+
+brightmap sprite TROOF3F7 {
+  map "brightmaps/Monsters/Fighter Imp/TROOF3F7.png"
+}
+
+brightmap sprite TROOF4F6 {
+  map "brightmaps/Monsters/Fighter Imp/TROOF4F6.png"
+}
+
+brightmap sprite TROOF5 {
+  map "brightmaps/Monsters/Fighter Imp/TROOF5.png"
+}
+
+brightmap sprite TROOG1 {
+  map "brightmaps/Monsters/Fighter Imp/TROOG1.png"
+}
+
+brightmap sprite TROOG2G8 {
+  map "brightmaps/Monsters/Fighter Imp/TROOG2G8.png"
+}
+
+brightmap sprite TROOG3G7 {
+  map "brightmaps/Monsters/Fighter Imp/TROOG3G7.png"
+}
+
+brightmap sprite TROOG4G6 {
+  map "brightmaps/Monsters/Fighter Imp/TROOG4G6.png"
+}
+
+brightmap sprite TROOG5 {
+  map "brightmaps/Monsters/Fighter Imp/TROOG5.png"
+}
+
+brightmap sprite TROOH1 {
+  map "brightmaps/Monsters/Fighter Imp/TROOH1.png"
+}
+
+brightmap sprite TROOH2H8 {
+  map "brightmaps/Monsters/Fighter Imp/TROOH2H8.png"
+}
+
+brightmap sprite TROOH3H7 {
+  map "brightmaps/Monsters/Fighter Imp/TROOH3H7.png"
+}
+
+brightmap sprite TROOH4H6 {
+  map "brightmaps/Monsters/Fighter Imp/TROOH4H6.png"
+}
+
+brightmap sprite TROOH5 {
+  map "brightmaps/Monsters/Fighter Imp/TROOH5.png"
+}
+
+brightmap sprite TROOI0 {
+  map "brightmaps/Monsters/Fighter Imp/TROOI0.png"
+}
+
+brightmap sprite TROOJ0 {
+  map "brightmaps/Monsters/Fighter Imp/TROOJ0.png"
+}
+
+brightmap sprite TROOK0 {
+  map "brightmaps/Monsters/Fighter Imp/TROOK0.png"
+}

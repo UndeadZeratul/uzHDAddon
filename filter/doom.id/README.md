@@ -40,18 +40,18 @@ _Credits: Project Malice Team, id Software_
 ##### Pistol Zombieman
 _Requires [HDest Re-Enforcements](https://github.com/FDAapproved/HDest-Re-Enforcements)_
 
-The Pistol Zombieman has been replaced with a recolored version to give them a darker, spookier appearance.
+The Pistol Zombieman has been replaced with a UAC Office employee, tweaked .
 
 ![pistol-zombieman](../../screenshots/pistol-zombieman.png)  
-_Credits: Project Malice Team, id Software_
+_Credits: Solmyr, Scalliano, Ghostbusters Doom Team, id Software_
 
-<!-- ##### 10mm Pistol Zombieman
+##### 10mm Pistol Zombieman
 _Requires [Radtech Zombies](https://github.com/swampyrad/RadTechZombies)_
 
 The Pistol Zombieman has been replaced with a recolored version to give them a darker, spookier appearance.
 
 ![10mm-pistol-zombieman](../../screenshots/10mm-pistol-zombieman.png)  
-_Credits: Project Malice Team, id Software_ -->
+_Credits: Project Malice Team, id Software_
 
 <!-- ##### Sig-Cow Zombieman
 _Requires [Radtech Zombies](https://github.com/swampyrad/RadTechZombies)_
@@ -59,7 +59,7 @@ _Requires [Radtech Zombies](https://github.com/swampyrad/RadTechZombies)_
 The Sig-cow Zombieman has been replaced with a recolored version to give them a darker, spookier appearance.
 
 ![10mm-rifle-zombieman](../../screenshots/10mm-rifle-zombieman.png)  
-_Credits: Project Malice Team, id Software_ -->
+_Credits: Project Malice Team, Skelegant, David G., id Software_ -->
 
 <!-- ##### Hunter Shotgun Zombieman
 
@@ -75,6 +75,14 @@ The Greely Zombieman has been replaced with a recolored version to give them a d
 
 ![greely-zombieman](../../screenshots/greely-zombieman.png)  
 _Credits: Project Malice Team, Mark Quinn, Vegeta, Ghastly\_Dragon, MagicWazard, id Software_ -->
+
+##### MAC-10 Zombieman
+_Requires [Caesar Salad](https://github.com/HDest-Community/PB_HDAddon_CaesarSalad)_
+
+The MAC-10 Zombieman has been replaced with a recolored version to give them a darker, spookier appearance.
+
+![mac10-zombieman](../../screenshots/mac10-zombieman.png)  
+_Credits: Project Malice Team, id Software_
 
 ##### PD-42 Zombieman
 _Requires [HDest Misc. Mons](https://github.com/tedthepraimortis/Hideous-MiscMons)_

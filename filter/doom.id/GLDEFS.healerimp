@@ -1,0 +1,171 @@
+brightmap sprite TRO3A1 {
+  map "brightmaps/Monsters/Healer Imp/TRO3A1.png"
+}
+
+brightmap sprite TRO3A2A8 {
+  map "brightmaps/Monsters/Healer Imp/TRO3A2A8.png"
+}
+
+brightmap sprite TRO3A3A7 {
+  map "brightmaps/Monsters/Healer Imp/TRO3A3A7.png"
+}
+
+brightmap sprite TRO3A4A6 {
+  map "brightmaps/Monsters/Healer Imp/TRO3A4A6.png"
+}
+
+brightmap sprite TRO3A5 {
+  map "brightmaps/Monsters/Healer Imp/TRO3A5.png"
+}
+
+brightmap sprite TRO3B1 {
+  map "brightmaps/Monsters/Healer Imp/TRO3B1.png"
+}
+
+brightmap sprite TRO3B2B8 {
+  map "brightmaps/Monsters/Healer Imp/TRO3B2B8.png"
+}
+
+brightmap sprite TRO3B3B7 {
+  map "brightmaps/Monsters/Healer Imp/TRO3B3B7.png"
+}
+
+brightmap sprite TRO3B4B6 {
+  map "brightmaps/Monsters/Healer Imp/TRO3B4B6.png"
+}
+
+brightmap sprite TRO3B5 {
+  map "brightmaps/Monsters/Healer Imp/TRO3B5.png"
+}
+
+brightmap sprite TRO3C1 {
+  map "brightmaps/Monsters/Healer Imp/TRO3C1.png"
+}
+
+brightmap sprite TRO3C2C8 {
+  map "brightmaps/Monsters/Healer Imp/TRO3C2C8.png"
+}
+
+brightmap sprite TRO3C3C7 {
+  map "brightmaps/Monsters/Healer Imp/TRO3C3C7.png"
+}
+
+brightmap sprite TRO3C4C6 {
+  map "brightmaps/Monsters/Healer Imp/TRO3C4C6.png"
+}
+
+brightmap sprite TRO3C5 {
+  map "brightmaps/Monsters/Healer Imp/TRO3C5.png"
+}
+
+brightmap sprite TRO3D1 {
+  map "brightmaps/Monsters/Healer Imp/TRO3D1.png"
+}
+
+brightmap sprite TRO3D2D8 {
+  map "brightmaps/Monsters/Healer Imp/TRO3D2D8.png"
+}
+
+brightmap sprite TRO3D3D7 {
+  map "brightmaps/Monsters/Healer Imp/TRO3D3D7.png"
+}
+
+brightmap sprite TRO3D4D6 {
+  map "brightmaps/Monsters/Healer Imp/TRO3D4D6.png"
+}
+
+brightmap sprite TRO3D5 {
+  map "brightmaps/Monsters/Healer Imp/TRO3D5.png"
+}
+
+brightmap sprite TRO3E1 {
+  map "brightmaps/Monsters/Healer Imp/TRO3E1.png"
+}
+
+brightmap sprite TRO3E2E8 {
+  map "brightmaps/Monsters/Healer Imp/TRO3E2E8.png"
+}
+
+brightmap sprite TRO3E3E7 {
+  map "brightmaps/Monsters/Healer Imp/TRO3E3E7.png"
+}
+
+brightmap sprite TRO3E4E6 {
+  map "brightmaps/Monsters/Healer Imp/TRO3E4E6.png"
+}
+
+brightmap sprite TRO3E5 {
+  map "brightmaps/Monsters/Healer Imp/TRO3E5.png"
+}
+
+brightmap sprite TRO3F1 {
+  map "brightmaps/Monsters/Healer Imp/TRO3F1.png"
+}
+
+brightmap sprite TRO3F2F8 {
+  map "brightmaps/Monsters/Healer Imp/TRO3F2F8.png"
+}
+
+brightmap sprite TRO3F3F7 {
+  map "brightmaps/Monsters/Healer Imp/TRO3F3F7.png"
+}
+
+brightmap sprite TRO3F4F6 {
+  map "brightmaps/Monsters/Healer Imp/TRO3F4F6.png"
+}
+
+brightmap sprite TRO3F5 {
+  map "brightmaps/Monsters/Healer Imp/TRO3F5.png"
+}
+
+brightmap sprite TRO3G1 {
+  map "brightmaps/Monsters/Healer Imp/TRO3G1.png"
+}
+
+brightmap sprite TRO3G2G8 {
+  map "brightmaps/Monsters/Healer Imp/TRO3G2G8.png"
+}
+
+brightmap sprite TRO3G3G7 {
+  map "brightmaps/Monsters/Healer Imp/TRO3G3G7.png"
+}
+
+brightmap sprite TRO3G4G6 {
+  map "brightmaps/Monsters/Healer Imp/TRO3G4G6.png"
+}
+
+brightmap sprite TRO3G5 {
+  map "brightmaps/Monsters/Healer Imp/TRO3G5.png"
+}
+
+brightmap sprite TRO3H1 {
+  map "brightmaps/Monsters/Healer Imp/TRO3H1.png"
+}
+
+brightmap sprite TRO3H2H8 {
+  map "brightmaps/Monsters/Healer Imp/TRO3H2H8.png"
+}
+
+brightmap sprite TRO3H3H7 {
+  map "brightmaps/Monsters/Healer Imp/TRO3H3H7.png"
+}
+
+brightmap sprite TRO3H4H6 {
+  map "brightmaps/Monsters/Healer Imp/TRO3H4H6.png"
+}
+
+brightmap sprite TRO3H5 {
+  map "brightmaps/Monsters/Healer Imp/TRO3H5.png"
+}
+
+brightmap sprite TRO3I0 {
+  map "brightmaps/Monsters/Healer Imp/TRO3I0.png"
+}
+
+brightmap sprite TRO3J0 {
+  map "brightmaps/Monsters/Healer Imp/TRO3J0.png"
+}
+
+brightmap sprite TRO3K0 {
+  map "brightmaps/Monsters/Healer Imp/TRO3K0.png"
+}

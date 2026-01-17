@@ -1,0 +1,171 @@
+brightmap sprite TRO2A1 {
+  map "brightmaps/Monsters/Mage Imp/TRO2A1.png"
+}
+
+brightmap sprite TRO2A2A8 {
+  map "brightmaps/Monsters/Mage Imp/TRO2A2A8.png"
+}
+
+brightmap sprite TRO2A3A7 {
+  map "brightmaps/Monsters/Mage Imp/TRO2A3A7.png"
+}
+
+brightmap sprite TRO2A4A6 {
+  map "brightmaps/Monsters/Mage Imp/TRO2A4A6.png"
+}
+
+brightmap sprite TRO2A5 {
+  map "brightmaps/Monsters/Mage Imp/TRO2A5.png"
+}
+
+brightmap sprite TRO2B1 {
+  map "brightmaps/Monsters/Mage Imp/TRO2B1.png"
+}
+
+brightmap sprite TRO2B2B8 {
+  map "brightmaps/Monsters/Mage Imp/TRO2B2B8.png"
+}
+
+brightmap sprite TRO2B3B7 {
+  map "brightmaps/Monsters/Mage Imp/TRO2B3B7.png"
+}
+
+brightmap sprite TRO2B4B6 {
+  map "brightmaps/Monsters/Mage Imp/TRO2B4B6.png"
+}
+
+brightmap sprite TRO2B5 {
+  map "brightmaps/Monsters/Mage Imp/TRO2B5.png"
+}
+
+brightmap sprite TRO2C1 {
+  map "brightmaps/Monsters/Mage Imp/TRO2C1.png"
+}
+
+brightmap sprite TRO2C2C8 {
+  map "brightmaps/Monsters/Mage Imp/TRO2C2C8.png"
+}
+
+brightmap sprite TRO2C3C7 {
+  map "brightmaps/Monsters/Mage Imp/TRO2C3C7.png"
+}
+
+brightmap sprite TRO2C4C6 {
+  map "brightmaps/Monsters/Mage Imp/TRO2C4C6.png"
+}
+
+brightmap sprite TRO2C5 {
+  map "brightmaps/Monsters/Mage Imp/TRO2C5.png"
+}
+
+brightmap sprite TRO2D1 {
+  map "brightmaps/Monsters/Mage Imp/TRO2D1.png"
+}
+
+brightmap sprite TRO2D2D8 {
+  map "brightmaps/Monsters/Mage Imp/TRO2D2D8.png"
+}
+
+brightmap sprite TRO2D3D7 {
+  map "brightmaps/Monsters/Mage Imp/TRO2D3D7.png"
+}
+
+brightmap sprite TRO2D4D6 {
+  map "brightmaps/Monsters/Mage Imp/TRO2D4D6.png"
+}
+
+brightmap sprite TRO2D5 {
+  map "brightmaps/Monsters/Mage Imp/TRO2D5.png"
+}
+
+brightmap sprite TRO2E1 {
+  map "brightmaps/Monsters/Mage Imp/TRO2E1.png"
+}
+
+brightmap sprite TRO2E2E8 {
+  map "brightmaps/Monsters/Mage Imp/TRO2E2E8.png"
+}
+
+brightmap sprite TRO2E3E7 {
+  map "brightmaps/Monsters/Mage Imp/TRO2E3E7.png"
+}
+
+brightmap sprite TRO2E4E6 {
+  map "brightmaps/Monsters/Mage Imp/TRO2E4E6.png"
+}
+
+brightmap sprite TRO2E5 {
+  map "brightmaps/Monsters/Mage Imp/TRO2E5.png"
+}
+
+brightmap sprite TRO2F1 {
+  map "brightmaps/Monsters/Mage Imp/TRO2F1.png"
+}
+
+brightmap sprite TRO2F2F8 {
+  map "brightmaps/Monsters/Mage Imp/TRO2F2F8.png"
+}
+
+brightmap sprite TRO2F3F7 {
+  map "brightmaps/Monsters/Mage Imp/TRO2F3F7.png"
+}
+
+brightmap sprite TRO2F4F6 {
+  map "brightmaps/Monsters/Mage Imp/TRO2F4F6.png"
+}
+
+brightmap sprite TRO2F5 {
+  map "brightmaps/Monsters/Mage Imp/TRO2F5.png"
+}
+
+brightmap sprite TRO2G1 {
+  map "brightmaps/Monsters/Mage Imp/TRO2G1.png"
+}
+
+brightmap sprite TRO2G2G8 {
+  map "brightmaps/Monsters/Mage Imp/TRO2G2G8.png"
+}
+
+brightmap sprite TRO2G3G7 {
+  map "brightmaps/Monsters/Mage Imp/TRO2G3G7.png"
+}
+
+brightmap sprite TRO2G4G6 {
+  map "brightmaps/Monsters/Mage Imp/TRO2G4G6.png"
+}
+
+brightmap sprite TRO2G5 {
+  map "brightmaps/Monsters/Mage Imp/TRO2G5.png"
+}
+
+brightmap sprite TRO2H1 {
+  map "brightmaps/Monsters/Mage Imp/TRO2H1.png"
+}
+
+brightmap sprite TRO2H2H8 {
+  map "brightmaps/Monsters/Mage Imp/TRO2H2H8.png"
+}
+
+brightmap sprite TRO2H3H7 {
+  map "brightmaps/Monsters/Mage Imp/TRO2H3H7.png"
+}
+
+brightmap sprite TRO2H4H6 {
+  map "brightmaps/Monsters/Mage Imp/TRO2H4H6.png"
+}
+
+brightmap sprite TRO2H5 {
+  map "brightmaps/Monsters/Mage Imp/TRO2H5.png"
+}
+
+brightmap sprite TRO2I0 {
+  map "brightmaps/Monsters/Mage Imp/TRO2I0.png"
+}
+
+brightmap sprite TRO2J0 {
+  map "brightmaps/Monsters/Mage Imp/TRO2J0.png"
+}
+
+brightmap sprite TRO2K0 {
+  map "brightmaps/Monsters/Mage Imp/TRO2K0.png"
+}

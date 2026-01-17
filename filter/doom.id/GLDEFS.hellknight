@@ -1,0 +1,239 @@
+brightmap sprite BOS2A1C1 {
+  map "brightmaps/Monsters/Hell Knight/BOS2A1C1.png"
+}
+
+brightmap sprite BOS2A2C8 {
+  map "brightmaps/Monsters/Hell Knight/BOS2A2C8.png"
+}
+
+brightmap sprite BOS2A3C7 {
+  map "brightmaps/Monsters/Hell Knight/BOS2A3C7.png"
+}
+
+brightmap sprite BOS2A4C6 {
+  map "brightmaps/Monsters/Hell Knight/BOS2A4C6.png"
+}
+
+brightmap sprite BOS2A5C5 {
+  map "brightmaps/Monsters/Hell Knight/BOS2A5C5.png"
+}
+
+brightmap sprite BOS2A6C4 {
+  map "brightmaps/Monsters/Hell Knight/BOS2A6C4.png"
+}
+
+brightmap sprite BOS2A7C3 {
+  map "brightmaps/Monsters/Hell Knight/BOS2A7C3.png"
+}
+
+brightmap sprite BOS2A8C2 {
+  map "brightmaps/Monsters/Hell Knight/BOS2A8C2.png"
+}
+
+brightmap sprite BOS2A1C1 {
+  map "brightmaps/Monsters/Hell Knight/BOS2A1C1.png"
+}
+
+brightmap sprite BOS2B2D8 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B2D8.png"
+}
+
+brightmap sprite BOS2B3D7 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B3D7.png"
+}
+
+brightmap sprite BOS2B4D6 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B4D6.png"
+}
+
+brightmap sprite BOS2B5D5 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B5D5.png"
+}
+
+brightmap sprite BOS2B6D4 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B6D4.png"
+}
+
+brightmap sprite BOS2B7D3 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B7D3.png"
+}
+
+brightmap sprite BOS2B8D2 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B8D2.png"
+}
+
+brightmap sprite BOS2B1D1 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B1D1.png"
+}
+
+brightmap sprite BOS2B2D8 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B2D8.png"
+}
+
+brightmap sprite BOS2B3D7 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B3D7.png"
+}
+
+brightmap sprite BOS2B4D6 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B4D6.png"
+}
+
+brightmap sprite BOS2B5D5 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B5D5.png"
+}
+
+brightmap sprite BOS2B6D4 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B6D4.png"
+}
+
+brightmap sprite BOS2B7D3 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B7D3.png"
+}
+
+brightmap sprite BOS2B8D2 {
+  map "brightmaps/Monsters/Hell Knight/BOS2B8D2.png"
+}
+
+brightmap sprite BOS2E1 {
+  map "brightmaps/Monsters/Hell Knight/BOS2E1.png"
+}
+
+brightmap sprite BOS2E2 {
+  map "brightmaps/Monsters/Hell Knight/BOS2E2.png"
+}
+
+brightmap sprite BOS2E3 {
+  map "brightmaps/Monsters/Hell Knight/BOS2E3.png"
+}
+
+brightmap sprite BOS2E4 {
+  map "brightmaps/Monsters/Hell Knight/BOS2E4.png"
+}
+
+brightmap sprite BOS2E5 {
+  map "brightmaps/Monsters/Hell Knight/BOS2E5.png"
+}
+
+brightmap sprite BOS2E6 {
+  map "brightmaps/Monsters/Hell Knight/BOS2E6.png"
+}
+
+brightmap sprite BOS2E7 {
+  map "brightmaps/Monsters/Hell Knight/BOS2E7.png"
+}
+
+brightmap sprite BOS2E8 {
+  map "brightmaps/Monsters/Hell Knight/BOS2E8.png"
+}
+
+brightmap sprite BOS2F1 {
+  map "brightmaps/Monsters/Hell Knight/BOS2F1.png"
+}
+
+brightmap sprite BOS2F2 {
+  map "brightmaps/Monsters/Hell Knight/BOS2F2.png"
+}
+
+brightmap sprite BOS2F3 {
+  map "brightmaps/Monsters/Hell Knight/BOS2F3.png"
+}
+
+brightmap sprite BOS2F4 {
+  map "brightmaps/Monsters/Hell Knight/BOS2F4.png"
+}
+
+brightmap sprite BOS2F5 {
+  map "brightmaps/Monsters/Hell Knight/BOS2F5.png"
+}
+
+brightmap sprite BOS2F6 {
+  map "brightmaps/Monsters/Hell Knight/BOS2F6.png"
+}
+
+brightmap sprite BOS2F7 {
+  map "brightmaps/Monsters/Hell Knight/BOS2F7.png"
+}
+
+brightmap sprite BOS2F8 {
+  map "brightmaps/Monsters/Hell Knight/BOS2F8.png"
+}
+
+brightmap sprite BOS2G1 {
+  map "brightmaps/Monsters/Hell Knight/BOS2G1.png"
+}
+
+brightmap sprite BOS2G2 {
+  map "brightmaps/Monsters/Hell Knight/BOS2G2.png"
+}
+
+brightmap sprite BOS2G3 {
+  map "brightmaps/Monsters/Hell Knight/BOS2G3.png"
+}
+
+brightmap sprite BOS2G4 {
+  map "brightmaps/Monsters/Hell Knight/BOS2G4.png"
+}
+
+brightmap sprite BOS2G5 {
+  map "brightmaps/Monsters/Hell Knight/BOS2G5.png"
+}
+
+brightmap sprite BOS2G6 {
+  map "brightmaps/Monsters/Hell Knight/BOS2G6.png"
+}
+
+brightmap sprite BOS2G7 {
+  map "brightmaps/Monsters/Hell Knight/BOS2G7.png"
+}
+
+brightmap sprite BOS2G8 {
+  map "brightmaps/Monsters/Hell Knight/BOS2G8.png"
+}
+
+brightmap sprite BOS2H1 {
+  map "brightmaps/Monsters/Hell Knight/BOS2H1.png"
+}
+
+brightmap sprite BOS2H2 {
+  map "brightmaps/Monsters/Hell Knight/BOS2H2.png"
+}
+
+brightmap sprite BOS2H3 {
+  map "brightmaps/Monsters/Hell Knight/BOS2H3.png"
+}
+
+brightmap sprite BOS2H4 {
+  map "brightmaps/Monsters/Hell Knight/BOS2H4.png"
+}
+
+brightmap sprite BOS2H5 {
+  map "brightmaps/Monsters/Hell Knight/BOS2H5.png"
+}
+
+brightmap sprite BOS2H6 {
+  map "brightmaps/Monsters/Hell Knight/BOS2H6.png"
+}
+
+brightmap sprite BOS2H7 {
+  map "brightmaps/Monsters/Hell Knight/BOS2H7.png"
+}
+
+brightmap sprite BOS2H8 {
+  map "brightmaps/Monsters/Hell Knight/BOS2H8.png"
+}
+
+brightmap sprite BOS2I0 {
+  map "brightmaps/Monsters/Hell Knight/BOS2I0.png"
+}
+
+brightmap sprite BOS2J0 {
+  map "brightmaps/Monsters/Hell Knight/BOS2J0.png"
+}
+
+brightmap sprite BOS2K0 {
+  map "brightmaps/Monsters/Hell Knight/BOS2K0.png"
+}
+
+brightmap sprite BOS2L0 {
+  map "brightmaps/Monsters/Hell Knight/BOS2L0.png"
+}
