@@ -68,13 +68,13 @@ The Hunter Shotgun Zombieman has been replaced with a recolored version to give 
 ![hunter-zombieman](../../screenshots/hunter-zombieman.png)  
 _Credits: Project Malice Team, id Software_ -->
 
-<!-- ##### Greely Zombieman
+##### Greely Zombieman
 _Requires [HDest Misc. Mons](https://github.com/tedthepraimortis/Hideous-MiscMons)_
 
 The Greely Zombieman has been replaced with a recolored version to give them a darker, spookier appearance.
 
 ![greely-zombieman](../../screenshots/greely-zombieman.png)  
-_Credits: Project Malice Team, Mark Quinn, Vegeta, Ghastly\_Dragon, MagicWazard, id Software_ -->
+_Credits: Project Malice Team, Mark Quinn, Vegeta, Ghastly\_Dragon, MagicWazard, id Software_
 
 ##### MAC-10 Zombieman
 _Requires [Caesar Salad](https://github.com/HDest-Community/PB_HDAddon_CaesarSalad)_
