@@ -40,7 +40,7 @@ _Credits: Project Malice Team, id Software_
 ##### Pistol Zombieman
 _Requires [HDest Re-Enforcements](https://github.com/FDAapproved/HDest-Re-Enforcements)_
 
-The Pistol Zombieman has been replaced with a UAC Office employee, tweaked .
+The Pistol Zombieman has been replaced with a UAC Office employee, tweaked a bit to match the spooky vibes of the rest of the zombie variants.
 
 ![pistol-zombieman](../../screenshots/pistol-zombieman.png)  
 _Credits: Solmyr, Scalliano, Ghostbusters Doom Team, id Software_
@@ -48,18 +48,18 @@ _Credits: Solmyr, Scalliano, Ghostbusters Doom Team, id Software_
 ##### 10mm Pistol Zombieman
 _Requires [Radtech Zombies](https://github.com/swampyrad/RadTechZombies)_
 
-The Pistol Zombieman has been replaced with a recolored version to give them a darker, spookier appearance.
+The 10mm Pistol Zombieman has been replaced with a recolored version to give them a darker, spookier appearance.
 
 ![10mm-pistol-zombieman](../../screenshots/10mm-pistol-zombieman.png)  
 _Credits: Project Malice Team, id Software_
 
-<!-- ##### Sig-Cow Zombieman
+##### Sig-Cow Zombieman
 _Requires [Radtech Zombies](https://github.com/swampyrad/RadTechZombies)_
 
 The Sig-cow Zombieman has been replaced with a recolored version to give them a darker, spookier appearance.
 
 ![10mm-rifle-zombieman](../../screenshots/10mm-rifle-zombieman.png)  
-_Credits: Project Malice Team, Skelegant, David G., id Software_ -->
+_Credits: Project Malice Team, Skelegant, David G., id Software_
 
 <!-- ##### Hunter Shotgun Zombieman
 
