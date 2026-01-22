@@ -61,12 +61,12 @@ The Sig-cow Zombieman has been replaced with a recolored version to give them a 
 ![10mm-rifle-zombieman](../../screenshots/10mm-rifle-zombieman.png)  
 _Credits: Project Malice Team, Skelegant, David G., id Software_
 
-<!-- ##### Hunter Shotgun Zombieman
+##### Hunter Shotgun Zombieman
 
 The Hunter Shotgun Zombieman has been replaced with a recolored version to give them a darker, spookier appearance.
 
 ![hunter-zombieman](../../screenshots/hunter-zombieman.png)  
-_Credits: Project Malice Team, id Software_ -->
+_Credits: Project Malice Team, id Software_
 
 ##### Greely Zombieman
 _Requires [HDest Misc. Mons](https://github.com/tedthepraimortis/Hideous-MiscMons)_
