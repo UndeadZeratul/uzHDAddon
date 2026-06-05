@@ -82,7 +82,7 @@ MERCH_FLAVOR_355                  = "Rarer than diamonds.";
 
 // .4mm
 MERCH_CAT_4MM                     = "$$MERCH_CAT_AMMO_RIFLE";
-MERCH_TAG_4MM                     = "4.26mm UAC Standard Caseless Rounds";
+MERCH_TAG_4MM                     = "$$TAG_4MM_BOX";
 MERCH_FLAVOR_4MM                  = "It's like candy, pops in your mouth!";
 
 // .420 Frei

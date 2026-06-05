@@ -1180,6 +1180,7 @@ PICKUP_ARMORPLATE                = "Picked up an armor plate.";
 
 TAG_9MM_BOX                      = "9x22mm Parampudicum Ammo Box";
 TAG_SHELL_BOX                    = "12ga 00 Buckshot Shell Box";
+TAG_4MM_BOX                      = "4.26mm UAC Standard Caseless Round Ammo Box";
 TAG_7MM_BOX                      = "7.76mm Ammo Box";
 TAG_355_BOX                      = ".355 Masterball Ammo Box";
 TAG_RPG_BOX                      = "40mm Rocket Grenade Box";
