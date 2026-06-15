@@ -38,6 +38,9 @@ MERCH_CAT_MAG_RIFLE               = "Rifle Magazines";
 MERCH_CAT_MAG_SHOTGUN             = "Shotgun Magazines";
 MERCH_CAT_MAG_SMG                 = "SMG Magazines";
 
+MERCH_CAT_MONGOOSE_POWERSUIT      = "\"Mongoose\" Powersuit";
+MERCH_CAT_MONGOOSE_WEAPON         = "\"Mongoose\" Weapons";
+
 MERCH_CAT_ROBOT                   = "Robots";
 
 MERCH_CAT_WEAPON_AUTORIFLE        = "Automatic Rifles";
@@ -1699,7 +1702,7 @@ MERCH_TAG_MA76C                   = "$$WAN_TAG_MA76C";
 MERCH_FLAVOR_MA76C                = "It's like the MA-75B but smaller.";
 
 // MAC10
-MERCH_CAT_MAC10                   = "$$MERCH_CAT_WEAPON_HANDGUN";
+MERCH_CAT_MAC10                   = "$$MERCH_CAT_WEAPON_SMG";
 MERCH_TAG_MAC10                   = "$$TAG_MAC10";
 MERCH_FLAVOR_MAC10                = "Ferocious little box that spits hot lead and anger. Don't lose your grip.";
 
@@ -2054,22 +2057,22 @@ MERCH_FLAVOR_ZORCHER              = "These don't come with a cereal box. Sorry."
 // -------------------
 
 // Mongoose Powersuit
-MERCH_CAT_POWERSUIT               = "\"Mongoose\" Powersuit";
+MERCH_CAT_POWERSUIT               = "$$MERCH_CAT_MONGOOSE_POWERSUIT";
 MERCH_TAG_POWERSUIT               = "\"Mongoose\" Powersuit";
 MERCH_FLAVOR_POWERSUIT            = "Your personal powermech which doesn't even require a class M driver's license. Yay!";
 
 // Mongoose Powersuit Core
-MERCH_CAT_POWERSUITCORE           = "\"Mongoose\" Powersuit";
+MERCH_CAT_POWERSUITCORE           = "$$MERCH_CAT_MONGOOSE_POWERSUIT";
 MERCH_TAG_POWERSUITCORE           = "\"Mongoose\" Powersuit Core";
 MERCH_FLAVOR_POWERSUITCORE        = "You can't even hide in there.";
 
 // Mongoose Powersuit Arms
-MERCH_CAT_POWERSUITARMS           = "\"Mongoose\" Powersuit";
+MERCH_CAT_POWERSUITARMS           = "$$MERCH_CAT_MONGOOSE_POWERSUIT";
 MERCH_TAG_POWERSUITARMS           = "\"Mongoose\" Powersuit Arms";
 MERCH_FLAVOR_POWERSUITARMS        = "Ruki-zagrebuki.";
 
 // Mongoose Powersuit Legs
-MERCH_CAT_POWERSUITLEGS           = "\"Mongoose\" Powersuit";
+MERCH_CAT_POWERSUITLEGS           = "$$MERCH_CAT_MONGOOSE_POWERSUIT";
 MERCH_TAG_POWERSUITLEGS           = "\"Mongoose\" Powersuit Legs";
 MERCH_FLAVOR_POWERSUITLEGS        = "Left! Right! Left! Right!";
 
@@ -2079,26 +2082,26 @@ MERCH_FLAVOR_POWERSUITLEGS        = "Left! Right! Left! Right!";
 // -------------------
 
 // "Athena" Light Cannon
-MERCH_CAT_ATHENALIGHTCANNON       = "\"Mongoose\" Weapons";
+MERCH_CAT_ATHENALIGHTCANNON       = "$$MERCH_CAT_MONGOOSE_WEAPON";
 MERCH_TAG_ATHENALIGHTCANNON       = "\"Athena\" light cannon";
 MERCH_FLAVOR_ATHENALIGHTCANNON    = "You wanna fight a cyberdemon 1 on 1? Well, this is for you.";
 
 // "Calinicus" Automatic Grenade Launcher
-MERCH_CAT_CALINICUSAUTOLAUNCHER   = "\"Mongoose\" Weapons";
+MERCH_CAT_CALINICUSAUTOLAUNCHER   = "$$MERCH_CAT_MONGOOSE_WEAPON";
 MERCH_TAG_CALINICUSAUTOLAUNCHER   = "\"Calinicus\" automatic grenade launcher";
 MERCH_FLAVOR_CALINICUSAUTOLAUNCHER= "For when a crowd of zombies stands in your way.";
 
 // "Jackripper" Hybrid Machine Gun
-MERCH_CAT_JACKRIPPERHYBRIDMG      = "\"Mongoose\" Weapons";
+MERCH_CAT_JACKRIPPERHYBRIDMG      = "$$MERCH_CAT_MONGOOSE_WEAPON";
 MERCH_TAG_JACKRIPPERHYBRIDMG      = "\"Jackripper\" hybrid machine gun";
 MERCH_FLAVOR_JACKRIPPERHYBRIDMG   = "Can't choose between 12 gauge and 9mm? Then why not both?";
 
 // "Leonidas" Light Machine Gun
-MERCH_CAT_LEONIDASLIGHTMG         = "\"Mongoose\" Weapons";
+MERCH_CAT_LEONIDASLIGHTMG         = "$$MERCH_CAT_MONGOOSE_WEAPON";
 MERCH_TAG_LEONIDASLIGHTMG         = "\"Leonidas\" light machine gun";
 MERCH_FLAVOR_LEONIDASLIGHTMG      = "Basically the Vulcanette. Almost.";
 
 // ZMG33 Light Machine Gun
-MERCH_CAT_ZMG33                   = "\"Mongoose\" Weapons";
+MERCH_CAT_ZMG33                   = "$$MERCH_CAT_MONGOOSE_WEAPON";
 MERCH_TAG_ZMG33                   = "ZMG33 light machine gun";
 MERCH_FLAVOR_ZMG33                = "Liberator on steroids.";
