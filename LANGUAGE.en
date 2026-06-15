@@ -1,3 +1,42 @@
+[en enc eng eni ena enz]
+
+//-------------------------------------
+// Utility Item Tags
+//-------------------------------------
+
+// AceCorp: Engineering Department
+TAG_ARMORPATCHKIT                = "UAC Specialist Armour Patch Kit";
+
+
+//-------------------------------------
+// Armour Tags
+//-------------------------------------
+
+// Armour Pickups
+TAG_ARMOUR                       = "Armour";
+TAG_GARRISONARMOUR               = "UAC Standard Infantry Armour";
+TAG_BATTLEARMOUR                 = "UAC Specialist Battle Armour";
+TAG_HEVARMOUR                    = "UAC Specialist Hazardous Environment Armour";
+
+// Spare Armour
+TAG_GARRISONARMOURWORN           = "UAC Standard Infantry Armour";
+TAG_BATTLEARMOURWORN             = "UAC Specialist Battle Armour";
+TAG_HEVARMOURSPARE               = "UAC Specialist Hazardous Environment Armour";
+
+// PB's Armour Plates
+TAG_ARMORPLATE                   = "UAC Standard Ceramic Armour Plate";
+
+
+//-------------------------------------
+// Armour Pickup Messages
+//-------------------------------------
+
+PICKUP_GARRISONARMOUR            = "Picked up a suit of infantry armour.";
+PICKUP_BATTLEARMOUR              = "Picked up a suit of battle armour.";
+PICKUP_HEVARMOUR                 = "Picked up a suit of H.E.V. armour.";
+PICKUP_ARMORPLATE                = "Picked up an armour plate.";
+
+
 [enu default]
 
 //-------------------------------------
@@ -188,6 +227,9 @@ TAG_SURVIVALISTRIFLE_FNV         = "Sawyer R50 \"Grendel\" .50 AM Rifle";
 TAG_TERMINATOR                   = "Raycob Exterminator 12ga \"Shotgun\"";
 TAG_URAGAN5                      = "Arkoudi M12/5 12ga Revolver Shotgun";
 TAG_WPGRENADES                   = "M70 White Phosphorus Grenades";
+
+// PB's M14 Shorty
+TAG_M14K                         = "Buger \"Micro Seven\" M14-K 7.76mm Carbine";
 
 // Radtech Weapons Pack
 TAG_10PIS                        = "Volt N1911 \"Delta Elite\" 10mm Pistol";
@@ -579,11 +621,11 @@ TAG_JACKET                       = "Leather Jacket";
 TAG_HHELMET                      = "UAC Standard Infantry Helmet";
 
 // Spare Armour
-TAG_GARRISONARMOUR_SPARE         = "UAC Standard Infantry Armor (spare)";
-TAG_BATTLEARMOUR_SPARE           = "UAC Specialist Battle Armor (spare)";
-TAG_HEVARMOURSPARE               = "Hazardous Environment Armor (spare)";
-TAG_JACKETSPARE                  = "Leather Jacket (spare)";
-TAG_HHELMETSPARE                 = "UAC Standard Infantry Helmet (spare)";
+TAG_GARRISONARMOURWORN           = "UAC Standard Infantry Armor";
+TAG_BATTLEARMOURWORN             = "UAC Specialist Battle Armor";
+TAG_HEVARMOURSPARE               = "UAC Specialist Hazardous Environment Armor";
+TAG_JACKETSPARE                  = "Leather Jacket";
+TAG_HHELMETSPARE                 = "UAC Standard Infantry Helmet";
 
 // PB's Armor Plates
 TAG_ARMORPLATE                   = "UAC Standard Ceramic Armor Plate";
@@ -760,6 +802,9 @@ PICKUP_SURVIVALISTRIFLE_FNV      = "Picked up a Sawyer R50 \"Grendel\" .50 AM Ri
 PICKUP_TERMINATOR                = "Picked up a Raycob Exterminator 12ga \"Shotgun\".";
 PICKUP_URAGAN5                   = "Picked up an Arkoudi M12/5 12ga Revolver Shotgun.";
 PICKUP_WPGRENADES                = "Picked up a M70 White Phosphorus Grenade.";
+
+// PB's M14 Shorty
+PICKUP_M14K                      = "Picked up a Buger \"Micro Seven\" M14-K 7.76mm Carbine.";
 
 // Peppergrinder
 PEPPER_PICKUP_AUROCHS            = "Picked up a VPF Arms \"Aurochs\" .451 Single-Action Revolver.";

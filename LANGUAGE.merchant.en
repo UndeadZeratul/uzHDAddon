@@ -1,3 +1,36 @@
+[en enc eng eni ena enz]
+
+// -------------------
+// COMMON VARIABLES
+// -------------------
+
+MERCH_CAT_ARMOR_BODY              = "Body Armour";
+
+
+// -------------------
+// ARMOUR
+// -------------------
+
+MERCH_FLAVOR_ARMORPLATE           = "When you want even more protection. Only fits in UAC Standard Armour";
+MERCH_TAG_BATTLEARMOURPATCH       = "UAC Specialist Battle Armour Patch";
+MERCH_TAG_CORPORATEARMOUR         = "UAC Corporate Armour";
+MERCH_TAG_GARRISONARMOURPATCH     = "UAC Standard Infantry Garrison Armour Patch";
+
+
+// -------------------
+// ITEMS
+// -------------------
+
+MERCH_FLAVOR_FAK                  = "Armour almost gone? Shield generator giving out? Well go FAK yourself.";
+
+
+// -------------------
+// WEAPONS
+// -------------------
+
+MERCH_FLAVOR_355SMG               = "Armoured marines got you down? No problem!";
+
+
 [enu default]
 
 // -------------------
@@ -1675,6 +1708,11 @@ MERCH_FLAVOR_LOTUS                = "Carbine, but it's really a revolver. Why?";
 MERCH_CAT_M1GARAND                = "$$MERCH_CAT_WEAPON_RIFLE";
 MERCH_TAG_M1GARAND                = "$$TAG_GARAND";
 MERCH_FLAVOR_M1GARAND             = "PING! PING!";
+
+// M14 Shorty
+MERCH_CAT_M14K                    = "$$MERCH_CAT_WEAPON_CARBINE";
+MERCH_TAG_M14K                    = "$$TAG_M14K";
+MERCH_FLAVOR_M14K                 = "All that kick in such a small package.";
 
 // M2HB
 MERCH_CAT_M2HB                    = "$$MERCH_CAT_WEAPON_HEAVY";
