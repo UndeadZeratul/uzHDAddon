@@ -19,4 +19,13 @@ Sprite "SYRGA0", 5, 16
 	}
 }
 
+Sprite FMKTB0, 39, 19
+{
+    Offset 19, 19
+    patch FMKTA0, 0, 0
+	{
+		FlipY
+	}
+}
+
 // End of texture definitions
