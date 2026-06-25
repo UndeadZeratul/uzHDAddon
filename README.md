@@ -266,6 +266,14 @@ The Scopeless Boss Rifle has had its Ironsight dots recolored to match the retic
 ![no-scope-boss](./screenshots/no-scope-boss.png)  
 _Credits: HexaDoken_
 
+#### Designated Marksman Rifle
+_Requires [1337Weps](https://gitlab.com/a1337spy/1337weps)_
+
+The DMR has been replaced with an Alternate ZM-66 Sprite by Bryan, conveniently with its own purple scope lens!
+
+![dmr](./screenshots/dmr.png)  
+_Credits: Bryan_
+
 #### PD-42
 _Requires [Icarus Innovations Improved](https://github.com/HDest-Community/icarus-innovations-improved)_
 
