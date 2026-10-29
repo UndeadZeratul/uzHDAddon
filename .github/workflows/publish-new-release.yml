@@ -1,0 +1,21 @@
+name: Publish New Release
+
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - closed
+
+jobs:
+  release:
+    name: Publish New Release
+    runs-on: ubuntu-slim
+
+    if: github.event.pull_request.merged == true && (startsWith(github.event.pull_request.head.ref, 'release/') || startsWith(github.event.pull_request.head.ref, 'hotfix/'))
+
+    steps:
+    - uses: HDest-Community/.github/workflows/publish-release@main
+      with:
+        branch: ${{ github.event.pull_request.head.ref }}
+        target: ${{ github.event.pull_request.merge_commit_sha }}

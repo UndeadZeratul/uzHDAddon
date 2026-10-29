@@ -1,0 +1,14 @@
+name: CI Build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: CI Build
+    runs-on: ubuntu-slim
+
+    steps:
+      - uses: HDest-Community/.github/workflows/ci-build@main
