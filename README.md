@@ -1,6 +1,6 @@
 # UZ's Hideous Destructor Addon
 
-[![Nightly Build](https://github.com/UndeadZeratul/uzHDAddon/actions/workflows/nightly.yml/badge.svg)](https://github.com/UndeadZeratul/uzHDAddon/actions/workflows/nightly.yml)
+[![Nightly Build](https://github.com/UndeadZeratul/uzHDAddon/actions/workflows/ci-build.yml/badge.svg)](https://github.com/UndeadZeratul/uzHDAddon/actions/workflows/ci-build.yml)
 
 This is my personal collection of recolor/resprite/resound assets for the GZDoom gameplay mod, "Hideous Destructor".  As it's my personal collection of changes, there are several various mods it makes changes to.
 
