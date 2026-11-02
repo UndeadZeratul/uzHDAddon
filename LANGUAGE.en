@@ -423,7 +423,7 @@ TAG_USPMAG                       = "USP .45 ACP Magazine";
 
 // PB's Bangers & Mash
 TAG_35MM_BELTBOX                 = "35mm Anti-Material Beltbox";
-TAG_50AM_MAG                     = "SP-50 .50 Aaction Mega Magazine";
+TAG_50AM_MAG                     = "SP-50 .50 Action Mega Magazine";
 TAG_50OMG_BELTBOX                = ".50 OMG Belt Box";
 TAG_7MM_BELTBOX                  = "7.76mm Belt Box";
 TAG_BUGERM22_MAG                 = "Buger M22 5x12mm BR Magazine";
